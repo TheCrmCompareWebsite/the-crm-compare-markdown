@@ -343,6 +343,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [realtyjuggler.com](https://www.realtyjuggler.com/) | [lwolf.com/products/relationships](https://www.lwolf.com/products/relationships) |
 | Full report | [RealtyJuggler report](../reports/realtyjuggler.md) | [Lone Wolf Relationships report](../reports/lone-wolf-relationships.md) |
 
+## Frequently asked questions
+
+### Which is better, RealtyJuggler or Lone Wolf Relationships?
+
+RealtyJuggler scores higher overall: 9.8 to 5.1 out of 10. It wins on features, reviews, value, terms of service, support and governance.
+
+### Which is cheaper, RealtyJuggler or Lone Wolf Relationships?
+
+RealtyJuggler: its typical plan costs $179 a year, against $399 for Lone Wolf Relationships (Relationships).
+
+### Which has more features, RealtyJuggler or Lone Wolf Relationships?
+
+RealtyJuggler, with 103.5 of 119 points on our feature checklist against 30 for Lone Wolf Relationships.
+
+### Do RealtyJuggler and Lone Wolf Relationships have free trials?
+
+RealtyJuggler has a 90-day free trial (no credit card needed); Lone Wolf Relationships has a 14-day free trial (no credit card needed).
+
+### Who should choose RealtyJuggler and who should choose Lone Wolf Relationships?
+
+RealtyJuggler is the better fit for new agents, average agents and agents with an assistant; Lone Wolf Relationships is the better fit for franchises. The full reports: [RealtyJuggler](../reports/realtyjuggler.md) and [Lone Wolf Relationships](../reports/lone-wolf-relationships.md).
+
 ## Related comparisons
 
 - [RealtyJuggler vs Wise Agent](realtyjuggler-vs-wise-agent.md)

@@ -311,6 +311,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [realtyjuggler.com](https://www.realtyjuggler.com/) | [apptivo.com](https://www.apptivo.com) |
 | Full report | [RealtyJuggler report](../reports/realtyjuggler.md) | [Apptivo report](../reports/apptivo.md) |
 
+## Frequently asked questions
+
+### Which is better, RealtyJuggler or Apptivo?
+
+RealtyJuggler scores higher overall: 9.8 to 7.7 out of 10. It wins on features, reviews, value, support and governance.
+
+### Which is cheaper, RealtyJuggler or Apptivo?
+
+RealtyJuggler: its typical plan costs $179 a year, against $480 for Apptivo (Ultimate).
+
+### Which has more features, RealtyJuggler or Apptivo?
+
+RealtyJuggler, with 103.5 of 119 points on our feature checklist against 63.5 for Apptivo.
+
+### Do RealtyJuggler and Apptivo have free trials?
+
+RealtyJuggler has a 90-day free trial (no credit card needed); Apptivo has a 14-day free trial (no credit card needed).
+
+### Who should choose RealtyJuggler and who should choose Apptivo?
+
+RealtyJuggler is the better fit for new agents, average agents, agents with an assistant and offices. The full reports: [RealtyJuggler](../reports/realtyjuggler.md) and [Apptivo](../reports/apptivo.md).
+
 ## Related comparisons
 
 - [RealtyJuggler vs Wise Agent](realtyjuggler-vs-wise-agent.md)

@@ -591,6 +591,52 @@ At more than $10,000 per year for the smallest purchase, it is poor value for an
 - [PropertyBase Salesforce Edition vs Brivity](../comparisons/brivity-vs-propertybase-salesforce-edition.md)
 - [PropertyBase Salesforce Edition vs Real Geeks](../comparisons/propertybase-salesforce-edition-vs-real-geeks.md)
 
+## Frequently asked questions
+
+### How much does PropertyBase Salesforce Edition cost?
+
+PropertyBase Salesforce Edition's typical plan, Propertybase Salesforce Edition, costs $10,680 a year, more than the median of $1,044 a year across the 26 CRMs we scored. Add-ons such as Additional user, Implementation (professional services) and Premier onboarding cost extra.
+
+### Does PropertyBase Salesforce Edition have a free trial?
+
+No, we found no free trial. The longest trial we found is 90 days: see [the CRMs with the longest free trials](https://thecrmcomparewebsite.github.io/the-crm-compare-website/blog/longest-free-trial-crm.html).
+
+### Who is PropertyBase Salesforce Edition best for?
+
+PropertyBase Salesforce Edition is built for real estate. We rate it ideal for offices and franchises.
+
+### Is PropertyBase Salesforce Edition a good CRM for real estate agents?
+
+PropertyBase Salesforce Edition scores 4.6 out of 10, #21 of the 26 CRMs we scored. Its best category is governance (8.3) and its weakest is value (1). Propertybase Salesforce Edition is a real estate-specific CRM built for brokerage offices and franchise groups that want every agent working in one controlled system.
+
+### What do customers say about PropertyBase Salesforce Edition?
+
+Across 86 ratings on 6 review sites, PropertyBase Salesforce Edition averages 3.4 stars, and 60% of ratings are four or five stars. Reviewers report problems that stay unfixed, oversold capabilities and billing disputes, nearly a third of ratings are one or two stars, and no review is less than two years old.
+
+### Does PropertyBase Salesforce Edition have a mobile app?
+
+Yes. iOS and Android mobile app with dashboards, MLS browser and media manager.
+
+### Does PropertyBase Salesforce Edition connect to the MLS?
+
+Partly. MLS search and matching need a Propertybase Website, sold separately.
+
+### Can you text clients from PropertyBase Salesforce Edition?
+
+Not that we could find.
+
+### Can I import my contacts into PropertyBase Salesforce Edition?
+
+Yes. Import Wizard and Data Loader import CSV files from any source, with templates.
+
+### Who makes PropertyBase Salesforce Edition?
+
+Lone Wolf Real Estate Technologies, Inc., based in Dallas, Texas, United States.
+
+### What are the best alternatives to PropertyBase Salesforce Edition?
+
+The alternatives our report compares it with: [RealtyJuggler](../reports/realtyjuggler.md) (9.8), [Brivity](../reports/brivity.md) (6.2) and [Real Geeks](../reports/real-geeks.md) (5.6). See [PropertyBase Salesforce Edition vs RealtyJuggler](../comparisons/propertybase-salesforce-edition-vs-realtyjuggler.md) side by side.
+
 ## Sources
 
 - Company website and helpdesk: [Propertybase by Lone Wolf](https://propertybase.lwolf.com/) · [Lone Wolf CRM products](https://www.lwolf.com/engage/crm) · [Support](https://www.lwolf.com/support) · [Support request page](https://help.propertybase.com/hc/en-us/requests/new) · [Contact](https://www.lwolf.com/contact) · [About](https://www.lwolf.com/about) · [Leadership](https://www.lwolf.com/leadership/matt-fischer) · [Training](https://www.lwolf.com/training-resources/propertybase-se) · [Help center article index](https://community.lwolf.com/s/sitemap-topicarticle-1.xml) (304 Salesforce Edition articles) · [Getting started for admins](https://community.lwolf.com/s/article/PBSE-Getting-started-with-Propertybase-SE-for-admins) · [Submit a support request](https://community.lwolf.com/s/article/PBSE-Submit-a-proper-support-request) · [Add a new portal lead source](https://community.lwolf.com/s/article/PBSE-Add-a-new-portal-lead-source-Propertybase) · [Authenticate your email domain](https://community.lwolf.com/s/article/PBSE-How-to-authenticate-your-email-domain) · [Data import tools](https://community.lwolf.com/s/article/PBSE-Data-import-tools-importing-your-data) · [Building a no-activity alert](https://community.lwolf.com/s/article/PBSE-Process-builder-send-alerts-or-change-record-status-if-there-has-been-no-activity-in-a-while) · [AppExchange listing](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N300000016ckJEAQ&tab=p) (also shows 369 AppExchange reviews, not used)

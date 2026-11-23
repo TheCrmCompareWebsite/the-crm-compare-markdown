@@ -597,6 +597,52 @@ As a purchase, the subscription is reasonable for what it does, but the paid set
 - [Insightly vs Wise Agent](../comparisons/insightly-vs-wise-agent.md)
 - [Insightly vs CloseCRM](../comparisons/closecrm-vs-insightly.md)
 
+## Frequently asked questions
+
+### How much does Insightly cost?
+
+Insightly's typical plan, Professional, costs $588 a year, less than the median of $1,044 a year across the 26 CRMs we scored. Its plans run from $348 a year (Plus) to $1,188 a year (Enterprise). Add-ons such as Guided Onboarding, Premier Support & Success Plan (20% of license, $3,000 minimum per year) and Insightly Marketing (Plus) cost extra.
+
+### Does Insightly have a free trial?
+
+Yes: 14 days, with no credit card needed. The longest trial we found is 90 days: see [the CRMs with the longest free trials](https://thecrmcomparewebsite.github.io/the-crm-compare-website/blog/longest-free-trial-crm.html).
+
+### Who is Insightly best for?
+
+Insightly is a general business CRM, not one built for real estate, so an agent has to set up lead routing, transactions and past-client follow-up themselves.
+
+### Is Insightly a good CRM for real estate agents?
+
+Insightly scores 6.4 out of 10, #8 of the 26 CRMs we scored. Its best category is terms of service (9) and its weakest is reviews (2). Insightly is a generic business CRM rather than a real estate system, and it suits no type of real estate buyer well: agents, teams, and offices would have to adapt it to their work at their own expense and would still lack some of the everyday tools a real estate CRM provides.
+
+### What do customers say about Insightly?
+
+Across 314 ratings on 11 review sites, Insightly averages 3.7 stars, and 69% of ratings are four or five stars. Users find it easy to learn, but slow or missing support, billing trouble, unfixed bugs and a large share of low ratings dominate the open review sites.
+
+### Does Insightly have a mobile app?
+
+Yes. Native iOS and Android apps; rebuilt in June 2026 with six features (such as audio notes) temporarily unavailable, and no offline mode.
+
+### Does Insightly connect to the MLS?
+
+No. No MLS or IDX listing import found; listings would have to be entered or imported into a custom object.
+
+### Can you text clients from Insightly?
+
+No. No built-in texting; SMS is available only through third-party apps such as RingCentral's Insightly app.
+
+### Can I import my contacts into Insightly?
+
+Yes. CSV/Excel import with field mapping, duplicate checks and update-by-Record-ID for contacts, leads, organizations, notes and tasks.
+
+### Who makes Insightly?
+
+Insightly, Inc., an Unbounce company, based in San Francisco, California, United States.
+
+### What are the best alternatives to Insightly?
+
+The alternatives our report compares it with: [RealtyJuggler](../reports/realtyjuggler.md) (9.8), [Wise Agent](../reports/wise-agent.md) (8.4) and [CloseCRM](../reports/closecrm.md) (6.9). See [Insightly vs RealtyJuggler](../comparisons/insightly-vs-realtyjuggler.md) side by side.
+
 ## Sources
 
 - Vendor website: [Home](https://www.insightly.com) · [Pricing](https://www.insightly.com/pricing-plans/?plan=crm) · [Guided Onboarding](https://www.insightly.com/onboarding/) · [Premier Support and Success](https://www.insightly.com/premier-support-and-success/) · [About](https://www.insightly.com/about/) · [Contact us](https://www.insightly.com/contact-us/) · [Support](https://www.insightly.com/support/) · [2025 product updates webinar](https://www.insightly.com/blog/resources/webinar-2025-product-updates/)

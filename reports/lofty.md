@@ -635,6 +635,52 @@ At about $3,600 per agent per year, Lofty is poor value for anyone who will not 
 - [Lofty vs Wise Agent](../comparisons/lofty-vs-wise-agent.md)
 - [Lofty vs IXACT Contact](../comparisons/ixact-contact-vs-lofty.md)
 
+## Frequently asked questions
+
+### How much does Lofty cost?
+
+Lofty's typical plan, Lofty Agent, costs $3,588 a year, more than the median of $1,044 a year across the 26 CRMs we scored. Its plans run from $3,588 a year (Lofty Agent) to $27,588 a year (Lofty Enterprise). Add-ons such as Account activation (setup) fee, Additional user (beyond the 2 included) and Growth call package (500 minutes) cost extra.
+
+### Does Lofty have a free trial?
+
+No, we found no free trial. The longest trial we found is 90 days: see [the CRMs with the longest free trials](https://thecrmcomparewebsite.github.io/the-crm-compare-website/blog/longest-free-trial-crm.html).
+
+### Who is Lofty best for?
+
+Lofty is built for real estate. We rate it ideal for high-volume teams.
+
+### Is Lofty a good CRM for real estate agents?
+
+Lofty scores 5.1 out of 10, #18 of the 26 CRMs we scored. Its best category is features (8.6) and its weakest is terms of service (1). Lofty is built only for real estate and best serves high-volume teams with a steady flow of new leads.
+
+### What do customers say about Lofty?
+
+Across 296 ratings on 10 review sites, Lofty averages 2.8 stars, and 45% of ratings are four or five stars. Reviewers like the all-in-one design and many find it easy to use, but nearly half of all ratings are one or two stars, driven by slow support, renewal and cancellation disputes, unfixed app bugs and oversold promises.
+
+### Does Lofty have a mobile app?
+
+Yes. Lofty offers native iOS and Android apps with leads, tasks, calling, texting, notifications and the Cowork AI assistant.
+
+### Does Lofty connect to the MLS?
+
+Yes. All listings from connected MLS feeds load into Listing Discovery and the IDX website, with the agent's and team's own listings matched automatically.
+
+### Can you text clients from Lofty?
+
+Yes. Two-way texting with leads from the lead profile, chat panel, Inbox and mobile app, using the included 2,000-text monthly package.
+
+### Can I import my contacts into Lofty?
+
+Yes. Imports CSV, XLS and XLSX files with column mapping to standard and custom fields, duplicate merge/skip, ownership and segment options, and 30-day reversal.
+
+### Who makes Lofty?
+
+Lofty Inc. (formerly Chime Technologies), a subsidiary of Moatable, Inc., based in Phoenix, Arizona, United States.
+
+### What are the best alternatives to Lofty?
+
+The alternatives our report compares it with: [RealtyJuggler](../reports/realtyjuggler.md) (9.8), [Wise Agent](../reports/wise-agent.md) (8.4) and [IXACT Contact](../reports/ixact-contact.md) (6.7). See [Lofty vs RealtyJuggler](../comparisons/lofty-vs-realtyjuggler.md) side by side.
+
 ## Sources
 
 - Vendor website: [Lofty CRM](https://lofty.com/real-estate/crm) · [Pricing](https://lofty.com/pricing) · [Home page](https://lofty.com/) · [About](https://lofty.com/about) · [Leadership](https://lofty.com/leadership) · [Contact](https://lofty.com/contact-us) · [News](https://lofty.com/news) · [Set up & Success Program](https://lofty.com/setup-success-program) · [Support services](https://lofty.com/support-services) · [Live training](https://lofty.com/training) · [Transaction management](https://lofty.com/feature/transaction) · [Lofty MCP](https://lofty.com/lofty-mcp) · [Chime is now Lofty](https://lofty.com/news/chime-is-now-lofty) · [House.ai launch](https://lofty.com/news/lofty-launches-house.ai) · [SB 690 release](https://lofty.com/news/lofty-helps-pass-senate-bill-690-into-law-eliminating-private-cipa-claims-against-california-businesses) · [Firepoint acquisition](https://lofty.com/news/loftyaquiresfirepoint)

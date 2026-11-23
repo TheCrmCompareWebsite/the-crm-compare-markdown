@@ -559,6 +559,52 @@ Grove is a fair value for a solo agent focused on past clients and referrals who
 - [Grove vs Wise Agent](../comparisons/grove-vs-wise-agent.md)
 - [Grove vs IXACT Contact](../comparisons/grove-vs-ixact-contact.md)
 
+## Frequently asked questions
+
+### How much does Grove cost?
+
+Grove's typical plan costs $600 a year, less than the median of $1,044 a year across the 26 CRMs we scored.
+
+### Does Grove have a free trial?
+
+Yes: 15 days, and you need a credit card to start it. The longest trial we found is 90 days: see [the CRMs with the longest free trials](https://thecrmcomparewebsite.github.io/the-crm-compare-website/blog/longest-free-trial-crm.html).
+
+### Who is Grove best for?
+
+Grove is built for real estate. We rate it ideal for average agents.
+
+### Is Grove a good CRM for real estate agents?
+
+Grove scores 6.2 out of 10, #13 of the 26 CRMs we scored. Its best category is terms of service (9) and its weakest is features (3.1). Grove is a real estate-specific CRM built for the experienced solo agent whose business comes from past clients and referrals.
+
+### What do customers say about Grove?
+
+Across 6 ratings on 1 review sites, Grove averages 2.5 stars, and 0% of ratings are four or five stars. Grove itself has no reviews yet; the score reflects six BBB complaints about the parent company's other products.
+
+### Does Grove have a mobile app?
+
+Not that we could find.
+
+### Does Grove connect to the MLS?
+
+Not that we could find.
+
+### Can you text clients from Grove?
+
+Not that we could find.
+
+### Can I import my contacts into Grove?
+
+Yes. CSV, Excel or JSON, with column matching.
+
+### Who makes Grove?
+
+Elm Street Technology, LLC, based in Frisco, Texas, United States.
+
+### What are the best alternatives to Grove?
+
+The alternatives our report compares it with: [RealtyJuggler](../reports/realtyjuggler.md) (9.8), [Wise Agent](../reports/wise-agent.md) (8.4) and [IXACT Contact](../reports/ixact-contact.md) (6.7). See [Grove vs RealtyJuggler](../comparisons/grove-vs-realtyjuggler.md) side by side.
+
 ## Sources
 
 - Company website: [Home](https://getgrove.com/) · [Features](https://getgrove.com/features) · [Pricing](https://getgrove.com/pricing) · [About](https://getgrove.com/about) · [Support](https://getgrove.com/support) · [Contact](https://getgrove.com/contact) · [Demo](https://getgrove.com/demo) · [Meet Grove (blog)](https://getgrove.com/blog/meet-grove-real-estate-crm-sphere-of-influence) · [Try Grove free through December 31 (blog)](https://getgrove.com/blog/try-grove-free-through-december-31-2026)

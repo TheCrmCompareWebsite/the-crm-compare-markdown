@@ -335,6 +335,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [realtyjuggler.com](https://www.realtyjuggler.com/) | [hubspot.com](https://www.hubspot.com/products/sales) |
 | Full report | [RealtyJuggler report](../reports/realtyjuggler.md) | [HubSpot Sales Hub report](../reports/hubspot-sales-hub.md) |
 
+## Frequently asked questions
+
+### Which is better, RealtyJuggler or HubSpot Sales Hub?
+
+RealtyJuggler scores higher overall: 9.8 to 5.4 out of 10. It wins on features, reviews, value, terms of service, support and governance.
+
+### Which is cheaper, RealtyJuggler or HubSpot Sales Hub?
+
+RealtyJuggler: its typical plan costs $179 a year, against $1,080 for HubSpot Sales Hub (Sales Hub Professional).
+
+### Which has more features, RealtyJuggler or HubSpot Sales Hub?
+
+RealtyJuggler, with 103.5 of 119 points on our feature checklist against 70.5 for HubSpot Sales Hub.
+
+### Do RealtyJuggler and HubSpot Sales Hub have free trials?
+
+RealtyJuggler has a 90-day free trial (no credit card needed); HubSpot Sales Hub has a 14-day free trial (no credit card needed).
+
+### Who should choose RealtyJuggler and who should choose HubSpot Sales Hub?
+
+RealtyJuggler is the better fit for new agents, average agents, agents with an assistant and offices. The full reports: [RealtyJuggler](../reports/realtyjuggler.md) and [HubSpot Sales Hub](../reports/hubspot-sales-hub.md).
+
 ## Related comparisons
 
 - [RealtyJuggler vs Wise Agent](realtyjuggler-vs-wise-agent.md)

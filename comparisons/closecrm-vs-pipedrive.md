@@ -300,6 +300,24 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [close.com](https://www.close.com) | [pipedrive.com](https://www.pipedrive.com) |
 | Full report | [CloseCRM report](../reports/closecrm.md) | [Pipedrive report](../reports/pipedrive.md) |
 
+## Frequently asked questions
+
+### Which is better, CloseCRM or Pipedrive?
+
+CloseCRM scores higher overall: 6.9 to 6.6 out of 10. It wins on reviews and terms of service; Pipedrive wins on features, value and support.
+
+### Which is cheaper, CloseCRM or Pipedrive?
+
+Pipedrive: its typical plan (Growth) costs $468 a year, against $1,188 for CloseCRM (Growth).
+
+### Which has more features, CloseCRM or Pipedrive?
+
+Pipedrive, with 62 of 119 points on our feature checklist against 55.5 for CloseCRM.
+
+### Do CloseCRM and Pipedrive have free trials?
+
+CloseCRM has a 14-day free trial (no credit card needed); Pipedrive has a 14-day free trial (no credit card needed).
+
 ## Related comparisons
 
 - [CloseCRM vs RealtyJuggler](closecrm-vs-realtyjuggler.md)

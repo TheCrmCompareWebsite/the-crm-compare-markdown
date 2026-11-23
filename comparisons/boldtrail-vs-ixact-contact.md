@@ -304,6 +304,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [ixactcontact.com](https://www.ixactcontact.com) | [boldtrail.com](https://boldtrail.com) |
 | Full report | [IXACT Contact report](../reports/ixact-contact.md) | [BoldTrail report](../reports/boldtrail.md) |
 
+## Frequently asked questions
+
+### Which is better, IXACT Contact or BoldTrail?
+
+IXACT Contact scores higher overall: 6.7 to 4.5 out of 10. It wins on features, reviews, value, terms of service and support; BoldTrail wins on governance.
+
+### Which is cheaper, IXACT Contact or BoldTrail?
+
+IXACT Contact: its typical plan costs $561 a year, against $5,988 for BoldTrail (Base).
+
+### Which has more features, IXACT Contact or BoldTrail?
+
+IXACT Contact, with 83.5 of 119 points on our feature checklist against 79.5 for BoldTrail.
+
+### Do IXACT Contact and BoldTrail have free trials?
+
+IXACT Contact has a 14-day free trial (credit card required); BoldTrail has no free trial.
+
+### Who should choose IXACT Contact and who should choose BoldTrail?
+
+IXACT Contact is the better fit for new agents, average agents, agents with an assistant and high-volume teams; BoldTrail is the better fit for offices and franchises. The full reports: [IXACT Contact](../reports/ixact-contact.md) and [BoldTrail](../reports/boldtrail.md).
+
 ## Related comparisons
 
 - [IXACT Contact vs RealtyJuggler](ixact-contact-vs-realtyjuggler.md)

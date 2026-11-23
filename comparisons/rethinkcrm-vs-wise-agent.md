@@ -326,6 +326,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [wiseagent.com](https://wiseagent.com) | [buildout.com/platform/rethink-by-buildout](https://www.buildout.com/platform/rethink-by-buildout) |
 | Full report | [Wise Agent report](../reports/wise-agent.md) | [RethinkCRM report](../reports/rethinkcrm.md) |
 
+## Frequently asked questions
+
+### Which is better, Wise Agent or RethinkCRM?
+
+Wise Agent scores higher overall: 8.4 to 5.4 out of 10. It wins on features, reviews, value, terms of service, support and governance.
+
+### Which is cheaper, Wise Agent or RethinkCRM?
+
+Wise Agent: its typical plan (CRM) costs $499 a year, against $1,548 for RethinkCRM (Rethink).
+
+### Which has more features, Wise Agent or RethinkCRM?
+
+Wise Agent, with 95.5 of 119 points on our feature checklist against 62 for RethinkCRM.
+
+### Do Wise Agent and RethinkCRM have free trials?
+
+Wise Agent has a 14-day free trial (credit card required); RethinkCRM has no free trial.
+
+### Who should choose Wise Agent and who should choose RethinkCRM?
+
+Wise Agent is the better fit for new agents and high-volume teams; RethinkCRM is the better fit for offices. The full reports: [Wise Agent](../reports/wise-agent.md) and [RethinkCRM](../reports/rethinkcrm.md).
+
 ## Related comparisons
 
 - [Wise Agent vs RealtyJuggler](realtyjuggler-vs-wise-agent.md)

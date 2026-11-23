@@ -343,6 +343,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [wiseagent.com](https://wiseagent.com) | [lwolf.com/products/relationships](https://www.lwolf.com/products/relationships) |
 | Full report | [Wise Agent report](../reports/wise-agent.md) | [Lone Wolf Relationships report](../reports/lone-wolf-relationships.md) |
 
+## Frequently asked questions
+
+### Which is better, Wise Agent or Lone Wolf Relationships?
+
+Wise Agent scores higher overall: 8.4 to 5.1 out of 10. It wins on features, reviews, value, terms of service, support and governance.
+
+### Which is cheaper, Wise Agent or Lone Wolf Relationships?
+
+Lone Wolf Relationships: its typical plan (Relationships) costs $399 a year, against $499 for Wise Agent (CRM).
+
+### Which has more features, Wise Agent or Lone Wolf Relationships?
+
+Wise Agent, with 95.5 of 119 points on our feature checklist against 30 for Lone Wolf Relationships.
+
+### Do Wise Agent and Lone Wolf Relationships have free trials?
+
+Wise Agent has a 14-day free trial (credit card required); Lone Wolf Relationships has a 14-day free trial (no credit card needed).
+
+### Who should choose Wise Agent and who should choose Lone Wolf Relationships?
+
+Wise Agent is the better fit for new agents, average agents, agents with an assistant and high-volume teams; Lone Wolf Relationships is the better fit for offices and franchises. The full reports: [Wise Agent](../reports/wise-agent.md) and [Lone Wolf Relationships](../reports/lone-wolf-relationships.md).
+
 ## Related comparisons
 
 - [Wise Agent vs RealtyJuggler](realtyjuggler-vs-wise-agent.md)

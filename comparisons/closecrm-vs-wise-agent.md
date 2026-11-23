@@ -337,6 +337,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [wiseagent.com](https://wiseagent.com) | [close.com](https://www.close.com) |
 | Full report | [Wise Agent report](../reports/wise-agent.md) | [CloseCRM report](../reports/closecrm.md) |
 
+## Frequently asked questions
+
+### Which is better, Wise Agent or CloseCRM?
+
+Wise Agent scores higher overall: 8.4 to 6.9 out of 10. It wins on features, reviews, value, support and governance; CloseCRM wins on terms of service.
+
+### Which is cheaper, Wise Agent or CloseCRM?
+
+Wise Agent: its typical plan (CRM) costs $499 a year, against $1,188 for CloseCRM (Growth).
+
+### Which has more features, Wise Agent or CloseCRM?
+
+Wise Agent, with 95.5 of 119 points on our feature checklist against 55.5 for CloseCRM.
+
+### Do Wise Agent and CloseCRM have free trials?
+
+Wise Agent has a 14-day free trial (credit card required); CloseCRM has a 14-day free trial (no credit card needed).
+
+### Who should choose Wise Agent and who should choose CloseCRM?
+
+Wise Agent is the better fit for new agents, average agents, agents with an assistant, high-volume teams and offices. The full reports: [Wise Agent](../reports/wise-agent.md) and [CloseCRM](../reports/closecrm.md).
+
 ## Related comparisons
 
 - [Wise Agent vs RealtyJuggler](realtyjuggler-vs-wise-agent.md)

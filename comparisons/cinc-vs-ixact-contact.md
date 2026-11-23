@@ -313,6 +313,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [ixactcontact.com](https://www.ixactcontact.com) | [cincpro.com](https://www.cincpro.com) |
 | Full report | [IXACT Contact report](../reports/ixact-contact.md) | [CINC report](../reports/cinc.md) |
 
+## Frequently asked questions
+
+### Which is better, IXACT Contact or CINC?
+
+IXACT Contact scores higher overall: 6.7 to 4.3 out of 10. It wins on features, reviews, value, terms of service and governance; CINC wins on support.
+
+### Which is cheaper, IXACT Contact or CINC?
+
+IXACT Contact: its typical plan costs $561 a year, against $11,988 for CINC (Solo).
+
+### Which has more features, IXACT Contact or CINC?
+
+IXACT Contact, with 83.5 of 119 points on our feature checklist against 69.5 for CINC.
+
+### Do IXACT Contact and CINC have free trials?
+
+IXACT Contact has a 14-day free trial (credit card required); CINC has no free trial.
+
+### Who should choose IXACT Contact and who should choose CINC?
+
+IXACT Contact is the better fit for new agents, average agents and agents with an assistant. The full reports: [IXACT Contact](../reports/ixact-contact.md) and [CINC](../reports/cinc.md).
+
 ## Related comparisons
 
 - [IXACT Contact vs RealtyJuggler](ixact-contact-vs-realtyjuggler.md)

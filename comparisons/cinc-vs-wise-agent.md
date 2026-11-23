@@ -309,6 +309,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [wiseagent.com](https://wiseagent.com) | [cincpro.com](https://www.cincpro.com) |
 | Full report | [Wise Agent report](../reports/wise-agent.md) | [CINC report](../reports/cinc.md) |
 
+## Frequently asked questions
+
+### Which is better, Wise Agent or CINC?
+
+Wise Agent scores higher overall: 8.4 to 4.3 out of 10. It wins on features, reviews, value, terms of service and governance.
+
+### Which is cheaper, Wise Agent or CINC?
+
+Wise Agent: its typical plan (CRM) costs $499 a year, against $11,988 for CINC (Solo).
+
+### Which has more features, Wise Agent or CINC?
+
+Wise Agent, with 95.5 of 119 points on our feature checklist against 69.5 for CINC.
+
+### Do Wise Agent and CINC have free trials?
+
+Wise Agent has a 14-day free trial (credit card required); CINC has no free trial.
+
+### Who should choose Wise Agent and who should choose CINC?
+
+Wise Agent is the better fit for new agents, average agents and agents with an assistant. The full reports: [Wise Agent](../reports/wise-agent.md) and [CINC](../reports/cinc.md).
+
 ## Related comparisons
 
 - [Wise Agent vs RealtyJuggler](realtyjuggler-vs-wise-agent.md)

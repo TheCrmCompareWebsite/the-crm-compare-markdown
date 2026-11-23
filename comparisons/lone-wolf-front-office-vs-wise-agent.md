@@ -306,6 +306,24 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [wiseagent.com](https://wiseagent.com) | [lwolf.com/engage/websites](https://www.lwolf.com/engage/websites) |
 | Full report | [Wise Agent report](../reports/wise-agent.md) | [Lone Wolf Front Office report](../reports/lone-wolf-front-office.md) |
 
+## Frequently asked questions
+
+### Which is better, Wise Agent or Lone Wolf Front Office?
+
+Wise Agent scores higher overall: 8.4 to 4.3 out of 10. It wins on features, reviews, value, terms of service, support and governance.
+
+### Which is cheaper, Wise Agent or Lone Wolf Front Office?
+
+Wise Agent: its typical plan (CRM) costs $499 a year, against $4,188 for Lone Wolf Front Office (Website + CRM).
+
+### Which has more features, Wise Agent or Lone Wolf Front Office?
+
+Wise Agent, with 95.5 of 119 points on our feature checklist against 60.5 for Lone Wolf Front Office.
+
+### Do Wise Agent and Lone Wolf Front Office have free trials?
+
+Wise Agent has a 14-day free trial (credit card required); Lone Wolf Front Office has no free trial.
+
 ## Related comparisons
 
 - [Wise Agent vs RealtyJuggler](realtyjuggler-vs-wise-agent.md)

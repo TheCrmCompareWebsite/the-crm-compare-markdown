@@ -310,6 +310,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [ixactcontact.com](https://www.ixactcontact.com) | [brivity.com](https://www.brivity.com/) |
 | Full report | [IXACT Contact report](../reports/ixact-contact.md) | [Brivity report](../reports/brivity.md) |
 
+## Frequently asked questions
+
+### Which is better, IXACT Contact or Brivity?
+
+IXACT Contact scores higher overall: 6.7 to 6.2 out of 10. It wins on features, value and terms of service; Brivity wins on support and governance.
+
+### Which is cheaper, IXACT Contact or Brivity?
+
+IXACT Contact: its typical plan costs $561 a year, against $3,588 for Brivity (Growth (Solo Agent)).
+
+### Which has more features, IXACT Contact or Brivity?
+
+IXACT Contact, with 83.5 of 119 points on our feature checklist against 72.5 for Brivity.
+
+### Do IXACT Contact and Brivity have free trials?
+
+IXACT Contact has a 14-day free trial (credit card required); Brivity has no free trial.
+
+### Who should choose IXACT Contact and who should choose Brivity?
+
+IXACT Contact is the better fit for new agents, average agents and agents with an assistant; Brivity is the better fit for franchises. The full reports: [IXACT Contact](../reports/ixact-contact.md) and [Brivity](../reports/brivity.md).
+
 ## Related comparisons
 
 - [IXACT Contact vs RealtyJuggler](ixact-contact-vs-realtyjuggler.md)

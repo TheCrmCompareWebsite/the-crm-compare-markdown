@@ -299,6 +299,24 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [close.com](https://www.close.com) | [hubspot.com](https://www.hubspot.com/products/sales) |
 | Full report | [CloseCRM report](../reports/closecrm.md) | [HubSpot Sales Hub report](../reports/hubspot-sales-hub.md) |
 
+## Frequently asked questions
+
+### Which is better, CloseCRM or HubSpot Sales Hub?
+
+CloseCRM scores higher overall: 6.9 to 5.4 out of 10. It wins on reviews, terms of service and governance; HubSpot Sales Hub wins on features, value and support.
+
+### Which is cheaper, CloseCRM or HubSpot Sales Hub?
+
+HubSpot Sales Hub: its typical plan (Sales Hub Professional) costs $1,080 a year, against $1,188 for CloseCRM (Growth).
+
+### Which has more features, CloseCRM or HubSpot Sales Hub?
+
+HubSpot Sales Hub, with 70.5 of 119 points on our feature checklist against 55.5 for CloseCRM.
+
+### Do CloseCRM and HubSpot Sales Hub have free trials?
+
+CloseCRM has a 14-day free trial (no credit card needed); HubSpot Sales Hub has a 14-day free trial (no credit card needed).
+
 ## Related comparisons
 
 - [CloseCRM vs RealtyJuggler](closecrm-vs-realtyjuggler.md)

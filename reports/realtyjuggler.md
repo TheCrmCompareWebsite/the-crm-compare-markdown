@@ -612,6 +612,52 @@ With setup, training, and support included in a low annual fee, RealtyJuggler is
 - [RealtyJuggler vs CINC](../comparisons/cinc-vs-realtyjuggler.md)
 - [RealtyJuggler vs Lone Wolf Front Office](../comparisons/lone-wolf-front-office-vs-realtyjuggler.md)
 
+## Frequently asked questions
+
+### How much does RealtyJuggler cost?
+
+RealtyJuggler's typical plan costs $179 a year, less than the median of $1,044 a year across the 26 CRMs we scored.
+
+### Does RealtyJuggler have a free trial?
+
+Yes: 90 days, with no credit card needed.
+
+### Who is RealtyJuggler best for?
+
+RealtyJuggler is built for real estate. We rate it ideal for new agents, average agents, agents with an assistant and offices.
+
+### Is RealtyJuggler a good CRM for real estate agents?
+
+RealtyJuggler scores 9.8 out of 10, #1 of the 26 CRMs we scored. Its best category is reviews (10) and its weakest is features (8.7). RealtyJuggler is a CRM built exclusively for real estate and is a good fit for new agents, individual agents, and agents with an assistant.
+
+### What do customers say about RealtyJuggler?
+
+Across 149 ratings on 5 review sites, RealtyJuggler averages 4.7 stars, and 95% of ratings are four or five stars. Reviewers consistently praise ease of use, live phone support and price; the main complaint is the dated look.
+
+### Does RealtyJuggler have a mobile app?
+
+Yes. Installable web app with a home-screen icon.
+
+### Does RealtyJuggler connect to the MLS?
+
+Not that we could find.
+
+### Can you text clients from RealtyJuggler?
+
+Yes. Two-way text threads on each record.
+
+### Can I import my contacts into RealtyJuggler?
+
+Yes. CSV/Excel import, with guides for many CRMs.
+
+### Who makes RealtyJuggler?
+
+RealOrganized, Inc. (privately owned), based in Fort Collins, Colorado, United States.
+
+### What are the best alternatives to RealtyJuggler?
+
+The alternatives our report compares it with: [Wise Agent](../reports/wise-agent.md) (8.4), [IXACT Contact](../reports/ixact-contact.md) (6.7) and [Follow Up Boss](../reports/follow-up-boss.md) (6.5). See [RealtyJuggler vs Wise Agent](../comparisons/realtyjuggler-vs-wise-agent.md) side by side.
+
 ## Sources
 
 - Vendor: [Home](https://www.realtyjuggler.com/) · [Pricing](https://www.realtyjuggler.com/Pricing) · [Support](https://www.realtyjuggler.com/Support) · [About Us](https://www.realtyjuggler.com/AboutUs) · [Contact Us](https://www.realtyjuggler.com/ContactUs) · [News](https://www.realtyjuggler.com/News) · [FAQ](https://www.realtyjuggler.com/FAQ) · [Manuals and video tutorials](https://www.realtyjuggler.com/Docs) · [Main manual](https://www.realtyjuggler.com/manuals/RealtyJuggler_Manual.pdf) · [Tasks manual](https://www.realtyjuggler.com/manuals/RealtyJuggler_Tasks.pdf) · [Mail manual](https://www.realtyjuggler.com/manuals/RealtyJuggler_Mail.pdf) · [Sync manual](https://www.realtyjuggler.com/manuals/RealtyJuggler_Sync.pdf) · [Goals manual](https://www.realtyjuggler.com/manuals/Goals.pdf) · [Commissions and Referrals manual](https://www.realtyjuggler.com/manuals/Commissions_and_Referrals.pdf) · [Sharing](https://www.realtyjuggler.com/Sharing) · [SMS](https://www.realtyjuggler.com/SMS) · [Phone](https://www.realtyjuggler.com/Phone) · [Email Feed](https://www.realtyjuggler.com/EmailFeed) · [Email Tracking](https://www.realtyjuggler.com/EmailTracking) · [Engagement](https://www.realtyjuggler.com/Engagement) · [Call Capture](https://www.realtyjuggler.com/CallCapture) · [Mobile](https://www.realtyjuggler.com/Mobile) · [Letters](https://www.realtyjuggler.com/Letters) · [Calculators](https://www.realtyjuggler.com/Calculators) · [Import](https://www.realtyjuggler.com/Import) · [Integrations](https://www.realtyjuggler.com/Integrations) · [Partners](https://www.realtyjuggler.com/Partners) · [Security](https://www.realtyjuggler.com/Security) · [Terms & Conditions](https://www.realtyjuggler.com/Terms) · [Privacy Policy](https://www.realtyjuggler.com/Privacy) · [Book announcement (2026)](https://www.realtyjuggler.com/site/press/SecretsBook) · [Price change release (2018)](https://www.realtyjuggler.com/site/press/Desktop_Upgrade32) · [MMS release (2018)](https://www.realtyjuggler.com/site/press/Desktop_Upgrade29)

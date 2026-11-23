@@ -307,6 +307,24 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [pipedrive.com](https://www.pipedrive.com) | [hubspot.com](https://www.hubspot.com/products/sales) |
 | Full report | [Pipedrive report](../reports/pipedrive.md) | [HubSpot Sales Hub report](../reports/hubspot-sales-hub.md) |
 
+## Frequently asked questions
+
+### Which is better, Pipedrive or HubSpot Sales Hub?
+
+Pipedrive scores higher overall: 6.6 to 5.4 out of 10. It wins on reviews, value, terms of service and governance; HubSpot Sales Hub wins on features.
+
+### Which is cheaper, Pipedrive or HubSpot Sales Hub?
+
+Pipedrive: its typical plan (Growth) costs $468 a year, against $1,080 for HubSpot Sales Hub (Sales Hub Professional).
+
+### Which has more features, Pipedrive or HubSpot Sales Hub?
+
+HubSpot Sales Hub, with 70.5 of 119 points on our feature checklist against 62 for Pipedrive.
+
+### Do Pipedrive and HubSpot Sales Hub have free trials?
+
+Pipedrive has a 14-day free trial (no credit card needed); HubSpot Sales Hub has a 14-day free trial (no credit card needed).
+
 ## Related comparisons
 
 - [Pipedrive vs RealtyJuggler](pipedrive-vs-realtyjuggler.md)

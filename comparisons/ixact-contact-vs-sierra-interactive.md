@@ -328,6 +328,24 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [ixactcontact.com](https://www.ixactcontact.com) | [sierrainteractive.com](https://www.sierrainteractive.com/) |
 | Full report | [IXACT Contact report](../reports/ixact-contact.md) | [Sierra Interactive report](../reports/sierra-interactive.md) |
 
+## Frequently asked questions
+
+### Which is better, IXACT Contact or Sierra Interactive?
+
+IXACT Contact scores higher overall: 6.7 to 4.5 out of 10. It wins on features, reviews, value, terms of service and governance; Sierra Interactive wins on support.
+
+### Which is cheaper, IXACT Contact or Sierra Interactive?
+
+IXACT Contact: its typical plan costs $561 a year, against $3,599 for Sierra Interactive (Starter).
+
+### Which has more features, IXACT Contact or Sierra Interactive?
+
+IXACT Contact, with 83.5 of 119 points on our feature checklist against 55.5 for Sierra Interactive.
+
+### Do IXACT Contact and Sierra Interactive have free trials?
+
+IXACT Contact has a 14-day free trial (credit card required); Sierra Interactive has no free trial.
+
 ## Related comparisons
 
 - [IXACT Contact vs RealtyJuggler](ixact-contact-vs-realtyjuggler.md)

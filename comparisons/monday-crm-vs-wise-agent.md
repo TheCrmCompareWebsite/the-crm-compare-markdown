@@ -339,6 +339,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [wiseagent.com](https://wiseagent.com) | [monday.com/crm](https://monday.com/crm) |
 | Full report | [Wise Agent report](../reports/wise-agent.md) | [monday CRM report](../reports/monday-crm.md) |
 
+## Frequently asked questions
+
+### Which is better, Wise Agent or monday CRM?
+
+Wise Agent scores higher overall: 8.4 to 5.2 out of 10. It wins on features, reviews, value, terms of service, support and governance.
+
+### Which is cheaper, Wise Agent or monday CRM?
+
+Wise Agent: its typical plan (CRM) costs $499 a year, against $1,008 for monday CRM (Pro).
+
+### Which has more features, Wise Agent or monday CRM?
+
+Wise Agent, with 95.5 of 119 points on our feature checklist against 59.5 for monday CRM.
+
+### Do Wise Agent and monday CRM have free trials?
+
+Wise Agent has a 14-day free trial (credit card required); monday CRM has a 14-day free trial (no credit card needed).
+
+### Who should choose Wise Agent and who should choose monday CRM?
+
+Wise Agent is the better fit for new agents, average agents, agents with an assistant, high-volume teams and offices. The full reports: [Wise Agent](../reports/wise-agent.md) and [monday CRM](../reports/monday-crm.md).
+
 ## Related comparisons
 
 - [Wise Agent vs RealtyJuggler](realtyjuggler-vs-wise-agent.md)

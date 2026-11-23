@@ -324,6 +324,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [wiseagent.com](https://wiseagent.com) | [insightly.com](https://www.insightly.com) |
 | Full report | [Wise Agent report](../reports/wise-agent.md) | [Insightly report](../reports/insightly.md) |
 
+## Frequently asked questions
+
+### Which is better, Wise Agent or Insightly?
+
+Wise Agent scores higher overall: 8.4 to 6.4 out of 10. It wins on features, reviews, value, support and governance; Insightly wins on terms of service.
+
+### Which is cheaper, Wise Agent or Insightly?
+
+Wise Agent: its typical plan (CRM) costs $499 a year, against $588 for Insightly (Professional).
+
+### Which has more features, Wise Agent or Insightly?
+
+Wise Agent, with 95.5 of 119 points on our feature checklist against 58.5 for Insightly.
+
+### Do Wise Agent and Insightly have free trials?
+
+Wise Agent has a 14-day free trial (credit card required); Insightly has a 14-day free trial (no credit card needed).
+
+### Who should choose Wise Agent and who should choose Insightly?
+
+Wise Agent is the better fit for new agents, average agents, agents with an assistant, high-volume teams and offices. The full reports: [Wise Agent](../reports/wise-agent.md) and [Insightly](../reports/insightly.md).
+
 ## Related comparisons
 
 - [Wise Agent vs RealtyJuggler](realtyjuggler-vs-wise-agent.md)

@@ -598,6 +598,52 @@ The privacy terms pose no direct conflict of interest, but they offer little ass
 - [Sierra Interactive vs Wise Agent](../comparisons/sierra-interactive-vs-wise-agent.md)
 - [Sierra Interactive vs IXACT Contact](../comparisons/ixact-contact-vs-sierra-interactive.md)
 
+## Frequently asked questions
+
+### How much does Sierra Interactive cost?
+
+Sierra Interactive's typical plan, Starter, costs $3,599 a year, more than the median of $1,044 a year across the 26 CRMs we scored. Its plans run from $3,599 a year (Starter) to $7,199 a year (Growth). Add-ons such as Setup fee (monthly billing only), Sierra Dialer (Starter) and Additional user (Starter) cost extra.
+
+### Does Sierra Interactive have a free trial?
+
+No, we found no free trial. The longest trial we found is 90 days: see [the CRMs with the longest free trials](https://thecrmcomparewebsite.github.io/the-crm-compare-website/blog/longest-free-trial-crm.html).
+
+### Who is Sierra Interactive best for?
+
+Sierra Interactive is built for real estate. Its best fit: High-volume team, real estate office.
+
+### Is Sierra Interactive a good CRM for real estate agents?
+
+Sierra Interactive scores 4.5 out of 10, #23 of the 26 CRMs we scored. Its best category is support (10) and its weakest is reviews (1). Sierra Interactive is a real estate IDX Website and CRM platform built for high-volume teams and brokerages.
+
+### What do customers say about Sierra Interactive?
+
+Across 82 ratings on 6 review sites, Sierra Interactive averages 3.5 stars, and 61% of ratings are four or five stars. Praise for the search-optimized websites is outweighed by complaints about slow support, overselling, contract disputes and unfixed bugs.
+
+### Does Sierra Interactive have a mobile app?
+
+Partly. The mobile app unlocks only with the Dialer, a $100/month add-on on Starter.
+
+### Does Sierra Interactive connect to the MLS?
+
+Yes. Direct MLS feed powers the website and lead activity.
+
+### Can you text clients from Sierra Interactive?
+
+Partly. Texting runs through the Sierra Dialer, a $100/month add-on on Starter.
+
+### Can I import my contacts into Sierra Interactive?
+
+Yes. Lead Import Wizard for CSV files.
+
+### Who makes Sierra Interactive?
+
+Sierra Interactive LLC (part of Alpine Software Group), based in Louisville, Kentucky, United States.
+
+### What are the best alternatives to Sierra Interactive?
+
+The alternatives our report compares it with: [RealtyJuggler](../reports/realtyjuggler.md) (9.8), [Wise Agent](../reports/wise-agent.md) (8.4) and [IXACT Contact](../reports/ixact-contact.md) (6.7). See [Sierra Interactive vs RealtyJuggler](../comparisons/realtyjuggler-vs-sierra-interactive.md) side by side.
+
 ## Sources
 
 - Vendor website: [Pricing](https://www.sierrainteractive.com/pricing/) · [Implementation and setup services](https://www.sierrainteractive.com/implementation-and-setup-services/) · [Contact us](https://www.sierrainteractive.com/contact-us/) · [Our History](https://www.sierrainteractive.com/about-us/our-history/) · [Sierra Interactive joins ASG](https://www.sierrainteractive.com/insights/blog/sierra-interactive-joins-asg/) · [Homebot integration press release](https://www.sierrainteractive.com/insights/blog/sierra-interactive-homebot-integration) · [BoldTrail alternative comparison](https://www.sierrainteractive.com/our-solutions/bold-trail-alternative/)

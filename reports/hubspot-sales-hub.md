@@ -619,6 +619,52 @@ On value, it sits in the middle: the price is fair for the software, but an agen
 - [HubSpot Sales Hub vs CloseCRM](../comparisons/closecrm-vs-hubspot-sales-hub.md)
 - [HubSpot Sales Hub vs Pipedrive](../comparisons/hubspot-sales-hub-vs-pipedrive.md)
 
+## Frequently asked questions
+
+### How much does HubSpot Sales Hub cost?
+
+HubSpot Sales Hub's typical plan, Sales Hub Professional, costs $1,080 a year per seat, more than the median of $1,044 a year across the 26 CRMs we scored. Its plans run from free (Sales Hub Free) to $1,800 a year per seat (Sales Hub Enterprise). Add-ons such as Professional Onboarding (required with Professional), Enterprise Onboarding (required with Enterprise) and Additional Sales Seat (Professional) cost extra.
+
+### Does HubSpot Sales Hub have a free trial?
+
+Yes: 14 days, with no credit card needed. The longest trial we found is 90 days: see [the CRMs with the longest free trials](https://thecrmcomparewebsite.github.io/the-crm-compare-website/blog/longest-free-trial-crm.html).
+
+### Who is HubSpot Sales Hub best for?
+
+HubSpot Sales Hub is a general business CRM, not one built for real estate, so an agent has to set up lead routing, transactions and past-client follow-up themselves.
+
+### Is HubSpot Sales Hub a good CRM for real estate agents?
+
+HubSpot Sales Hub scores 5.4 out of 10, #15 of the 26 CRMs we scored. Its best category is governance (7.3) and its weakest is reviews (2). HubSpot Sales Hub is a generic CRM designed for sales teams in any industry rather than for real estate, so it is not an ideal fit for real estate sales.
+
+### What do customers say about HubSpot Sales Hub?
+
+Across 471 ratings on 11 review sites, HubSpot Sales Hub averages 3.1 stars, and 53% of ratings are four or five stars. Invited reviews praise ease of use, while open review sites report slow support, billing traps and oversold features; four in ten reviews studied are one or two stars, and HubSpot almost never replies.
+
+### Does HubSpot Sales Hub have a mobile app?
+
+Yes. iOS and Android apps.
+
+### Does HubSpot Sales Hub connect to the MLS?
+
+No. No MLS or IDX feed.
+
+### Can you text clients from HubSpot Sales Hub?
+
+Partly. Two-way texting in the inbox requires Marketing Hub Professional and an SMS add-on.
+
+### Can I import my contacts into HubSpot Sales Hub?
+
+Yes. Import CSV or Excel files of records and activities.
+
+### Who makes HubSpot Sales Hub?
+
+HubSpot, Inc. (NYSE: HUBS), based in Cambridge, Massachusetts, United States.
+
+### What are the best alternatives to HubSpot Sales Hub?
+
+The alternatives our report compares it with: [RealtyJuggler](../reports/realtyjuggler.md) (9.8), [CloseCRM](../reports/closecrm.md) (6.9) and [Pipedrive](../reports/pipedrive.md) (6.6). See [HubSpot Sales Hub vs RealtyJuggler](../comparisons/hubspot-sales-hub-vs-realtyjuggler.md) side by side.
+
 ## Sources
 
 - Vendor website: [Sales Hub pricing](https://www.hubspot.com/pricing/sales) · [Marketing Hub pricing](https://www.hubspot.com/pricing/marketing) · [Product and Services Catalog](https://legal.hubspot.com/hubspot-product-and-services-catalog) · [Free trial](https://offers.hubspot.com/free-trial) · [Pricing changes announcement](https://www.hubspot.com/company-news/announcing-upcoming-changes-to-hubspots-pricing) · [Company news](https://www.hubspot.com/company-news) · [Contact](https://www.hubspot.com/company/contact) · [Management](https://www.hubspot.com/company/management) · [Onboarding](https://www.hubspot.com/services/onboarding) · [Sales Hub](https://www.hubspot.com/products/sales) · [Real estate CRM page](https://www.hubspot.com/products/crm/real-estate) · [App Marketplace](https://ecosystem.hubspot.com/marketplace) · [Developer documentation](https://developers.hubspot.com/docs/api/overview) · [Investor relations](https://ir.hubspot.com/) · [Solutions partners](https://www.hubspot.com/partners) · [Developer changelog, MCP server](https://developers.hubspot.com/changelog/remote-hubspot-mcp-server-is-now-generally-available)

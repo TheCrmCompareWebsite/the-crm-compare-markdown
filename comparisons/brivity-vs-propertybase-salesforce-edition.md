@@ -331,6 +331,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [brivity.com](https://www.brivity.com/) | [propertybase.lwolf.com](https://propertybase.lwolf.com/) |
 | Full report | [Brivity report](../reports/brivity.md) | [PropertyBase Salesforce Edition report](../reports/propertybase-salesforce-edition.md) |
 
+## Frequently asked questions
+
+### Which is better, Brivity or PropertyBase Salesforce Edition?
+
+Brivity scores higher overall: 6.2 to 4.6 out of 10. It wins on reviews, value, terms of service, support and governance; PropertyBase Salesforce Edition wins on features.
+
+### Which is cheaper, Brivity or PropertyBase Salesforce Edition?
+
+Brivity: its typical plan (Growth (Solo Agent)) costs $3,588 a year, against $10,680 for PropertyBase Salesforce Edition (Propertybase Salesforce Edition).
+
+### Which has more features, Brivity or PropertyBase Salesforce Edition?
+
+PropertyBase Salesforce Edition, with 74 of 119 points on our feature checklist against 72.5 for Brivity.
+
+### Do Brivity and PropertyBase Salesforce Edition have free trials?
+
+Brivity has no free trial; PropertyBase Salesforce Edition has no free trial.
+
+### Who should choose Brivity and who should choose PropertyBase Salesforce Edition?
+
+Brivity is the better fit for high-volume teams; PropertyBase Salesforce Edition is the better fit for offices and franchises. The full reports: [Brivity](../reports/brivity.md) and [PropertyBase Salesforce Edition](../reports/propertybase-salesforce-edition.md).
+
 ## Related comparisons
 
 - [Brivity vs RealtyJuggler](brivity-vs-realtyjuggler.md)

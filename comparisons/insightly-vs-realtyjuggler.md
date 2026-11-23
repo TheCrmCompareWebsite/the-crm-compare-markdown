@@ -341,6 +341,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [realtyjuggler.com](https://www.realtyjuggler.com/) | [insightly.com](https://www.insightly.com) |
 | Full report | [RealtyJuggler report](../reports/realtyjuggler.md) | [Insightly report](../reports/insightly.md) |
 
+## Frequently asked questions
+
+### Which is better, RealtyJuggler or Insightly?
+
+RealtyJuggler scores higher overall: 9.8 to 6.4 out of 10. It wins on features, reviews, value, terms of service, support and governance.
+
+### Which is cheaper, RealtyJuggler or Insightly?
+
+RealtyJuggler: its typical plan costs $179 a year, against $588 for Insightly (Professional).
+
+### Which has more features, RealtyJuggler or Insightly?
+
+RealtyJuggler, with 103.5 of 119 points on our feature checklist against 58.5 for Insightly.
+
+### Do RealtyJuggler and Insightly have free trials?
+
+RealtyJuggler has a 90-day free trial (no credit card needed); Insightly has a 14-day free trial (no credit card needed).
+
+### Who should choose RealtyJuggler and who should choose Insightly?
+
+RealtyJuggler is the better fit for new agents, average agents, agents with an assistant and offices. The full reports: [RealtyJuggler](../reports/realtyjuggler.md) and [Insightly](../reports/insightly.md).
+
 ## Related comparisons
 
 - [RealtyJuggler vs Wise Agent](realtyjuggler-vs-wise-agent.md)

@@ -302,6 +302,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [apptivo.com](https://www.apptivo.com) | [ixactcontact.com](https://www.ixactcontact.com) |
 | Full report | [Apptivo report](../reports/apptivo.md) | [IXACT Contact report](../reports/ixact-contact.md) |
 
+## Frequently asked questions
+
+### Which is better, Apptivo or IXACT Contact?
+
+Apptivo scores higher overall: 7.7 to 6.7 out of 10. It wins on reviews, terms of service and governance; IXACT Contact wins on features, value and support.
+
+### Which is cheaper, Apptivo or IXACT Contact?
+
+Apptivo: its typical plan (Ultimate) costs $480 a year, against $561 for IXACT Contact.
+
+### Which has more features, Apptivo or IXACT Contact?
+
+IXACT Contact, with 83.5 of 119 points on our feature checklist against 63.5 for Apptivo.
+
+### Do Apptivo and IXACT Contact have free trials?
+
+Apptivo has a 14-day free trial (no credit card needed); IXACT Contact has a 14-day free trial (credit card required).
+
+### Who should choose Apptivo and who should choose IXACT Contact?
+
+IXACT Contact is the better fit for new agents, average agents, agents with an assistant, high-volume teams and offices. The full reports: [Apptivo](../reports/apptivo.md) and [IXACT Contact](../reports/ixact-contact.md).
+
 ## Related comparisons
 
 - [Apptivo vs RealtyJuggler](apptivo-vs-realtyjuggler.md)

@@ -315,6 +315,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [ixactcontact.com](https://www.ixactcontact.com) | [realgeeks.com](https://www.realgeeks.com/) |
 | Full report | [IXACT Contact report](../reports/ixact-contact.md) | [Real Geeks report](../reports/real-geeks.md) |
 
+## Frequently asked questions
+
+### Which is better, IXACT Contact or Real Geeks?
+
+IXACT Contact scores higher overall: 6.7 to 5.6 out of 10. It wins on features, value, terms of service and governance; Real Geeks wins on reviews and support.
+
+### Which is cheaper, IXACT Contact or Real Geeks?
+
+IXACT Contact: its typical plan costs $561 a year, against $3,990 for Real Geeks (Real Geeks Platform).
+
+### Which has more features, IXACT Contact or Real Geeks?
+
+IXACT Contact, with 83.5 of 119 points on our feature checklist against 74.5 for Real Geeks.
+
+### Do IXACT Contact and Real Geeks have free trials?
+
+IXACT Contact has a 14-day free trial (credit card required); Real Geeks has no free trial.
+
+### Who should choose IXACT Contact and who should choose Real Geeks?
+
+IXACT Contact is the better fit for new agents, average agents and agents with an assistant. The full reports: [IXACT Contact](../reports/ixact-contact.md) and [Real Geeks](../reports/real-geeks.md).
+
 ## Related comparisons
 
 - [IXACT Contact vs RealtyJuggler](ixact-contact-vs-realtyjuggler.md)

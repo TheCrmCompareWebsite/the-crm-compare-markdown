@@ -603,6 +603,52 @@ At its price, Top Producer is below average in value, and familiarity determines
 - [Top Producer vs Wise Agent](../comparisons/top-producer-vs-wise-agent.md)
 - [Top Producer vs IXACT Contact](../comparisons/ixact-contact-vs-top-producer.md)
 
+## Frequently asked questions
+
+### How much does Top Producer cost?
+
+Top Producer's typical plan, Pro, costs $2,148 a year, more than the median of $1,044 a year across the 26 CRMs we scored. Its plans run from $2,148 a year (Pro) to $14,388 a year (Pro Teams 25). Add-ons such as Top Producer Website, FiveStreet lead routing and Onboarding: Standard cost extra.
+
+### Does Top Producer have a free trial?
+
+No, we found no free trial. The longest trial we found is 90 days: see [the CRMs with the longest free trials](https://thecrmcomparewebsite.github.io/the-crm-compare-website/blog/longest-free-trial-crm.html).
+
+### Who is Top Producer best for?
+
+Top Producer is built for real estate. We rate it ideal for average agents, agents with an assistant and high-volume teams.
+
+### Is Top Producer a good CRM for real estate agents?
+
+Top Producer scores 4.8 out of 10, #20 of the 26 CRMs we scored. Its best category is support (7) and its weakest is terms of service (2.5). Top Producer is a real estate specific CRM aimed at experienced solo agents, agents with an assistant, and high-volume teams who earn their living by staying in touch with a large database.
+
+### What do customers say about Top Producer?
+
+Across 152 ratings on 7 review sites, Top Producer averages 3.4 stars, and 61% of ratings are four or five stars. Long-time users like the CRM, but recent reviewers describe oversold lead packages, unfixed problems and trouble cancelling, and nearly two in five reviews are one or two stars.
+
+### Does Top Producer have a mobile app?
+
+Yes. Mobile web app that can be added to the home screen.
+
+### Does Top Producer connect to the MLS?
+
+Yes. MLS connection with 320+ boards imports listings into transactions.
+
+### Can you text clients from Top Producer?
+
+Yes. Two-way texting from a Top Producer number with history in the contact record (US only).
+
+### Can I import my contacts into Top Producer?
+
+Yes. CSV import with field mapping, up to 25,000 contacts per import.
+
+### Who makes Top Producer?
+
+Top Producer Software Inc., part of Constellation1 (Constellation Software), based in Hunt Valley, Maryland, United States.
+
+### What are the best alternatives to Top Producer?
+
+The alternatives our report compares it with: [RealtyJuggler](../reports/realtyjuggler.md) (9.8), [Wise Agent](../reports/wise-agent.md) (8.4) and [IXACT Contact](../reports/ixact-contact.md) (6.7). See [Top Producer vs RealtyJuggler](../comparisons/realtyjuggler-vs-top-producer.md) side by side.
+
 ## Sources
 
 - Vendor website: [Pricing](https://www.topproducer.com/pricing) · [Top Producer CRM](https://www.topproducer.com/top-producer-crm) · [Onboarding](https://www.topproducer.com/onboarding) · [Contact](https://www.topproducer.com/contact) · [About](https://www.topproducer.com/about) · [FAQ](https://www.topproducer.com/frequently-asked-questions) · [Transaction management](https://www.topproducer.com/transaction-management) · [Teams & brokers](https://www.topproducer.com/teams-brokers) · [Product updates](https://www.topproducer.com/blog/top-producer-updates) · [Blog](https://www.topproducer.com/blog)

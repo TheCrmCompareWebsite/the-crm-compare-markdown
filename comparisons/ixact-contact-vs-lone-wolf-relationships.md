@@ -340,6 +340,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [ixactcontact.com](https://www.ixactcontact.com) | [lwolf.com/products/relationships](https://www.lwolf.com/products/relationships) |
 | Full report | [IXACT Contact report](../reports/ixact-contact.md) | [Lone Wolf Relationships report](../reports/lone-wolf-relationships.md) |
 
+## Frequently asked questions
+
+### Which is better, IXACT Contact or Lone Wolf Relationships?
+
+IXACT Contact scores higher overall: 6.7 to 5.1 out of 10. It wins on features, reviews, value and support; Lone Wolf Relationships wins on terms of service and governance.
+
+### Which is cheaper, IXACT Contact or Lone Wolf Relationships?
+
+Lone Wolf Relationships: its typical plan (Relationships) costs $399 a year, against $561 for IXACT Contact.
+
+### Which has more features, IXACT Contact or Lone Wolf Relationships?
+
+IXACT Contact, with 83.5 of 119 points on our feature checklist against 30 for Lone Wolf Relationships.
+
+### Do IXACT Contact and Lone Wolf Relationships have free trials?
+
+IXACT Contact has a 14-day free trial (credit card required); Lone Wolf Relationships has a 14-day free trial (no credit card needed).
+
+### Who should choose IXACT Contact and who should choose Lone Wolf Relationships?
+
+IXACT Contact is the better fit for new agents, average agents, agents with an assistant and high-volume teams; Lone Wolf Relationships is the better fit for offices and franchises. The full reports: [IXACT Contact](../reports/ixact-contact.md) and [Lone Wolf Relationships](../reports/lone-wolf-relationships.md).
+
 ## Related comparisons
 
 - [IXACT Contact vs RealtyJuggler](ixact-contact-vs-realtyjuggler.md)

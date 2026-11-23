@@ -586,6 +586,52 @@ Judged on features for the price, Rethink is below average in value. It makes mo
 - [RethinkCRM vs Wise Agent](../comparisons/rethinkcrm-vs-wise-agent.md)
 - [RethinkCRM vs IXACT Contact](../comparisons/ixact-contact-vs-rethinkcrm.md)
 
+## Frequently asked questions
+
+### How much does RethinkCRM cost?
+
+RethinkCRM's typical plan, Rethink, costs $1,548 a year per user, more than the median of $1,044 a year across the 26 CRMs we scored. Its plans run from $1,548 a year per user (Rethink) to $3,588 a year per user (Rethink+). Add-ons such as Additional user (Rethink), Onboarding and data migration and Platform maintenance cost extra.
+
+### Does RethinkCRM have a free trial?
+
+No, we found no free trial. The longest trial we found is 90 days: see [the CRMs with the longest free trials](https://thecrmcomparewebsite.github.io/the-crm-compare-website/blog/longest-free-trial-crm.html).
+
+### Who is RethinkCRM best for?
+
+RethinkCRM is built for real estate. We rate it ideal for average agents, agents with an assistant and offices.
+
+### Is RethinkCRM a good CRM for real estate agents?
+
+RethinkCRM scores 5.4 out of 10, #16 of the 26 CRMs we scored. Its best category is support (7.5) and its weakest is terms of service (2.5). Rethink is a real estate CRM designed for selling commercial real estate.
+
+### What do customers say about RethinkCRM?
+
+Across 32 ratings on 3 review sites, RethinkCRM averages 3.8 stars, and 69% of ratings are four or five stars. Mixed and dated: older reviewers praise ease of use, but more than a fifth of ratings are 1 or 2 stars and recent reviewers say the product was oversold.
+
+### Does RethinkCRM have a mobile app?
+
+Yes. Runs in the Salesforce mobile app for iOS and Android, with a mobile layout since late 2024.
+
+### Does RethinkCRM connect to the MLS?
+
+Partly. Only the firm's own listings sync in, and only from Buildout Showcase, a separate subscription; no MLS feed.
+
+### Can you text clients from RethinkCRM?
+
+No. Texting only through third-party apps such as Mogli, which Buildout does not support.
+
+### Can I import my contacts into RethinkCRM?
+
+Yes. CSV imports through the Data Import Wizard (up to 50,000 records) or Data Loader, with import templates.
+
+### Who makes RethinkCRM?
+
+Buildout, Inc. (owned by The Riverside Company), based in Rolling Meadows, Illinois, United States.
+
+### What are the best alternatives to RethinkCRM?
+
+The alternatives our report compares it with: [RealtyJuggler](../reports/realtyjuggler.md) (9.8), [Wise Agent](../reports/wise-agent.md) (8.4) and [IXACT Contact](../reports/ixact-contact.md) (6.7). See [RethinkCRM vs RealtyJuggler](../comparisons/realtyjuggler-vs-rethinkcrm.md) side by side.
+
 ## Sources
 
 - Vendor website: [Rethink by Buildout](https://www.buildout.com/platform/rethink-by-buildout) · [Pricing](https://www.buildout.com/pricing) · [Contact](https://www.buildout.com/contact) · [Press](https://www.buildout.com/press) · [Our vision](https://www.buildout.com/our-vision) · [Introducing Buildout CRM](https://www.buildout.com/blog-posts/introducing-the-ai-powered-crm-built-to-unify-the-entire-cre-deal-lifecycle)

@@ -611,6 +611,52 @@ As a CRM alone, RealGeeks is poor value, priced near the top of the market for a
 - [Real Geeks vs IXACT Contact](../comparisons/ixact-contact-vs-real-geeks.md)
 - [Real Geeks vs PropertyBase Salesforce Edition](../comparisons/propertybase-salesforce-edition-vs-real-geeks.md)
 
+## Frequently asked questions
+
+### How much does Real Geeks cost?
+
+Real Geeks's typical plan, Real Geeks Platform, costs $3,990 a year, more than the median of $1,044 a year across the 26 CRMs we scored. Add-ons such as Platform setup fee, Additional user (3rd to 10th; $10 for 11th to 40th, less beyond) and IDX feed (per MLS board, 1 to 3 boards) cost extra.
+
+### Does Real Geeks have a free trial?
+
+No, we found no free trial. The longest trial we found is 90 days: see [the CRMs with the longest free trials](https://thecrmcomparewebsite.github.io/the-crm-compare-website/blog/longest-free-trial-crm.html).
+
+### Who is Real Geeks best for?
+
+Real Geeks is built for real estate. We rate it ideal for high-volume teams.
+
+### Is Real Geeks a good CRM for real estate agents?
+
+Real Geeks scores 5.6 out of 10, #14 of the 26 CRMs we scored. Its best category is support (10) and its weakest is value (3). Real Geeks is a real estate platform built from the ground up for high-volume teams that rely on online leads and want a single company to provide the website, lead handling, and advertising.
+
+### What do customers say about Real Geeks?
+
+Across 179 ratings on 7 review sites, Real Geeks averages 4.3 stars, and 79% of ratings are four or five stars. Reviewers consistently praise friendly, fast support and ease of use, while complaints center on lead quality, sales promises and costly cancellations.
+
+### Does Real Geeks have a mobile app?
+
+Yes. Agents get a native Real Geeks CRM app for iPhone and Android, and leads get the agent-branded MoveTo search app.
+
+### Does Real Geeks connect to the MLS?
+
+Yes. The IDX website pulls the full live MLS feed, synced about every 15 minutes; the $10 monthly fee per MLS board is a pass-through data charge.
+
+### Can you text clients from Real Geeks?
+
+Yes. Two-way texting with leads runs from a registered CRM business number, with replies saved to each lead's conversation history.
+
+### Can I import my contacts into Real Geeks?
+
+Yes. The Lead Import tool uploads CSV or Excel files from any system, maps columns to CRM fields, assigns source and agent, skips duplicates and reports errors.
+
+### Who makes Real Geeks?
+
+Real Geeks LLC, a subsidiary of Fidelity National Financial (NYSE: FNF), based in Dallas, Texas, United States.
+
+### What are the best alternatives to Real Geeks?
+
+The alternatives our report compares it with: [RealtyJuggler](../reports/realtyjuggler.md) (9.8), [Wise Agent](../reports/wise-agent.md) (8.4) and [IXACT Contact](../reports/ixact-contact.md) (6.7). See [Real Geeks vs RealtyJuggler](../comparisons/real-geeks-vs-realtyjuggler.md) side by side.
+
 ## Sources
 
 - Vendor website: [Pricing](https://www.realgeeks.com/real-geeks-pricing) · [About](https://www.realgeeks.com/about/) · [Product pages](https://www.realgeeks.com/) · [Blog and product updates](https://www.realgeeks.com/blog/) · [Real Geeks vs. Kunversion](https://www.realgeeks.com/real-geeks-vs-kunversion)

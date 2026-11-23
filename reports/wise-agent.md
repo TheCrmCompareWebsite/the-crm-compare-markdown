@@ -621,6 +621,52 @@ At $499 a year, Wise Agent is one of the best values in real estate software. Fo
 - [Wise Agent vs CINC](../comparisons/cinc-vs-wise-agent.md)
 - [Wise Agent vs Lone Wolf Front Office](../comparisons/lone-wolf-front-office-vs-wise-agent.md)
 
+## Frequently asked questions
+
+### How much does Wise Agent cost?
+
+Wise Agent's typical plan, CRM, costs $499 a year, less than the median of $1,044 a year across the 26 CRMs we scored. Its plans run from $499 a year (CRM) to $699 a year (CRM + WiseSocial). Add-ons such as Additional team members (batch of 5), Additional login with permissions and Lead Enhancement (unlimited credits) cost extra.
+
+### Does Wise Agent have a free trial?
+
+Yes: 14 days, and you need a credit card to start it. The longest trial we found is 90 days: see [the CRMs with the longest free trials](https://thecrmcomparewebsite.github.io/the-crm-compare-website/blog/longest-free-trial-crm.html).
+
+### Who is Wise Agent best for?
+
+Wise Agent is built for real estate. We rate it ideal for new agents, average agents, agents with an assistant and high-volume teams.
+
+### Is Wise Agent a good CRM for real estate agents?
+
+Wise Agent scores 8.4 out of 10, #2 of the 26 CRMs we scored. Its best category is support (10) and its weakest is terms of service (7). Wise Agent is built specifically for real estate and serves new agents, established solo agents, and even real estate teams equally well.
+
+### What do customers say about Wise Agent?
+
+Across 120 ratings on 4 review sites, Wise Agent averages 4.4 stars, and 85% of ratings are four or five stars. Reviewers consistently praise fast, friendly support and 85% of the ratings are four or five stars, while opinion on ease of use is mixed.
+
+### Does Wise Agent have a mobile app?
+
+Yes. Mobile web app can be added to the iPhone or Android home screen.
+
+### Does Wise Agent connect to the MLS?
+
+Partly. One-click import of the agent's own listings from about 20 partner MLSs.
+
+### Can you text clients from Wise Agent?
+
+Yes. Two-way texting from any page through WiseText conversations.
+
+### Can I import my contacts into Wise Agent?
+
+Yes. CSV import with documented column headers and update-existing option.
+
+### Who makes Wise Agent?
+
+Wise Agent, LLC, based in Fountain Hills, Arizona, United States.
+
+### What are the best alternatives to Wise Agent?
+
+The alternatives our report compares it with: [RealtyJuggler](../reports/realtyjuggler.md) (9.8), [IXACT Contact](../reports/ixact-contact.md) (6.7) and [Follow Up Boss](../reports/follow-up-boss.md) (6.5). See [Wise Agent vs RealtyJuggler](../comparisons/realtyjuggler-vs-wise-agent.md) side by side.
+
 ## Sources
 
 - Vendor website: [Pricing](https://wiseagent.com/pricing.asp) · [Trial sign-up](https://wiseagent.com/secure/registration.asp) · [Features](https://wiseagent.com/features.asp) · [Customer support](https://wiseagent.com/features/customer-support.asp) · [Our Company](https://wiseagent.com/our-company.asp) · [Contact](https://wiseagent.com/contact-us.asp) · [Press releases](https://wiseagent.com/press.asp) · [Developer API](https://wiseagent.com/docs/api.asp) · [Wise Agent Websites](https://wiseagent.com/websites.asp) · [Marketing](https://wiseagent.com/features/marketing.asp) · [Contact management](https://wiseagent.com/features/contact-management.asp) · [Team features](https://wiseagent.com/features/team-features.asp) · [Partners](https://wiseagent.com/partners.asp) · [Blog: Content Library](https://wiseagent.com/blog/create-professional-real-estate-content-with-wise-agents-content-library) · [Blog: Stop Drowning in Paperwork](https://wiseagent.com/blog/stop-drowning-in-paperwork-how-to-simplify-real-estate-transactions) · [Blog: 5 Spooky Real Estate Mistakes](https://wiseagent.com/blog/5-spooky-real-estate-mistakes-and-how-your-crm-fixes-them) · [Blog: Year in Review 2019](https://wiseagent.com/blog/wise-agents-year-in-review-2019) · [Blog: Best Real Estate CRM](https://wiseagent.com/blog/best-real-estate-crm) · [Blog: Real Estate Software One-Stop Shop](https://wiseagent.com/blog/real-estate-software-one-stop-shop) · [Blog: Landing Pages That Feed Your CRM](https://wiseagent.com/blog/real-estate-landing-pages-lead-capture) · [Blog: Connect ChatGPT and Claude](https://wiseagent.com/blog/ai-mcp-for-real-estate-agents-crm) · [Blog: Halloween Open House Ideas](https://wiseagent.com/blog/seasonal-open-house-ideas-halloween) · [Blog index](https://wiseagent.com/blog) (283 posts searched)

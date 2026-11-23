@@ -326,6 +326,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [wiseagent.com](https://wiseagent.com) | [realgeeks.com](https://www.realgeeks.com/) |
 | Full report | [Wise Agent report](../reports/wise-agent.md) | [Real Geeks report](../reports/real-geeks.md) |
 
+## Frequently asked questions
+
+### Which is better, Wise Agent or Real Geeks?
+
+Wise Agent scores higher overall: 8.4 to 5.6 out of 10. It wins on features, reviews, value, terms of service and governance.
+
+### Which is cheaper, Wise Agent or Real Geeks?
+
+Wise Agent: its typical plan (CRM) costs $499 a year, against $3,990 for Real Geeks (Real Geeks Platform).
+
+### Which has more features, Wise Agent or Real Geeks?
+
+Wise Agent, with 95.5 of 119 points on our feature checklist against 74.5 for Real Geeks.
+
+### Do Wise Agent and Real Geeks have free trials?
+
+Wise Agent has a 14-day free trial (credit card required); Real Geeks has no free trial.
+
+### Who should choose Wise Agent and who should choose Real Geeks?
+
+Wise Agent is the better fit for new agents, average agents and agents with an assistant. The full reports: [Wise Agent](../reports/wise-agent.md) and [Real Geeks](../reports/real-geeks.md).
+
 ## Related comparisons
 
 - [Wise Agent vs RealtyJuggler](realtyjuggler-vs-wise-agent.md)

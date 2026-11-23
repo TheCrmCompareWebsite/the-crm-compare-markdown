@@ -285,6 +285,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [wiseagent.com](https://wiseagent.com) | [ixactcontact.com](https://www.ixactcontact.com) |
 | Full report | [Wise Agent report](../reports/wise-agent.md) | [IXACT Contact report](../reports/ixact-contact.md) |
 
+## Frequently asked questions
+
+### Which is better, Wise Agent or IXACT Contact?
+
+Wise Agent scores higher overall: 8.4 to 6.7 out of 10. It wins on features, reviews, value, terms of service, support and governance.
+
+### Which is cheaper, Wise Agent or IXACT Contact?
+
+Wise Agent: its typical plan (CRM) costs $499 a year, against $561 for IXACT Contact.
+
+### Which has more features, Wise Agent or IXACT Contact?
+
+Wise Agent, with 95.5 of 119 points on our feature checklist against 83.5 for IXACT Contact.
+
+### Do Wise Agent and IXACT Contact have free trials?
+
+Wise Agent has a 14-day free trial (credit card required); IXACT Contact has a 14-day free trial (credit card required).
+
+### Who should choose Wise Agent and who should choose IXACT Contact?
+
+Wise Agent is the better fit for new agents. The full reports: [Wise Agent](../reports/wise-agent.md) and [IXACT Contact](../reports/ixact-contact.md).
+
 ## Related comparisons
 
 - [Wise Agent vs RealtyJuggler](realtyjuggler-vs-wise-agent.md)

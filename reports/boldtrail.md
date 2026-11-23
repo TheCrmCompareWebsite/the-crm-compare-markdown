@@ -618,6 +618,52 @@ For an individual agent, an agent with an assistant, or a small team, BoldTrail 
 - [BoldTrail vs Wise Agent](../comparisons/boldtrail-vs-wise-agent.md)
 - [BoldTrail vs IXACT Contact](../comparisons/boldtrail-vs-ixact-contact.md)
 
+## Frequently asked questions
+
+### How much does BoldTrail cost?
+
+BoldTrail's typical plan, Base, costs $5,988 a year, more than the median of $1,044 a year across the 26 CRMs we scored. Add-ons such as Implementation (setup) fee, 1-on-1 Breakthrough coaching session and Streams (AI mobile app and assistant) cost extra.
+
+### Does BoldTrail have a free trial?
+
+No, we found no free trial. The longest trial we found is 90 days: see [the CRMs with the longest free trials](https://thecrmcomparewebsite.github.io/the-crm-compare-website/blog/longest-free-trial-crm.html).
+
+### Who is BoldTrail best for?
+
+BoldTrail is built for real estate. We rate it ideal for offices and franchises.
+
+### Is BoldTrail a good CRM for real estate agents?
+
+BoldTrail scores 4.5 out of 10, #22 of the 26 CRMs we scored. Its best category is support (8.5) and its weakest is reviews (1). BoldTrail is real estate software built first for franchise brands and also for real estate offices that license it for all of their agents.
+
+### What do customers say about BoldTrail?
+
+Across 366 ratings on 9 review sites, BoldTrail averages 2.3 stars, and 31% of ratings are four or five stars. Unprompted reviews describe slow support, contracts that are hard to leave and an unreliable mobile app, and two-thirds of the ratings studied are one or two stars.
+
+### Does BoldTrail have a mobile app?
+
+Yes. Native BoldTrail apps for iOS and Android cover contacts, tasks, dialer, texting and listings, alongside the Streams app and the Open House app.
+
+### Does BoldTrail connect to the MLS?
+
+Yes. Listings flow in automatically from the MLS IDX feed, usually hourly or faster, into the Listings tab and IDX website.
+
+### Can you text clients from BoldTrail?
+
+Yes. Two-way threaded texting with contacts from the contact record and mobile app, sent from the Smart Number and logged to the timeline, within the plan's monthly text allowance.
+
+### Can I import my contacts into BoldTrail?
+
+Yes. Agents can import any CSV themselves with field mapping (up to 7,000 contacts at a time), email a CSV to the Lead Dropbox, or have the free import team do it.
+
+### Who makes BoldTrail?
+
+Inside Real Estate (InsideRE, LLC), based in Murray, Utah, United States.
+
+### What are the best alternatives to BoldTrail?
+
+The alternatives our report compares it with: [RealtyJuggler](../reports/realtyjuggler.md) (9.8), [Wise Agent](../reports/wise-agent.md) (8.4) and [IXACT Contact](../reports/ixact-contact.md) (6.7). See [BoldTrail vs RealtyJuggler](../comparisons/boldtrail-vs-realtyjuggler.md) side by side.
+
 ## Sources
 
 - Vendor website: [Home](https://boldtrail.com/) · [Pricing](https://boldtrail.com/pricing-demo/) · [Pricing article](https://boldtrail.com/blog/blog-boldtrail-pricing/) · [FAQ](https://boldtrail.com/faq/) · [Package comparison](https://boldtrail.com/product-comparison-front-office/) · [Platform](https://boldtrail.com/platform/) · [Marketplace](https://boldtrail.com/marketplace/) · [Integrations](https://boldtrail.com/integrations/) · [Contact](https://boldtrail.com/contact-us/) · [About BoldTrail](https://boldtrail.com/about-boldtrail/) · [Inside Real Estate About Us](https://insiderealestate.com/about-us/) · [BoldTrail BackOffice](https://boldtrail.com/backoffice/) · [BackOffice comparison](https://boldtrail.com/product-comparison-back-office/) · [BoldTrail Recruit](https://boldtrail.com/recruit/) · [Usage limits](https://insiderealestate.com/communication-limits/)

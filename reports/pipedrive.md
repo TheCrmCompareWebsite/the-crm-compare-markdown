@@ -605,6 +605,52 @@ At its modest price, Pipedrive is a good value as a general sales tool. It suits
 - [Pipedrive vs Zoho CRM](../comparisons/pipedrive-vs-zoho-crm.md)
 - [Pipedrive vs HubSpot Sales Hub](../comparisons/hubspot-sales-hub-vs-pipedrive.md)
 
+## Frequently asked questions
+
+### How much does Pipedrive cost?
+
+Pipedrive's typical plan, Growth, costs $468 a year, less than the median of $1,044 a year across the 26 CRMs we scored. Its plans run from $168 a year (Lite) to $948 a year (Ultimate). Add-ons such as LeadBooster (web forms, chatbot, Prospector), Smart Docs (documents and e-signatures) and Projects cost extra.
+
+### Does Pipedrive have a free trial?
+
+Yes: 14 days, with no credit card needed. The longest trial we found is 90 days: see [the CRMs with the longest free trials](https://thecrmcomparewebsite.github.io/the-crm-compare-website/blog/longest-free-trial-crm.html).
+
+### Who is Pipedrive best for?
+
+Pipedrive is a general business CRM, not one built for real estate, so an agent has to set up lead routing, transactions and past-client follow-up themselves.
+
+### Is Pipedrive a good CRM for real estate agents?
+
+Pipedrive scores 6.6 out of 10, #6 of the 26 CRMs we scored. Its best category is terms of service (8) and its weakest is reviews (5). Pipedrive is a general-purpose CRM built for salespeople across industries, not an ideal fit for any type of real estate buyer.
+
+### What do customers say about Pipedrive?
+
+Across 459 ratings on 11 review sites, Pipedrive averages 4.2 stars, and 83% of ratings are four or five stars. Most ratings are high and ease of use is widely praised, but critical reviewers report slow, bot-only support, billing and cancellation problems, and features oversold by sales.
+
+### Does Pipedrive have a mobile app?
+
+Yes. Native iOS and Android apps on all plans with pipeline, contacts, calendar, offline mode, calling, card scanner and Insights dashboards.
+
+### Does Pipedrive connect to the MLS?
+
+No. No MLS or IDX listing import. The real estate page only advises choosing a CRM that works with IDX platforms.
+
+### Can you text clients from Pipedrive?
+
+No. No built-in SMS; the mobile app only opens the phone's own messaging app, and SMS needs third-party Marketplace apps.
+
+### Can I import my contacts into Pipedrive?
+
+Yes. Spreadsheet import (CSV, XLS, XLSX) with field mapping, custom-field creation, duplicate merge and revert; free Import2 migration from 35+ CRMs.
+
+### Who makes Pipedrive?
+
+Pipedrive Inc. (majority owned by Vista Equity Partners), based in New York, New York, United States.
+
+### What are the best alternatives to Pipedrive?
+
+The alternatives our report compares it with: [RealtyJuggler](../reports/realtyjuggler.md) (9.8), [Wise Agent](../reports/wise-agent.md) (8.4) and [CloseCRM](../reports/closecrm.md) (6.9). See [Pipedrive vs RealtyJuggler](../comparisons/pipedrive-vs-realtyjuggler.md) side by side.
+
 ## Sources
 
 - Vendor website: [Home page](https://www.pipedrive.com) · [Pricing](https://www.pipedrive.com/en/pricing) · [About](https://www.pipedrive.com/en/about) · [Newsroom](https://www.pipedrive.com/en/newsroom) · [Onboarding](https://www.pipedrive.com/en/products/sales/onboarding) · [Contact sales](https://www.pipedrive.com/en/contact-sales) · [Real estate CRM](https://www.pipedrive.com/en/industries/real-estate-crm) · [Web Forms](https://www.pipedrive.com/en/features/web-forms)

@@ -330,6 +330,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [realgeeks.com](https://www.realgeeks.com/) | [propertybase.lwolf.com](https://propertybase.lwolf.com/) |
 | Full report | [Real Geeks report](../reports/real-geeks.md) | [PropertyBase Salesforce Edition report](../reports/propertybase-salesforce-edition.md) |
 
+## Frequently asked questions
+
+### Which is better, Real Geeks or PropertyBase Salesforce Edition?
+
+Real Geeks scores higher overall: 5.6 to 4.6 out of 10. It wins on features, reviews, value, terms of service and support; PropertyBase Salesforce Edition wins on governance.
+
+### Which is cheaper, Real Geeks or PropertyBase Salesforce Edition?
+
+Real Geeks: its typical plan (Real Geeks Platform) costs $3,990 a year, against $10,680 for PropertyBase Salesforce Edition (Propertybase Salesforce Edition).
+
+### Which has more features, Real Geeks or PropertyBase Salesforce Edition?
+
+Real Geeks, with 74.5 of 119 points on our feature checklist against 74 for PropertyBase Salesforce Edition.
+
+### Do Real Geeks and PropertyBase Salesforce Edition have free trials?
+
+Real Geeks has no free trial; PropertyBase Salesforce Edition has no free trial.
+
+### Who should choose Real Geeks and who should choose PropertyBase Salesforce Edition?
+
+Real Geeks is the better fit for agents with an assistant and high-volume teams; PropertyBase Salesforce Edition is the better fit for offices and franchises. The full reports: [Real Geeks](../reports/real-geeks.md) and [PropertyBase Salesforce Edition](../reports/propertybase-salesforce-edition.md).
+
 ## Related comparisons
 
 - [Real Geeks vs RealtyJuggler](real-geeks-vs-realtyjuggler.md)

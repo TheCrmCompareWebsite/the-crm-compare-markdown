@@ -335,6 +335,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [realtyjuggler.com](https://www.realtyjuggler.com/) | [buildout.com/platform/rethink-by-buildout](https://www.buildout.com/platform/rethink-by-buildout) |
 | Full report | [RealtyJuggler report](../reports/realtyjuggler.md) | [RethinkCRM report](../reports/rethinkcrm.md) |
 
+## Frequently asked questions
+
+### Which is better, RealtyJuggler or RethinkCRM?
+
+RealtyJuggler scores higher overall: 9.8 to 5.4 out of 10. It wins on features, reviews, value, terms of service, support and governance.
+
+### Which is cheaper, RealtyJuggler or RethinkCRM?
+
+RealtyJuggler: its typical plan costs $179 a year, against $1,548 for RethinkCRM (Rethink).
+
+### Which has more features, RealtyJuggler or RethinkCRM?
+
+RealtyJuggler, with 103.5 of 119 points on our feature checklist against 62 for RethinkCRM.
+
+### Do RealtyJuggler and RethinkCRM have free trials?
+
+RealtyJuggler has a 90-day free trial (no credit card needed); RethinkCRM has no free trial.
+
+### Who should choose RealtyJuggler and who should choose RethinkCRM?
+
+RealtyJuggler is the better fit for new agents. The full reports: [RealtyJuggler](../reports/realtyjuggler.md) and [RethinkCRM](../reports/rethinkcrm.md).
+
 ## Related comparisons
 
 - [RealtyJuggler vs Wise Agent](realtyjuggler-vs-wise-agent.md)

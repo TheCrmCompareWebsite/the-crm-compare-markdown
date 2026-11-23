@@ -591,6 +591,52 @@ At a modest price for an above-average feature set, Realvolve is a good value fo
 - [Realvolve vs Wise Agent](../comparisons/realvolve-vs-wise-agent.md)
 - [Realvolve vs IXACT Contact](../comparisons/ixact-contact-vs-realvolve.md)
 
+## Frequently asked questions
+
+### How much does Realvolve cost?
+
+Realvolve's typical plan, Professional, costs $790 a year, less than the median of $1,044 a year across the 26 CRMs we scored. Its plans run from $490 a year (Essential) to $790 a year (Professional). Add-ons such as Smart Launch setup fee (Professional), Smart Launch setup fee (Essential) and Hands-on coaching cost extra.
+
+### Does Realvolve have a free trial?
+
+Yes: 14 days, with no credit card needed. The longest trial we found is 90 days: see [the CRMs with the longest free trials](https://thecrmcomparewebsite.github.io/the-crm-compare-website/blog/longest-free-trial-crm.html).
+
+### Who is Realvolve best for?
+
+Realvolve is built for real estate. We rate it ideal for agents with an assistant and high-volume teams.
+
+### Is Realvolve a good CRM for real estate agents?
+
+Realvolve scores 6.3 out of 10, #10 of the 26 CRMs we scored. Its best category is terms of service (8) and its weakest is reviews (3). Realvolve is a real estate specific CRM built for an unusual buyer: a detail-oriented agent willing to invest heavily in designing how every relationship and every deal should run, then letting the system carry it out.
+
+### What do customers say about Realvolve?
+
+Across 120 ratings on 4 review sites, Realvolve averages 3.9 stars, and 73% of ratings are four or five stars. Long-time users praise the automation, but more than one review in five gives one or two stars, citing renewal charges, unresolved bugs and slow pages.
+
+### Does Realvolve have a mobile app?
+
+Yes. Web app installs on iPhone or Android home screens.
+
+### Does Realvolve connect to the MLS?
+
+Partly. Pulls the agent's own active listings nightly from an IDX Broker account (separate subscription).
+
+### Can you text clients from Realvolve?
+
+Yes. Two-way texting from a Realvolve number, with replies.
+
+### Can I import my contacts into Realvolve?
+
+Yes. CSV import with saved field mappings, including a ready-made Top Producer format.
+
+### Who makes Realvolve?
+
+Realvolve, Inc., based in Greenwood Village, Colorado, United States.
+
+### What are the best alternatives to Realvolve?
+
+The alternatives our report compares it with: [RealtyJuggler](../reports/realtyjuggler.md) (9.8), [Wise Agent](../reports/wise-agent.md) (8.4) and [IXACT Contact](../reports/ixact-contact.md) (6.7). See [Realvolve vs RealtyJuggler](../comparisons/realtyjuggler-vs-realvolve.md) side by side.
+
 ## Sources
 
 - Vendor website: [Home page and plans](https://www.realvolve.com/) · [About us](https://www.realvolve.com/about-us) · [Ellis AI](https://www.realvolve.com/ellis-ai) · [CRM for Teams](https://www.realvolve.com/teams) · [Schedule a demo](https://www.realvolve.com/consult) · [Free-trial sign-up page](https://start.realvolve.com/trial?type=pro-monthly-2025-free-trial) · [Professional plan sign-up page](https://start.realvolve.com/trial?type=pro-monthly-2025) · [Product updates](https://www.realvolve.com/product-updates) · [Pricing page, October 2025 (Internet Archive)](https://web.archive.org/web/20251014235322/https://www.realvolve.com/pricing/)

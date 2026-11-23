@@ -337,6 +337,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [wiseagent.com](https://wiseagent.com) | [zoho.com/crm](https://www.zoho.com/crm/) |
 | Full report | [Wise Agent report](../reports/wise-agent.md) | [Zoho CRM report](../reports/zoho-crm.md) |
 
+## Frequently asked questions
+
+### Which is better, Wise Agent or Zoho CRM?
+
+Wise Agent scores higher overall: 8.4 to 6.3 out of 10. It wins on features, reviews, support and governance; Zoho CRM wins on value and terms of service.
+
+### Which is cheaper, Wise Agent or Zoho CRM?
+
+Zoho CRM: its typical plan (Professional) costs $276 a year, against $499 for Wise Agent (CRM).
+
+### Which has more features, Wise Agent or Zoho CRM?
+
+Wise Agent, with 95.5 of 119 points on our feature checklist against 70 for Zoho CRM.
+
+### Do Wise Agent and Zoho CRM have free trials?
+
+Wise Agent has a 14-day free trial (credit card required); Zoho CRM has a 15-day free trial (no credit card needed).
+
+### Who should choose Wise Agent and who should choose Zoho CRM?
+
+Wise Agent is the better fit for new agents, average agents, agents with an assistant, high-volume teams and offices. The full reports: [Wise Agent](../reports/wise-agent.md) and [Zoho CRM](../reports/zoho-crm.md).
+
 ## Related comparisons
 
 - [Wise Agent vs RealtyJuggler](realtyjuggler-vs-wise-agent.md)

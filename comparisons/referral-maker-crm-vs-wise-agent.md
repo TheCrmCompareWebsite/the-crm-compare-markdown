@@ -331,6 +331,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [wiseagent.com](https://wiseagent.com) | [buffini.com/solutions/referral-maker-crm](https://www.buffini.com/solutions/referral-maker-crm/) |
 | Full report | [Wise Agent report](../reports/wise-agent.md) | [Referral Maker CRM report](../reports/referral-maker-crm.md) |
 
+## Frequently asked questions
+
+### Which is better, Wise Agent or Referral Maker CRM?
+
+Wise Agent scores higher overall: 8.4 to 6.4 out of 10. It wins on features, reviews, value, terms of service, support and governance.
+
+### Which is cheaper, Wise Agent or Referral Maker CRM?
+
+Referral Maker CRM: its typical plan costs $468 a year, against $499 for Wise Agent (CRM).
+
+### Which has more features, Wise Agent or Referral Maker CRM?
+
+Wise Agent, with 95.5 of 119 points on our feature checklist against 30.5 for Referral Maker CRM.
+
+### Do Wise Agent and Referral Maker CRM have free trials?
+
+Wise Agent has a 14-day free trial (credit card required); Referral Maker CRM has a 30-day free trial.
+
+### Who should choose Wise Agent and who should choose Referral Maker CRM?
+
+Wise Agent is the better fit for new agents, high-volume teams and offices. The full reports: [Wise Agent](../reports/wise-agent.md) and [Referral Maker CRM](../reports/referral-maker-crm.md).
+
 ## Related comparisons
 
 - [Wise Agent vs RealtyJuggler](realtyjuggler-vs-wise-agent.md)

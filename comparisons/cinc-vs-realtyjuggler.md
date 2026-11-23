@@ -323,6 +323,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [realtyjuggler.com](https://www.realtyjuggler.com/) | [cincpro.com](https://www.cincpro.com) |
 | Full report | [RealtyJuggler report](../reports/realtyjuggler.md) | [CINC report](../reports/cinc.md) |
 
+## Frequently asked questions
+
+### Which is better, RealtyJuggler or CINC?
+
+RealtyJuggler scores higher overall: 9.8 to 4.3 out of 10. It wins on features, reviews, value, terms of service and governance.
+
+### Which is cheaper, RealtyJuggler or CINC?
+
+RealtyJuggler: its typical plan costs $179 a year, against $11,988 for CINC (Solo).
+
+### Which has more features, RealtyJuggler or CINC?
+
+RealtyJuggler, with 103.5 of 119 points on our feature checklist against 69.5 for CINC.
+
+### Do RealtyJuggler and CINC have free trials?
+
+RealtyJuggler has a 90-day free trial (no credit card needed); CINC has no free trial.
+
+### Who should choose RealtyJuggler and who should choose CINC?
+
+RealtyJuggler is the better fit for new agents, average agents, agents with an assistant and offices; CINC is the better fit for high-volume teams. The full reports: [RealtyJuggler](../reports/realtyjuggler.md) and [CINC](../reports/cinc.md).
+
 ## Related comparisons
 
 - [RealtyJuggler vs Wise Agent](realtyjuggler-vs-wise-agent.md)

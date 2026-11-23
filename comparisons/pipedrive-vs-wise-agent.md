@@ -334,6 +334,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [wiseagent.com](https://wiseagent.com) | [pipedrive.com](https://www.pipedrive.com) |
 | Full report | [Wise Agent report](../reports/wise-agent.md) | [Pipedrive report](../reports/pipedrive.md) |
 
+## Frequently asked questions
+
+### Which is better, Wise Agent or Pipedrive?
+
+Wise Agent scores higher overall: 8.4 to 6.6 out of 10. It wins on features, reviews, value, support and governance; Pipedrive wins on terms of service.
+
+### Which is cheaper, Wise Agent or Pipedrive?
+
+Pipedrive: its typical plan (Growth) costs $468 a year, against $499 for Wise Agent (CRM).
+
+### Which has more features, Wise Agent or Pipedrive?
+
+Wise Agent, with 95.5 of 119 points on our feature checklist against 62 for Pipedrive.
+
+### Do Wise Agent and Pipedrive have free trials?
+
+Wise Agent has a 14-day free trial (credit card required); Pipedrive has a 14-day free trial (no credit card needed).
+
+### Who should choose Wise Agent and who should choose Pipedrive?
+
+Wise Agent is the better fit for new agents, average agents, agents with an assistant, high-volume teams and offices. The full reports: [Wise Agent](../reports/wise-agent.md) and [Pipedrive](../reports/pipedrive.md).
+
 ## Related comparisons
 
 - [Wise Agent vs RealtyJuggler](realtyjuggler-vs-wise-agent.md)

@@ -289,6 +289,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [ixactcontact.com](https://www.ixactcontact.com) | [realvolve.com](https://www.realvolve.com/) |
 | Full report | [IXACT Contact report](../reports/ixact-contact.md) | [Realvolve report](../reports/realvolve.md) |
 
+## Frequently asked questions
+
+### Which is better, IXACT Contact or Realvolve?
+
+IXACT Contact scores higher overall: 6.7 to 6.3 out of 10. It wins on features, reviews, value and support; Realvolve wins on terms of service and governance.
+
+### Which is cheaper, IXACT Contact or Realvolve?
+
+IXACT Contact: its typical plan costs $561 a year, against $790 for Realvolve (Professional).
+
+### Which has more features, IXACT Contact or Realvolve?
+
+IXACT Contact, with 83.5 of 119 points on our feature checklist against 74.5 for Realvolve.
+
+### Do IXACT Contact and Realvolve have free trials?
+
+IXACT Contact has a 14-day free trial (credit card required); Realvolve has a 14-day free trial (no credit card needed).
+
+### Who should choose IXACT Contact and who should choose Realvolve?
+
+IXACT Contact is the better fit for new agents, average agents and offices. The full reports: [IXACT Contact](../reports/ixact-contact.md) and [Realvolve](../reports/realvolve.md).
+
 ## Related comparisons
 
 - [IXACT Contact vs RealtyJuggler](ixact-contact-vs-realtyjuggler.md)

@@ -312,6 +312,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [wiseagent.com](https://wiseagent.com) | [lofty.com](https://lofty.com/real-estate/crm) |
 | Full report | [Wise Agent report](../reports/wise-agent.md) | [Lofty report](../reports/lofty.md) |
 
+## Frequently asked questions
+
+### Which is better, Wise Agent or Lofty?
+
+Wise Agent scores higher overall: 8.4 to 5.1 out of 10. It wins on reviews, value, terms of service, support and governance; Lofty wins on features.
+
+### Which is cheaper, Wise Agent or Lofty?
+
+Wise Agent: its typical plan (CRM) costs $499 a year, against $3,588 for Lofty (Lofty Agent).
+
+### Which has more features, Wise Agent or Lofty?
+
+Lofty, with 102 of 119 points on our feature checklist against 95.5 for Wise Agent.
+
+### Do Wise Agent and Lofty have free trials?
+
+Wise Agent has a 14-day free trial (credit card required); Lofty has no free trial.
+
+### Who should choose Wise Agent and who should choose Lofty?
+
+Wise Agent is the better fit for new agents, average agents and agents with an assistant; Lofty is the better fit for franchises. The full reports: [Wise Agent](../reports/wise-agent.md) and [Lofty](../reports/lofty.md).
+
 ## Related comparisons
 
 - [Wise Agent vs RealtyJuggler](realtyjuggler-vs-wise-agent.md)

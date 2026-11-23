@@ -315,6 +315,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [realtyjuggler.com](https://www.realtyjuggler.com/) | [lofty.com](https://lofty.com/real-estate/crm) |
 | Full report | [RealtyJuggler report](../reports/realtyjuggler.md) | [Lofty report](../reports/lofty.md) |
 
+## Frequently asked questions
+
+### Which is better, RealtyJuggler or Lofty?
+
+RealtyJuggler scores higher overall: 9.8 to 5.1 out of 10. It wins on features, reviews, value, terms of service, support and governance.
+
+### Which is cheaper, RealtyJuggler or Lofty?
+
+RealtyJuggler: its typical plan costs $179 a year, against $3,588 for Lofty (Lofty Agent).
+
+### Which has more features, RealtyJuggler or Lofty?
+
+RealtyJuggler, with 103.5 of 119 points on our feature checklist against 102 for Lofty.
+
+### Do RealtyJuggler and Lofty have free trials?
+
+RealtyJuggler has a 90-day free trial (no credit card needed); Lofty has no free trial.
+
+### Who should choose RealtyJuggler and who should choose Lofty?
+
+RealtyJuggler is the better fit for new agents, average agents, agents with an assistant and offices; Lofty is the better fit for high-volume teams and franchises. The full reports: [RealtyJuggler](../reports/realtyjuggler.md) and [Lofty](../reports/lofty.md).
+
 ## Related comparisons
 
 - [RealtyJuggler vs Wise Agent](realtyjuggler-vs-wise-agent.md)

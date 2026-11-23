@@ -317,6 +317,24 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [wiseagent.com](https://wiseagent.com) | [sierrainteractive.com](https://www.sierrainteractive.com/) |
 | Full report | [Wise Agent report](../reports/wise-agent.md) | [Sierra Interactive report](../reports/sierra-interactive.md) |
 
+## Frequently asked questions
+
+### Which is better, Wise Agent or Sierra Interactive?
+
+Wise Agent scores higher overall: 8.4 to 4.5 out of 10. It wins on features, reviews, value, terms of service and governance.
+
+### Which is cheaper, Wise Agent or Sierra Interactive?
+
+Wise Agent: its typical plan (CRM) costs $499 a year, against $3,599 for Sierra Interactive (Starter).
+
+### Which has more features, Wise Agent or Sierra Interactive?
+
+Wise Agent, with 95.5 of 119 points on our feature checklist against 55.5 for Sierra Interactive.
+
+### Do Wise Agent and Sierra Interactive have free trials?
+
+Wise Agent has a 14-day free trial (credit card required); Sierra Interactive has no free trial.
+
 ## Related comparisons
 
 - [Wise Agent vs RealtyJuggler](realtyjuggler-vs-wise-agent.md)

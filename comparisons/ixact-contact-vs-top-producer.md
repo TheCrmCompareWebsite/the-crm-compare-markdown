@@ -309,6 +309,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [ixactcontact.com](https://www.ixactcontact.com) | [topproducer.com](https://www.topproducer.com) |
 | Full report | [IXACT Contact report](../reports/ixact-contact.md) | [Top Producer report](../reports/top-producer.md) |
 
+## Frequently asked questions
+
+### Which is better, IXACT Contact or Top Producer?
+
+IXACT Contact scores higher overall: 6.7 to 4.8 out of 10. It wins on features, reviews, value, terms of service, support and governance.
+
+### Which is cheaper, IXACT Contact or Top Producer?
+
+IXACT Contact: its typical plan costs $561 a year, against $2,148 for Top Producer (Pro).
+
+### Which has more features, IXACT Contact or Top Producer?
+
+IXACT Contact, with 83.5 of 119 points on our feature checklist against 68.5 for Top Producer.
+
+### Do IXACT Contact and Top Producer have free trials?
+
+IXACT Contact has a 14-day free trial (credit card required); Top Producer has no free trial.
+
+### Who should choose IXACT Contact and who should choose Top Producer?
+
+IXACT Contact is the better fit for new agents and offices. The full reports: [IXACT Contact](../reports/ixact-contact.md) and [Top Producer](../reports/top-producer.md).
+
 ## Related comparisons
 
 - [IXACT Contact vs RealtyJuggler](ixact-contact-vs-realtyjuggler.md)

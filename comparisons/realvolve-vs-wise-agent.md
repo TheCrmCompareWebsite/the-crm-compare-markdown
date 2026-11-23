@@ -305,6 +305,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [wiseagent.com](https://wiseagent.com) | [realvolve.com](https://www.realvolve.com/) |
 | Full report | [Wise Agent report](../reports/wise-agent.md) | [Realvolve report](../reports/realvolve.md) |
 
+## Frequently asked questions
+
+### Which is better, Wise Agent or Realvolve?
+
+Wise Agent scores higher overall: 8.4 to 6.3 out of 10. It wins on features, reviews, value, support and governance; Realvolve wins on terms of service.
+
+### Which is cheaper, Wise Agent or Realvolve?
+
+Wise Agent: its typical plan (CRM) costs $499 a year, against $790 for Realvolve (Professional).
+
+### Which has more features, Wise Agent or Realvolve?
+
+Wise Agent, with 95.5 of 119 points on our feature checklist against 74.5 for Realvolve.
+
+### Do Wise Agent and Realvolve have free trials?
+
+Wise Agent has a 14-day free trial (credit card required); Realvolve has a 14-day free trial (no credit card needed).
+
+### Who should choose Wise Agent and who should choose Realvolve?
+
+Wise Agent is the better fit for new agents, average agents and offices. The full reports: [Wise Agent](../reports/wise-agent.md) and [Realvolve](../reports/realvolve.md).
+
 ## Related comparisons
 
 - [Wise Agent vs RealtyJuggler](realtyjuggler-vs-wise-agent.md)

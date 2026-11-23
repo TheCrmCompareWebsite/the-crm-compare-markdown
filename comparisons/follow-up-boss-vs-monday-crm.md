@@ -309,6 +309,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [followupboss.com](https://www.followupboss.com) | [monday.com/crm](https://monday.com/crm) |
 | Full report | [Follow Up Boss report](../reports/follow-up-boss.md) | [monday CRM report](../reports/monday-crm.md) |
 
+## Frequently asked questions
+
+### Which is better, Follow Up Boss or monday CRM?
+
+Follow Up Boss scores higher overall: 6.5 to 5.2 out of 10. It wins on features, reviews, value, terms of service and support; monday CRM wins on governance.
+
+### Which is cheaper, Follow Up Boss or monday CRM?
+
+Follow Up Boss: its typical plan (Grow) costs $696 a year, against $1,008 for monday CRM (Pro).
+
+### Which has more features, Follow Up Boss or monday CRM?
+
+Follow Up Boss, with 79.5 of 119 points on our feature checklist against 59.5 for monday CRM.
+
+### Do Follow Up Boss and monday CRM have free trials?
+
+Follow Up Boss has a 14-day free trial (no credit card needed); monday CRM has a 14-day free trial (no credit card needed).
+
+### Who should choose Follow Up Boss and who should choose monday CRM?
+
+Follow Up Boss is the better fit for agents with an assistant, high-volume teams and offices. The full reports: [Follow Up Boss](../reports/follow-up-boss.md) and [monday CRM](../reports/monday-crm.md).
+
 ## Related comparisons
 
 - [Follow Up Boss vs RealtyJuggler](follow-up-boss-vs-realtyjuggler.md)

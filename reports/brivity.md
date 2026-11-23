@@ -606,6 +606,52 @@ For the customer it targets, Brivity is a reasonable purchase: a team that will 
 - [Brivity vs IXACT Contact](../comparisons/brivity-vs-ixact-contact.md)
 - [Brivity vs PropertyBase Salesforce Edition](../comparisons/brivity-vs-propertybase-salesforce-edition.md)
 
+## Frequently asked questions
+
+### How much does Brivity cost?
+
+Brivity's typical plan, Growth (Solo Agent), costs $3,588 a year, more than the median of $1,044 a year across the 26 CRMs we scored. Add-ons such as Setup fee, Phone System and Opportunities (expired and FSBO leads) cost extra.
+
+### Does Brivity have a free trial?
+
+No, we found no free trial. The longest trial we found is 90 days: see [the CRMs with the longest free trials](https://thecrmcomparewebsite.github.io/the-crm-compare-website/blog/longest-free-trial-crm.html).
+
+### Who is Brivity best for?
+
+Brivity is built for real estate. We rate it ideal for high-volume teams.
+
+### Is Brivity a good CRM for real estate agents?
+
+Brivity scores 6.2 out of 10, #12 of the 26 CRMs we scored. Its best category is support (10) and its weakest is value (3.1). Brivity is a real estate platform rather than a generic CRM, built for high-volume teams.
+
+### What do customers say about Brivity?
+
+Across 208 ratings on 6 review sites, Brivity averages 4.0 stars, and 73% of ratings are four or five stars. Reviewers praise fast support and steady improvements, but about a quarter of the reviews are one or two stars, driven by mobile-app bugs, sales overpromising and billing problems.
+
+### Does Brivity have a mobile app?
+
+Yes. Brivity GO app for iOS and Android.
+
+### Does Brivity connect to the MLS?
+
+Yes. Automatic MLS/IDX listing sync.
+
+### Can you text clients from Brivity?
+
+Yes. Two-way texting with unlimited texts.
+
+### Can I import my contacts into Brivity?
+
+Yes. Contact imports; onboarding includes importing the existing database.
+
+### Who makes Brivity?
+
+Brivity, Inc. (part of PLACE), based in Bellingham, Washington, United States.
+
+### What are the best alternatives to Brivity?
+
+The alternatives our report compares it with: [RealtyJuggler](../reports/realtyjuggler.md) (9.8), [Wise Agent](../reports/wise-agent.md) (8.4) and [IXACT Contact](../reports/ixact-contact.md) (6.7). See [Brivity vs RealtyJuggler](../comparisons/brivity-vs-realtyjuggler.md) side by side.
+
 ## Sources
 
 - Vendor website: [Home](https://www.brivity.com/) · [Plans](https://www.brivity.com/plans/) · [FAQ](https://www.brivity.com/faq/) · [Real estate CRM](https://www.brivity.com/re-crm/) · [CRM](https://www.brivity.com/crm/) · [Mobile apps](https://www.brivity.com/mobile-apps/) · [IDX websites](https://www.brivity.com/idx-websites/) · [CMA](https://www.brivity.com/cma/) · [Gabbi AI](https://www.brivity.com/real-estate-ai/) · [Phone System](https://www.brivity.com/phone-system/) · [About](https://www.brivity.com/about/) · [Contact](https://www.brivity.com/contact/) · [Open house features](https://www.brivity.com/blog/brivity-open-house-features/) · [Accountability dashboard](https://www.brivity.com/blog/real-time-team-accountability-dashboard-brivity/) · [Daily routine](https://www.brivity.com/blog/daily-routine/) · [CRM app](https://www.brivity.com/blog/real-estate-crm-app/) · [Brivity Home app](https://apps.apple.com/us/app/brivity-home/id1446481392)

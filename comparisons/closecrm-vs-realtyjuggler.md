@@ -346,6 +346,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [realtyjuggler.com](https://www.realtyjuggler.com/) | [close.com](https://www.close.com) |
 | Full report | [RealtyJuggler report](../reports/realtyjuggler.md) | [CloseCRM report](../reports/closecrm.md) |
 
+## Frequently asked questions
+
+### Which is better, RealtyJuggler or CloseCRM?
+
+RealtyJuggler scores higher overall: 9.8 to 6.9 out of 10. It wins on features, reviews, value, support and governance.
+
+### Which is cheaper, RealtyJuggler or CloseCRM?
+
+RealtyJuggler: its typical plan costs $179 a year, against $1,188 for CloseCRM (Growth).
+
+### Which has more features, RealtyJuggler or CloseCRM?
+
+RealtyJuggler, with 103.5 of 119 points on our feature checklist against 55.5 for CloseCRM.
+
+### Do RealtyJuggler and CloseCRM have free trials?
+
+RealtyJuggler has a 90-day free trial (no credit card needed); CloseCRM has a 14-day free trial (no credit card needed).
+
+### Who should choose RealtyJuggler and who should choose CloseCRM?
+
+RealtyJuggler is the better fit for new agents, average agents, agents with an assistant and offices. The full reports: [RealtyJuggler](../reports/realtyjuggler.md) and [CloseCRM](../reports/closecrm.md).
+
 ## Related comparisons
 
 - [RealtyJuggler vs Wise Agent](realtyjuggler-vs-wise-agent.md)

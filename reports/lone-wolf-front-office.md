@@ -559,6 +559,52 @@ At about $4,188 a year, Front Office is poor value as a CRM alone, though a brok
 - [Lone Wolf Front Office vs Wise Agent](../comparisons/lone-wolf-front-office-vs-wise-agent.md)
 - [Lone Wolf Front Office vs IXACT Contact](../comparisons/ixact-contact-vs-lone-wolf-front-office.md)
 
+## Frequently asked questions
+
+### How much does Lone Wolf Front Office cost?
+
+Lone Wolf Front Office's typical plan, Website + CRM, costs $4,188 a year, more than the median of $1,044 a year across the 26 CRMs we scored. Its plans run from $4,188 a year (Website + CRM) to $10,188 a year (Website + CRM + Leads + Text Concierge).
+
+### Does Lone Wolf Front Office have a free trial?
+
+No, we found no free trial. The longest trial we found is 90 days: see [the CRMs with the longest free trials](https://thecrmcomparewebsite.github.io/the-crm-compare-website/blog/longest-free-trial-crm.html).
+
+### Who is Lone Wolf Front Office best for?
+
+Lone Wolf Front Office is built for real estate. Its best fit: Real estate office.
+
+### Is Lone Wolf Front Office a good CRM for real estate agents?
+
+Lone Wolf Front Office scores 4.3 out of 10, #26 of the 26 CRMs we scored. Its best category is governance (7.5) and its weakest is terms of service (2). Lone Wolf Front Office is a real estate CRM and website platform built for independent brokerages, and the main reason a broker might hesitate is how difficult it is to leave once signed.
+
+### What do customers say about Lone Wolf Front Office?
+
+Across 82 ratings on 3 review sites, Lone Wolf Front Office averages 2.3 stars, and 33% of ratings are four or five stars. Reviews across Lone Wolf’s products describe slow support, sales promises that were not kept and contracts that are hard to leave.
+
+### Does Lone Wolf Front Office have a mobile app?
+
+Yes. Propertybase GO app for iOS and Android.
+
+### Does Lone Wolf Front Office connect to the MLS?
+
+Yes. Integrates with 300+ MLSs.
+
+### Can you text clients from Lone Wolf Front Office?
+
+Yes. Two-way text conversations from the CRM.
+
+### Can I import my contacts into Lone Wolf Front Office?
+
+Yes. CSV and Google Contacts import with field mapping.
+
+### Who makes Lone Wolf Front Office?
+
+Lone Wolf Real Estate Technologies Inc. (Lone Wolf Technologies), based in Dallas, Texas, United States.
+
+### What are the best alternatives to Lone Wolf Front Office?
+
+The alternatives our report compares it with: [RealtyJuggler](../reports/realtyjuggler.md) (9.8), [Wise Agent](../reports/wise-agent.md) (8.4) and [IXACT Contact](../reports/ixact-contact.md) (6.7). See [Lone Wolf Front Office vs RealtyJuggler](../comparisons/lone-wolf-front-office-vs-realtyjuggler.md) side by side.
+
 ## Sources
 
 - Vendor website: [Front Office](https://www.lwolf.com/engage/websites) · [CRM lineup](https://lwolf.com/engage/crm) · [Websites](https://lwolf.com/engage/websites) · [Pricing](https://lwolf.com/pricing) · [Get a demo](https://lwolf.com/get-a-demo) · [Propertybase GO is now Front Office](https://lwolf.com/resources/icymi-propertybase-go-now-lone-wolf-front-office) · [About](https://lwolf.com/about) · [Leadership](https://lwolf.com/leadership) · [Contact](https://lwolf.com/contact) · [Support](https://lwolf.com/support) · [Front Office training](https://lwolf.com/training-resources/front-office) · [Propertybase GO training](https://lwolf.com/training-resources/propertybase-go) · [Careers](https://jobs.lever.co/lwolf)

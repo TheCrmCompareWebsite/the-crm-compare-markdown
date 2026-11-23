@@ -593,6 +593,52 @@ At its price, it is fair value rather than a bargain: the cost is moderate, and 
 - [Referral Maker CRM vs Wise Agent](../comparisons/referral-maker-crm-vs-wise-agent.md)
 - [Referral Maker CRM vs IXACT Contact](../comparisons/ixact-contact-vs-referral-maker-crm.md)
 
+## Frequently asked questions
+
+### How much does Referral Maker CRM cost?
+
+Referral Maker CRM's typical plan costs $468 a year, less than the median of $1,044 a year across the 26 CRMs we scored. Its plans run from $468 a year (Referral Maker CRM) to $15,740 a year (Leadership Coaching). Add-ons such as Referral Maker CRM | Team seat (per user), Video Messaging (BombBomb) and Activation fee (monthly billing only; amount not published) cost extra.
+
+### Does Referral Maker CRM have a free trial?
+
+Yes: 30 days. The longest trial we found is 90 days: see [the CRMs with the longest free trials](https://thecrmcomparewebsite.github.io/the-crm-compare-website/blog/longest-free-trial-crm.html).
+
+### Who is Referral Maker CRM best for?
+
+Referral Maker CRM is built for real estate. We rate it ideal for average agents and agents with an assistant.
+
+### Is Referral Maker CRM a good CRM for real estate agents?
+
+Referral Maker CRM scores 6.4 out of 10, #9 of the 26 CRMs we scored. Its best category is support (9) and its weakest is features (2.6). Referral Maker CRM is a real estate-specific CRM designed for established agents, with or without an assistant.
+
+### What do customers say about Referral Maker CRM?
+
+Across 212 ratings on 7 review sites, Referral Maker CRM averages 3.8 stars, and 67% of ratings are four or five stars. Praise for ease of use and support is offset by a long record of mobile app crashes, billing complaints and more than a quarter of ratings at one or two stars.
+
+### Does Referral Maker CRM have a mobile app?
+
+Yes. Native iPhone and Android apps.
+
+### Does Referral Maker CRM connect to the MLS?
+
+Not that we could find.
+
+### Can you text clients from Referral Maker CRM?
+
+Not that we could find.
+
+### Can I import my contacts into Referral Maker CRM?
+
+Yes. CSV import with a column-mapping preview; phone contacts can also be imported from the app.
+
+### Who makes Referral Maker CRM?
+
+Buffini & Company, based in Carlsbad, California, United States.
+
+### What are the best alternatives to Referral Maker CRM?
+
+The alternatives our report compares it with: [RealtyJuggler](../reports/realtyjuggler.md) (9.8), [Wise Agent](../reports/wise-agent.md) (8.4) and [IXACT Contact](../reports/ixact-contact.md) (6.7). See [Referral Maker CRM vs RealtyJuggler](../comparisons/realtyjuggler-vs-referral-maker-crm.md) side by side.
+
 ## Sources
 
 - Company website: [Referral Maker CRM](https://www.buffini.com/solutions/referral-maker-crm/) · [Memberships and pricing](https://www.buffini.com/solutions/product-journey/) · [Referral Maker PRO](https://www.buffini.com/solutions/referral-maker-pro/) · [Our System Explained](https://www.buffini.com/solutions/referral-maker-crm/our-system-explained/) · [BoldTrail + Buffini Mode](https://www.buffini.com/solutions/boldtrail/) · [Leadership](https://www.buffini.com/company/) · [Contact](https://www.buffini.com/company/contact-us/)

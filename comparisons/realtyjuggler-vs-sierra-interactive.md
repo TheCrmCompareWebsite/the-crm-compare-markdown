@@ -354,6 +354,24 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [realtyjuggler.com](https://www.realtyjuggler.com/) | [sierrainteractive.com](https://www.sierrainteractive.com/) |
 | Full report | [RealtyJuggler report](../reports/realtyjuggler.md) | [Sierra Interactive report](../reports/sierra-interactive.md) |
 
+## Frequently asked questions
+
+### Which is better, RealtyJuggler or Sierra Interactive?
+
+RealtyJuggler scores higher overall: 9.8 to 4.5 out of 10. It wins on features, reviews, value, terms of service and governance.
+
+### Which is cheaper, RealtyJuggler or Sierra Interactive?
+
+RealtyJuggler: its typical plan costs $179 a year, against $3,599 for Sierra Interactive (Starter).
+
+### Which has more features, RealtyJuggler or Sierra Interactive?
+
+RealtyJuggler, with 103.5 of 119 points on our feature checklist against 55.5 for Sierra Interactive.
+
+### Do RealtyJuggler and Sierra Interactive have free trials?
+
+RealtyJuggler has a 90-day free trial (no credit card needed); Sierra Interactive has no free trial.
+
 ## Related comparisons
 
 - [RealtyJuggler vs Wise Agent](realtyjuggler-vs-wise-agent.md)

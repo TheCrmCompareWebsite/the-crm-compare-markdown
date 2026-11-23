@@ -319,6 +319,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [wiseagent.com](https://wiseagent.com) | [topproducer.com](https://www.topproducer.com) |
 | Full report | [Wise Agent report](../reports/wise-agent.md) | [Top Producer report](../reports/top-producer.md) |
 
+## Frequently asked questions
+
+### Which is better, Wise Agent or Top Producer?
+
+Wise Agent scores higher overall: 8.4 to 4.8 out of 10. It wins on features, reviews, value, terms of service, support and governance.
+
+### Which is cheaper, Wise Agent or Top Producer?
+
+Wise Agent: its typical plan (CRM) costs $499 a year, against $2,148 for Top Producer (Pro).
+
+### Which has more features, Wise Agent or Top Producer?
+
+Wise Agent, with 95.5 of 119 points on our feature checklist against 68.5 for Top Producer.
+
+### Do Wise Agent and Top Producer have free trials?
+
+Wise Agent has a 14-day free trial (credit card required); Top Producer has no free trial.
+
+### Who should choose Wise Agent and who should choose Top Producer?
+
+Wise Agent is the better fit for new agents and offices. The full reports: [Wise Agent](../reports/wise-agent.md) and [Top Producer](../reports/top-producer.md).
+
 ## Related comparisons
 
 - [Wise Agent vs RealtyJuggler](realtyjuggler-vs-wise-agent.md)

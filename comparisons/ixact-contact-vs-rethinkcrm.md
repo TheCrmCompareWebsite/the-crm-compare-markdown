@@ -314,6 +314,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [ixactcontact.com](https://www.ixactcontact.com) | [buildout.com/platform/rethink-by-buildout](https://www.buildout.com/platform/rethink-by-buildout) |
 | Full report | [IXACT Contact report](../reports/ixact-contact.md) | [RethinkCRM report](../reports/rethinkcrm.md) |
 
+## Frequently asked questions
+
+### Which is better, IXACT Contact or RethinkCRM?
+
+IXACT Contact scores higher overall: 6.7 to 5.4 out of 10. It wins on features, value, terms of service, support and governance; RethinkCRM wins on reviews.
+
+### Which is cheaper, IXACT Contact or RethinkCRM?
+
+IXACT Contact: its typical plan costs $561 a year, against $1,548 for RethinkCRM (Rethink).
+
+### Which has more features, IXACT Contact or RethinkCRM?
+
+IXACT Contact, with 83.5 of 119 points on our feature checklist against 62 for RethinkCRM.
+
+### Do IXACT Contact and RethinkCRM have free trials?
+
+IXACT Contact has a 14-day free trial (credit card required); RethinkCRM has no free trial.
+
+### Who should choose IXACT Contact and who should choose RethinkCRM?
+
+IXACT Contact is the better fit for new agents and high-volume teams; RethinkCRM is the better fit for offices. The full reports: [IXACT Contact](../reports/ixact-contact.md) and [RethinkCRM](../reports/rethinkcrm.md).
+
 ## Related comparisons
 
 - [IXACT Contact vs RealtyJuggler](ixact-contact-vs-realtyjuggler.md)

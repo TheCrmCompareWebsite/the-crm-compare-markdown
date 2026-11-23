@@ -597,6 +597,52 @@ As a value proposition, Market Leader falls short. It can make sense for a team 
 - [Market Leader vs Wise Agent](../comparisons/market-leader-vs-wise-agent.md)
 - [Market Leader vs IXACT Contact](../comparisons/ixact-contact-vs-market-leader.md)
 
+## Frequently asked questions
+
+### How much does Market Leader cost?
+
+Market Leader's typical plan, Market Leader Professional, costs $2,268 a year, more than the median of $1,044 a year across the 26 CRMs we scored. Its plans run from $2,268 a year (Market Leader Professional) to $3,948 a year (Market Leader Teams). Add-ons such as Network Boost (social media leads), HouseValues and Leads Direct leads and Setup or activation fee cost extra.
+
+### Does Market Leader have a free trial?
+
+No, we found no free trial. The longest trial we found is 90 days: see [the CRMs with the longest free trials](https://thecrmcomparewebsite.github.io/the-crm-compare-website/blog/longest-free-trial-crm.html).
+
+### Who is Market Leader best for?
+
+Market Leader is built for real estate. We rate it ideal for agents with an assistant and high-volume teams.
+
+### Is Market Leader a good CRM for real estate agents?
+
+Market Leader scores 4.4 out of 10, #24 of the 26 CRMs we scored. Its best category is support (8.5) and its weakest is terms of service (1). MarketLeader is a real estate CRM built for agents with assistants and for high-volume teams that buy leads and need them worked quickly.
+
+### What do customers say about Market Leader?
+
+Across 305 ratings on 11 review sites, Market Leader averages 1.9 stars, and 18% of ratings are four or five stars. Reviewers across nearly every site describe poor leads, oversold promises, hard cancellations and slow support, and more than three-quarters of ratings are one or two stars.
+
+### Does Market Leader have a mobile app?
+
+Yes. iOS and Android app.
+
+### Does Market Leader connect to the MLS?
+
+Yes. Full IDX feed from one or more MLSs.
+
+### Can you text clients from Market Leader?
+
+No. No two-way texting from the CRM; the app opens the phone's own messaging.
+
+### Can I import my contacts into Market Leader?
+
+Yes. CSV import with column mapping; support will import a file for you.
+
+### Who makes Market Leader?
+
+Market Leader Group Inc., part of Constellation Real Estate Group, a division of Constellation Software (TSX: CSU), based in Bellevue, Washington, United States.
+
+### What are the best alternatives to Market Leader?
+
+The alternatives our report compares it with: [RealtyJuggler](../reports/realtyjuggler.md) (9.8), [Wise Agent](../reports/wise-agent.md) (8.4) and [IXACT Contact](../reports/ixact-contact.md) (6.7). See [Market Leader vs RealtyJuggler](../comparisons/market-leader-vs-realtyjuggler.md) side by side.
+
 ## Sources
 
 - Company website and help center: [Home page](https://www.marketleader.com/) · [Professional for Agents](https://www.marketleader.com/products/professional-for-agents/) · [Teams](https://www.marketleader.com/products/teams/) · [About](https://www.marketleader.com/company/about/) · [Contact](https://www.marketleader.com/company/contact/) · [HouseValues announcement](https://www.marketleader.com/blog/the-next-evolution-of-housevalues-real-homeowner-intel-right-moment-outreach/) · [Help center](https://learn.marketleader.com/) · [Customer support](https://learn.marketleader.com/customer-service/market-leader-customer-support) · [Import contacts](https://learn.marketleader.com/contacts/import-contacts) · [Export contacts](https://learn.marketleader.com/contacts/export-contacts) · [Business Suite: add an agent](https://learn.marketleader.com/teams/business-suite-add-an-agent) · [Million Dollar Pipeline program](https://learn.marketleader.com/coaching/million-dollar-pipeline-program) · [Network Boost checklist](https://learn.marketleader.com/getting-started/getting-started-with-network-boost-checklist) · [HouseValues checklist](https://learn.marketleader.com/getting-started/getting-started-with-house-values-checklist)

@@ -333,6 +333,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [realtyjuggler.com](https://www.realtyjuggler.com/) | [followupboss.com](https://www.followupboss.com) |
 | Full report | [RealtyJuggler report](../reports/realtyjuggler.md) | [Follow Up Boss report](../reports/follow-up-boss.md) |
 
+## Frequently asked questions
+
+### Which is better, RealtyJuggler or Follow Up Boss?
+
+RealtyJuggler scores higher overall: 9.8 to 6.5 out of 10. It wins on features, reviews, value, terms of service, support and governance.
+
+### Which is cheaper, RealtyJuggler or Follow Up Boss?
+
+RealtyJuggler: its typical plan costs $179 a year, against $696 for Follow Up Boss (Grow).
+
+### Which has more features, RealtyJuggler or Follow Up Boss?
+
+RealtyJuggler, with 103.5 of 119 points on our feature checklist against 79.5 for Follow Up Boss.
+
+### Do RealtyJuggler and Follow Up Boss have free trials?
+
+RealtyJuggler has a 90-day free trial (no credit card needed); Follow Up Boss has a 14-day free trial (no credit card needed).
+
+### Who should choose RealtyJuggler and who should choose Follow Up Boss?
+
+RealtyJuggler is the better fit for new agents, average agents and offices; Follow Up Boss is the better fit for high-volume teams. The full reports: [RealtyJuggler](../reports/realtyjuggler.md) and [Follow Up Boss](../reports/follow-up-boss.md).
+
 ## Related comparisons
 
 - [RealtyJuggler vs Wise Agent](realtyjuggler-vs-wise-agent.md)

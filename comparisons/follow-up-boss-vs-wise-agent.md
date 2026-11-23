@@ -306,6 +306,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [wiseagent.com](https://wiseagent.com) | [followupboss.com](https://www.followupboss.com) |
 | Full report | [Wise Agent report](../reports/wise-agent.md) | [Follow Up Boss report](../reports/follow-up-boss.md) |
 
+## Frequently asked questions
+
+### Which is better, Wise Agent or Follow Up Boss?
+
+Wise Agent scores higher overall: 8.4 to 6.5 out of 10. It wins on features, reviews, value, support and governance; Follow Up Boss wins on terms of service.
+
+### Which is cheaper, Wise Agent or Follow Up Boss?
+
+Wise Agent: its typical plan (CRM) costs $499 a year, against $696 for Follow Up Boss (Grow).
+
+### Which has more features, Wise Agent or Follow Up Boss?
+
+Wise Agent, with 95.5 of 119 points on our feature checklist against 79.5 for Follow Up Boss.
+
+### Do Wise Agent and Follow Up Boss have free trials?
+
+Wise Agent has a 14-day free trial (credit card required); Follow Up Boss has a 14-day free trial (no credit card needed).
+
+### Who should choose Wise Agent and who should choose Follow Up Boss?
+
+Wise Agent is the better fit for new agents and average agents. The full reports: [Wise Agent](../reports/wise-agent.md) and [Follow Up Boss](../reports/follow-up-boss.md).
+
 ## Related comparisons
 
 - [Wise Agent vs RealtyJuggler](realtyjuggler-vs-wise-agent.md)

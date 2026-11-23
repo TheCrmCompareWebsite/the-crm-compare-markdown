@@ -595,6 +595,52 @@ Judged on price, Apptivo is good value, but for most agents, much of that value 
 - [Apptivo vs Wise Agent](../comparisons/apptivo-vs-wise-agent.md)
 - [Apptivo vs IXACT Contact](../comparisons/apptivo-vs-ixact-contact.md)
 
+## Frequently asked questions
+
+### How much does Apptivo cost?
+
+Apptivo's typical plan, Ultimate, costs $480 a year per user, less than the median of $1,044 a year across the 26 CRMs we scored. Its plans run from $180 a year per user (Lite) to $480 a year per user (Ultimate). Add-ons such as Quick Start Setup (60-minute session), Remote training or configuration and On-site training and configuration cost extra.
+
+### Does Apptivo have a free trial?
+
+Yes: 14 days, with no credit card needed. The longest trial we found is 90 days: see [the CRMs with the longest free trials](https://thecrmcomparewebsite.github.io/the-crm-compare-website/blog/longest-free-trial-crm.html).
+
+### Who is Apptivo best for?
+
+Apptivo is a general business CRM, not one built for real estate, so an agent has to set up lead routing, transactions and past-client follow-up themselves.
+
+### Is Apptivo a good CRM for real estate agents?
+
+Apptivo scores 7.7 out of 10, #3 of the 26 CRMs we scored. Its best category is terms of service (10) and its weakest is features (5.3). Apptivo is a general business CRM, not a real estate product, so it is a poor fit for every kind of real estate buyer, from a new agent to a franchise: whoever chooses it has to design their own real estate processes and keep part of the work in other software.
+
+### What do customers say about Apptivo?
+
+Across 227 ratings on 9 review sites, Apptivo averages 4.1 stars, and 83% of ratings are four or five stars. Most customers praise the support and everyday ease of use, though billing disputes, unfixed bugs and overpromising salespeople recur.
+
+### Does Apptivo have a mobile app?
+
+Yes. Native iOS and Android apps (plus Windows and Mac).
+
+### Does Apptivo connect to the MLS?
+
+Not that we could find.
+
+### Can you text clients from Apptivo?
+
+Yes. Two-way texting from a chat window in the Contact Center app and on contact records (Vonage/Nexmo number).
+
+### Can I import my contacts into Apptivo?
+
+Yes. CSV import with field mapping, duplicate checks and update of existing records in Contacts, Leads, Customers and Opportunities.
+
+### Who makes Apptivo?
+
+Apptivo Inc. (privately held), based in Plano, Texas, United States.
+
+### What are the best alternatives to Apptivo?
+
+The alternatives our report compares it with: [RealtyJuggler](../reports/realtyjuggler.md) (9.8), [Wise Agent](../reports/wise-agent.md) (8.4) and [IXACT Contact](../reports/ixact-contact.md) (6.7). See [Apptivo vs RealtyJuggler](../comparisons/apptivo-vs-realtyjuggler.md) side by side.
+
 ## Sources
 
 - Vendor website: [Pricing](https://www.apptivo.com/app-pricing/) · [Services and training](https://www.apptivo.com/about-us/services/) · [Real estate industry page](https://www.apptivo.com/industries/real-estate/) · [Properties app](https://www.apptivo.com/applications/properties/) · [Who we are](https://www.apptivo.com/about-us/who-we-are/) · [Leadership](https://www.apptivo.com/leadership/) · [Contact us](https://www.apptivo.com/contact-us/) · [Integrations](https://www.apptivo.com/integrations/) · [Google Contacts integration](https://www.apptivo.com/integrations/gsuite/google-contacts-crm-integration/) · [Office 365 integration](https://www.apptivo.com/integrations/office365/) · [Product updates blog](https://www.apptivo.com/blog/category/product-updates/) · [User manual](https://www.apptivo.com/user-manual/) · [YouTube channel](https://www.youtube.com/user/apptivo)

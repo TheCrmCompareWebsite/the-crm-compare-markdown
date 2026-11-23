@@ -333,6 +333,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [wiseagent.com](https://wiseagent.com) | [getgrove.com](https://getgrove.com/) |
 | Full report | [Wise Agent report](../reports/wise-agent.md) | [Grove report](../reports/grove.md) |
 
+## Frequently asked questions
+
+### Which is better, Wise Agent or Grove?
+
+Wise Agent scores higher overall: 8.4 to 6.2 out of 10. It wins on features, reviews, value, support and governance; Grove wins on terms of service.
+
+### Which is cheaper, Wise Agent or Grove?
+
+Wise Agent: its typical plan (CRM) costs $499 a year, against $600 for Grove.
+
+### Which has more features, Wise Agent or Grove?
+
+Wise Agent, with 95.5 of 119 points on our feature checklist against 37 for Grove.
+
+### Do Wise Agent and Grove have free trials?
+
+Wise Agent has a 14-day free trial (credit card required); Grove has a 15-day free trial (credit card required).
+
+### Who should choose Wise Agent and who should choose Grove?
+
+Wise Agent is the better fit for new agents, agents with an assistant, high-volume teams and offices. The full reports: [Wise Agent](../reports/wise-agent.md) and [Grove](../reports/grove.md).
+
 ## Related comparisons
 
 - [Wise Agent vs RealtyJuggler](realtyjuggler-vs-wise-agent.md)

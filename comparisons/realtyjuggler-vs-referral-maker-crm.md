@@ -332,6 +332,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [realtyjuggler.com](https://www.realtyjuggler.com/) | [buffini.com/solutions/referral-maker-crm](https://www.buffini.com/solutions/referral-maker-crm/) |
 | Full report | [RealtyJuggler report](../reports/realtyjuggler.md) | [Referral Maker CRM report](../reports/referral-maker-crm.md) |
 
+## Frequently asked questions
+
+### Which is better, RealtyJuggler or Referral Maker CRM?
+
+RealtyJuggler scores higher overall: 9.8 to 6.4 out of 10. It wins on features, reviews, value, terms of service, support and governance.
+
+### Which is cheaper, RealtyJuggler or Referral Maker CRM?
+
+RealtyJuggler: its typical plan costs $179 a year, against $468 for Referral Maker CRM.
+
+### Which has more features, RealtyJuggler or Referral Maker CRM?
+
+RealtyJuggler, with 103.5 of 119 points on our feature checklist against 30.5 for Referral Maker CRM.
+
+### Do RealtyJuggler and Referral Maker CRM have free trials?
+
+RealtyJuggler has a 90-day free trial (no credit card needed); Referral Maker CRM has a 30-day free trial.
+
+### Who should choose RealtyJuggler and who should choose Referral Maker CRM?
+
+RealtyJuggler is the better fit for new agents and offices. The full reports: [RealtyJuggler](../reports/realtyjuggler.md) and [Referral Maker CRM](../reports/referral-maker-crm.md).
+
 ## Related comparisons
 
 - [RealtyJuggler vs Wise Agent](realtyjuggler-vs-wise-agent.md)

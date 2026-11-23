@@ -303,6 +303,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [wiseagent.com](https://wiseagent.com) | [brivity.com](https://www.brivity.com/) |
 | Full report | [Wise Agent report](../reports/wise-agent.md) | [Brivity report](../reports/brivity.md) |
 
+## Frequently asked questions
+
+### Which is better, Wise Agent or Brivity?
+
+Wise Agent scores higher overall: 8.4 to 6.2 out of 10. It wins on features, reviews, value and terms of service.
+
+### Which is cheaper, Wise Agent or Brivity?
+
+Wise Agent: its typical plan (CRM) costs $499 a year, against $3,588 for Brivity (Growth (Solo Agent)).
+
+### Which has more features, Wise Agent or Brivity?
+
+Wise Agent, with 95.5 of 119 points on our feature checklist against 72.5 for Brivity.
+
+### Do Wise Agent and Brivity have free trials?
+
+Wise Agent has a 14-day free trial (credit card required); Brivity has no free trial.
+
+### Who should choose Wise Agent and who should choose Brivity?
+
+Wise Agent is the better fit for new agents, average agents and agents with an assistant; Brivity is the better fit for franchises. The full reports: [Wise Agent](../reports/wise-agent.md) and [Brivity](../reports/brivity.md).
+
 ## Related comparisons
 
 - [Wise Agent vs RealtyJuggler](realtyjuggler-vs-wise-agent.md)

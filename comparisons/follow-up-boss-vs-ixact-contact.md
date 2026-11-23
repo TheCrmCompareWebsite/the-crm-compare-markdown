@@ -280,6 +280,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [ixactcontact.com](https://www.ixactcontact.com) | [followupboss.com](https://www.followupboss.com) |
 | Full report | [IXACT Contact report](../reports/ixact-contact.md) | [Follow Up Boss report](../reports/follow-up-boss.md) |
 
+## Frequently asked questions
+
+### Which is better, IXACT Contact or Follow Up Boss?
+
+IXACT Contact scores higher overall: 6.7 to 6.5 out of 10. It wins on features, value and governance; Follow Up Boss wins on reviews and terms of service.
+
+### Which is cheaper, IXACT Contact or Follow Up Boss?
+
+IXACT Contact: its typical plan costs $561 a year, against $696 for Follow Up Boss (Grow).
+
+### Which has more features, IXACT Contact or Follow Up Boss?
+
+IXACT Contact, with 83.5 of 119 points on our feature checklist against 79.5 for Follow Up Boss.
+
+### Do IXACT Contact and Follow Up Boss have free trials?
+
+IXACT Contact has a 14-day free trial (credit card required); Follow Up Boss has a 14-day free trial (no credit card needed).
+
+### Who should choose IXACT Contact and who should choose Follow Up Boss?
+
+IXACT Contact is the better fit for new agents and average agents. The full reports: [IXACT Contact](../reports/ixact-contact.md) and [Follow Up Boss](../reports/follow-up-boss.md).
+
 ## Related comparisons
 
 - [IXACT Contact vs RealtyJuggler](ixact-contact-vs-realtyjuggler.md)

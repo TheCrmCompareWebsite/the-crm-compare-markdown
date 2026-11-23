@@ -312,6 +312,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [ixactcontact.com](https://www.ixactcontact.com) | [marketleader.com](https://www.marketleader.com/) |
 | Full report | [IXACT Contact report](../reports/ixact-contact.md) | [Market Leader report](../reports/market-leader.md) |
 
+## Frequently asked questions
+
+### Which is better, IXACT Contact or Market Leader?
+
+IXACT Contact scores higher overall: 6.7 to 4.4 out of 10. It wins on features, reviews, value, terms of service and support; Market Leader wins on governance.
+
+### Which is cheaper, IXACT Contact or Market Leader?
+
+IXACT Contact: its typical plan costs $561 a year, against $2,268 for Market Leader (Market Leader Professional).
+
+### Which has more features, IXACT Contact or Market Leader?
+
+IXACT Contact, with 83.5 of 119 points on our feature checklist against 51 for Market Leader.
+
+### Do IXACT Contact and Market Leader have free trials?
+
+IXACT Contact has a 14-day free trial (credit card required); Market Leader has no free trial.
+
+### Who should choose IXACT Contact and who should choose Market Leader?
+
+IXACT Contact is the better fit for new agents, average agents and offices. The full reports: [IXACT Contact](../reports/ixact-contact.md) and [Market Leader](../reports/market-leader.md).
+
 ## Related comparisons
 
 - [IXACT Contact vs RealtyJuggler](ixact-contact-vs-realtyjuggler.md)

@@ -609,6 +609,52 @@ As a value proposition, it sits in the middle: the price is fair for a polished 
 - [monday CRM vs Wise Agent](../comparisons/monday-crm-vs-wise-agent.md)
 - [monday CRM vs Follow Up Boss](../comparisons/follow-up-boss-vs-monday-crm.md)
 
+## Frequently asked questions
+
+### How much does monday CRM cost?
+
+monday CRM's typical plan, Pro, costs $1,008 a year, less than the median of $1,044 a year across the 26 CRMs we scored. Its plans run from $432 a year (Basic) to $1,008 a year (Pro). Add-ons such as Additional AI credits and Smart Call connected minutes cost extra.
+
+### Does monday CRM have a free trial?
+
+Yes: 14 days, with no credit card needed. The longest trial we found is 90 days: see [the CRMs with the longest free trials](https://thecrmcomparewebsite.github.io/the-crm-compare-website/blog/longest-free-trial-crm.html).
+
+### Who is monday CRM best for?
+
+monday CRM is a general business CRM, not one built for real estate, so an agent has to set up lead routing, transactions and past-client follow-up themselves.
+
+### Is monday CRM a good CRM for real estate agents?
+
+monday CRM scores 5.2 out of 10, #17 of the 26 CRMs we scored. Its best category is support (6.5) and its weakest is reviews (2). Monday CRM is a generic sales CRM built for businesses in every industry, and it is not an ideal fit for any kind of real estate buyer.
+
+### What do customers say about monday CRM?
+
+Across 457 ratings on 12 review sites, monday CRM averages 3.5 stars, and 65% of ratings are four or five stars. Praise for ease of use is outweighed by recent complaints about unreachable support, unfixed bugs and billing.
+
+### Does monday CRM have a mobile app?
+
+Yes. Native iOS and Android apps with a CRM view of leads, contacts, deals and accounts.
+
+### Does monday CRM connect to the MLS?
+
+Not that we could find.
+
+### Can you text clients from monday CRM?
+
+Not that we could find.
+
+### Can I import my contacts into monday CRM?
+
+Yes. CSV or Excel import with column mapping and duplicate skip/update.
+
+### Who makes monday CRM?
+
+monday.com Ltd. (Nasdaq: MNDY), based in Tel Aviv, Israel.
+
+### What are the best alternatives to monday CRM?
+
+The alternatives our report compares it with: [RealtyJuggler](../reports/realtyjuggler.md) (9.8), [Wise Agent](../reports/wise-agent.md) (8.4) and [Follow Up Boss](../reports/follow-up-boss.md) (6.5). See [monday CRM vs RealtyJuggler](../comparisons/monday-crm-vs-realtyjuggler.md) side by side.
+
 ## Sources
 
 - Vendor: [monday CRM](https://monday.com/crm) · [Pricing](https://monday.com/crm/pricing) · [About](https://monday.com/p/about/) · [Sales contact](https://monday.com/sales/contact-us) · [Press releases](https://monday.com/p/press-release/50546/) · [Q2 2026 results](https://monday.com/p/press-release/monday-com-announces-second-quarter-2026-results/) · [Real estate CRM template](https://monday.com/templates/template/82286/real-estate-crm) · [Expense tracking template](https://monday.com/templates/expense-tracking) · [Developer webhooks](https://developer.monday.com/api-reference/docs/webhooks)

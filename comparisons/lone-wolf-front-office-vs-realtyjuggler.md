@@ -338,6 +338,24 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [realtyjuggler.com](https://www.realtyjuggler.com/) | [lwolf.com/engage/websites](https://www.lwolf.com/engage/websites) |
 | Full report | [RealtyJuggler report](../reports/realtyjuggler.md) | [Lone Wolf Front Office report](../reports/lone-wolf-front-office.md) |
 
+## Frequently asked questions
+
+### Which is better, RealtyJuggler or Lone Wolf Front Office?
+
+RealtyJuggler scores higher overall: 9.8 to 4.3 out of 10. It wins on features, reviews, value, terms of service, support and governance.
+
+### Which is cheaper, RealtyJuggler or Lone Wolf Front Office?
+
+RealtyJuggler: its typical plan costs $179 a year, against $4,188 for Lone Wolf Front Office (Website + CRM).
+
+### Which has more features, RealtyJuggler or Lone Wolf Front Office?
+
+RealtyJuggler, with 103.5 of 119 points on our feature checklist against 60.5 for Lone Wolf Front Office.
+
+### Do RealtyJuggler and Lone Wolf Front Office have free trials?
+
+RealtyJuggler has a 90-day free trial (no credit card needed); Lone Wolf Front Office has no free trial.
+
 ## Related comparisons
 
 - [RealtyJuggler vs Wise Agent](realtyjuggler-vs-wise-agent.md)

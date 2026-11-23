@@ -578,6 +578,52 @@ For an office or franchise already committed to Lone Wolf, Relationships is a re
 - [Lone Wolf Relationships vs Wise Agent](../comparisons/lone-wolf-relationships-vs-wise-agent.md)
 - [Lone Wolf Relationships vs IXACT Contact](../comparisons/ixact-contact-vs-lone-wolf-relationships.md)
 
+## Frequently asked questions
+
+### How much does Lone Wolf Relationships cost?
+
+Lone Wolf Relationships's typical plan, Relationships, costs $399 a year, less than the median of $1,044 a year across the 26 CRMs we scored. Add-ons such as EZ Texting (texting add-on) cost extra.
+
+### Does Lone Wolf Relationships have a free trial?
+
+Yes: 14 days, with no credit card needed. The longest trial we found is 90 days: see [the CRMs with the longest free trials](https://thecrmcomparewebsite.github.io/the-crm-compare-website/blog/longest-free-trial-crm.html).
+
+### Who is Lone Wolf Relationships best for?
+
+Lone Wolf Relationships is built for real estate. We rate it ideal for offices and franchises.
+
+### Is Lone Wolf Relationships a good CRM for real estate agents?
+
+Lone Wolf Relationships scores 5.1 out of 10, #19 of the 26 CRMs we scored. Its best category is support (8) and its weakest is reviews (1). Lone Wolf Relationships is a real estate CRM rather than a general-purpose one, built for real estate offices and franchises that already use Lone Wolf and want a single contact manager for every agent.
+
+### What do customers say about Lone Wolf Relationships?
+
+Across 79 ratings on 3 review sites, Lone Wolf Relationships averages 2.2 stars, and 30% of ratings are four or five stars. No reviews of Relationships yet; reviews of Lone Wolf as a company describe slow support, billing and cancellation trouble and unfixed problems.
+
+### Does Lone Wolf Relationships have a mobile app?
+
+Not that we could find.
+
+### Does Lone Wolf Relationships connect to the MLS?
+
+Not that we could find.
+
+### Can you text clients from Lone Wolf Relationships?
+
+Partly. Texting runs through the EZ Texting integration, which needs a separate EZ Texting account (the vendor calls it the EZ Texting add-on); two-way texts appear in a unified inbox.
+
+### Can I import my contacts into Lone Wolf Relationships?
+
+Yes. CSV or VCF import with a field mapper and a template file.
+
+### Who makes Lone Wolf Relationships?
+
+Lone Wolf Real Estate Technologies, Inc., based in Dallas, Texas, United States.
+
+### What are the best alternatives to Lone Wolf Relationships?
+
+The alternatives our report compares it with: [RealtyJuggler](../reports/realtyjuggler.md) (9.8), [Wise Agent](../reports/wise-agent.md) (8.4) and [IXACT Contact](../reports/ixact-contact.md) (6.7). See [Lone Wolf Relationships vs RealtyJuggler](../comparisons/lone-wolf-relationships-vs-realtyjuggler.md) side by side.
+
 ## Sources
 
 - Company website: [Relationships product page](https://www.lwolf.com/products/relationships) · [Checkout and free trial](https://ecommerce.lwolf.com/?product=relationships) · [Integrations](https://lwolf.com/integrations/relationships) · [API portal](https://lwolf.com/api-portal) · [About](https://lwolf.com/about) · [Leadership](https://lwolf.com/leadership) · [Contact](https://lwolf.com/contact) · [Support](https://lwolf.com/support) · [Relationships training](https://lwolf.com/training-resources/relationships)

@@ -314,6 +314,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [ixactcontact.com](https://www.ixactcontact.com) | [buffini.com/solutions/referral-maker-crm](https://www.buffini.com/solutions/referral-maker-crm/) |
 | Full report | [IXACT Contact report](../reports/ixact-contact.md) | [Referral Maker CRM report](../reports/referral-maker-crm.md) |
 
+## Frequently asked questions
+
+### Which is better, IXACT Contact or Referral Maker CRM?
+
+IXACT Contact scores higher overall: 6.7 to 6.4 out of 10. It wins on features and value; Referral Maker CRM wins on reviews, terms of service and governance.
+
+### Which is cheaper, IXACT Contact or Referral Maker CRM?
+
+Referral Maker CRM: its typical plan costs $468 a year, against $561 for IXACT Contact.
+
+### Which has more features, IXACT Contact or Referral Maker CRM?
+
+IXACT Contact, with 83.5 of 119 points on our feature checklist against 30.5 for Referral Maker CRM.
+
+### Do IXACT Contact and Referral Maker CRM have free trials?
+
+IXACT Contact has a 14-day free trial (credit card required); Referral Maker CRM has a 30-day free trial.
+
+### Who should choose IXACT Contact and who should choose Referral Maker CRM?
+
+IXACT Contact is the better fit for new agents, high-volume teams and offices. The full reports: [IXACT Contact](../reports/ixact-contact.md) and [Referral Maker CRM](../reports/referral-maker-crm.md).
+
 ## Related comparisons
 
 - [IXACT Contact vs RealtyJuggler](ixact-contact-vs-realtyjuggler.md)

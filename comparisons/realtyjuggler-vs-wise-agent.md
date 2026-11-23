@@ -292,6 +292,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [realtyjuggler.com](https://www.realtyjuggler.com/) | [wiseagent.com](https://wiseagent.com) |
 | Full report | [RealtyJuggler report](../reports/realtyjuggler.md) | [Wise Agent report](../reports/wise-agent.md) |
 
+## Frequently asked questions
+
+### Which is better, RealtyJuggler or Wise Agent?
+
+RealtyJuggler scores higher overall: 9.8 to 8.4 out of 10. It wins on features, reviews, value, terms of service and governance.
+
+### Which is cheaper, RealtyJuggler or Wise Agent?
+
+RealtyJuggler: its typical plan costs $179 a year, against $499 for Wise Agent (CRM).
+
+### Which has more features, RealtyJuggler or Wise Agent?
+
+RealtyJuggler, with 103.5 of 119 points on our feature checklist against 95.5 for Wise Agent.
+
+### Do RealtyJuggler and Wise Agent have free trials?
+
+RealtyJuggler has a 90-day free trial (no credit card needed); Wise Agent has a 14-day free trial (credit card required).
+
+### Who should choose RealtyJuggler and who should choose Wise Agent?
+
+RealtyJuggler is the better fit for offices; Wise Agent is the better fit for high-volume teams. The full reports: [RealtyJuggler](../reports/realtyjuggler.md) and [Wise Agent](../reports/wise-agent.md).
+
 ## Related comparisons
 
 - [RealtyJuggler vs Apptivo](apptivo-vs-realtyjuggler.md)

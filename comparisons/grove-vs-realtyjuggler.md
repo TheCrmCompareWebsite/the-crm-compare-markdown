@@ -330,6 +330,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [realtyjuggler.com](https://www.realtyjuggler.com/) | [getgrove.com](https://getgrove.com/) |
 | Full report | [RealtyJuggler report](../reports/realtyjuggler.md) | [Grove report](../reports/grove.md) |
 
+## Frequently asked questions
+
+### Which is better, RealtyJuggler or Grove?
+
+RealtyJuggler scores higher overall: 9.8 to 6.2 out of 10. It wins on features, reviews, value, terms of service, support and governance.
+
+### Which is cheaper, RealtyJuggler or Grove?
+
+RealtyJuggler: its typical plan costs $179 a year, against $600 for Grove.
+
+### Which has more features, RealtyJuggler or Grove?
+
+RealtyJuggler, with 103.5 of 119 points on our feature checklist against 37 for Grove.
+
+### Do RealtyJuggler and Grove have free trials?
+
+RealtyJuggler has a 90-day free trial (no credit card needed); Grove has a 15-day free trial (credit card required).
+
+### Who should choose RealtyJuggler and who should choose Grove?
+
+RealtyJuggler is the better fit for new agents, agents with an assistant and offices. The full reports: [RealtyJuggler](../reports/realtyjuggler.md) and [Grove](../reports/grove.md).
+
 ## Related comparisons
 
 - [RealtyJuggler vs Wise Agent](realtyjuggler-vs-wise-agent.md)

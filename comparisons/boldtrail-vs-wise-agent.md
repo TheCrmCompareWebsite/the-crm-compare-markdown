@@ -295,6 +295,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [wiseagent.com](https://wiseagent.com) | [boldtrail.com](https://boldtrail.com) |
 | Full report | [Wise Agent report](../reports/wise-agent.md) | [BoldTrail report](../reports/boldtrail.md) |
 
+## Frequently asked questions
+
+### Which is better, Wise Agent or BoldTrail?
+
+Wise Agent scores higher overall: 8.4 to 4.5 out of 10. It wins on features, reviews, value, terms of service, support and governance.
+
+### Which is cheaper, Wise Agent or BoldTrail?
+
+Wise Agent: its typical plan (CRM) costs $499 a year, against $5,988 for BoldTrail (Base).
+
+### Which has more features, Wise Agent or BoldTrail?
+
+Wise Agent, with 95.5 of 119 points on our feature checklist against 79.5 for BoldTrail.
+
+### Do Wise Agent and BoldTrail have free trials?
+
+Wise Agent has a 14-day free trial (credit card required); BoldTrail has no free trial.
+
+### Who should choose Wise Agent and who should choose BoldTrail?
+
+Wise Agent is the better fit for new agents, average agents, agents with an assistant and high-volume teams; BoldTrail is the better fit for offices and franchises. The full reports: [Wise Agent](../reports/wise-agent.md) and [BoldTrail](../reports/boldtrail.md).
+
 ## Related comparisons
 
 - [Wise Agent vs RealtyJuggler](realtyjuggler-vs-wise-agent.md)

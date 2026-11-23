@@ -610,6 +610,52 @@ Taken as a whole, IXACT is good value for the agents it was built for: a referra
 - [IXACT Contact vs CINC](../comparisons/cinc-vs-ixact-contact.md)
 - [IXACT Contact vs Lone Wolf Front Office](../comparisons/ixact-contact-vs-lone-wolf-front-office.md)
 
+## Frequently asked questions
+
+### How much does IXACT Contact cost?
+
+IXACT Contact's typical plan costs $561 a year, less than the median of $1,044 a year across the 26 CRMs we scored. Add-ons such as IDX Broker Core (listings on the agent website), IDX setup and Website domain registration cost extra.
+
+### Does IXACT Contact have a free trial?
+
+Yes: 14 days, and you need a credit card to start it. The longest trial we found is 90 days: see [the CRMs with the longest free trials](https://thecrmcomparewebsite.github.io/the-crm-compare-website/blog/longest-free-trial-crm.html).
+
+### Who is IXACT Contact best for?
+
+IXACT Contact is built for real estate. We rate it ideal for average agents, agents with an assistant and high-volume teams.
+
+### Is IXACT Contact a good CRM for real estate agents?
+
+IXACT Contact scores 6.7 out of 10, #5 of the 26 CRMs we scored. Its best category is support (9) and its weakest is terms of service (5). IXACT Contact is a real estate CRM built for solo agents as well as agents in teams.
+
+### What do customers say about IXACT Contact?
+
+Across 183 ratings on 6 review sites, IXACT Contact averages 3.7 stars, and 71% of ratings are four or five stars. Agents like the software and its content, but a quarter of the reviews studied give one or two stars, mostly over support that is hard to reach.
+
+### Does IXACT Contact have a mobile app?
+
+Yes. Android app (updated Aug 2026); no iPhone app in the US or Canada App Store.
+
+### Does IXACT Contact connect to the MLS?
+
+Not that we could find.
+
+### Can you text clients from IXACT Contact?
+
+Yes. Two-way texting with each contact from a $5/month texting number.
+
+### Can I import my contacts into IXACT Contact?
+
+Yes. Self-serve CSV import with column mapping, or free import by support.
+
+### Who makes IXACT Contact?
+
+IXACT Contact Solutions Inc., part of Elm Street Technology, based in Frisco, Texas, United States.
+
+### What are the best alternatives to IXACT Contact?
+
+The alternatives our report compares it with: [RealtyJuggler](../reports/realtyjuggler.md) (9.8), [Wise Agent](../reports/wise-agent.md) (8.4) and [Follow Up Boss](../reports/follow-up-boss.md) (6.5). See [IXACT Contact vs RealtyJuggler](../comparisons/ixact-contact-vs-realtyjuggler.md) side by side.
+
 ## Sources
 
 - Vendor website: [Pricing](https://www.ixactcontact.com/real-estate-crm-pricing/) · [Free trial signup](https://signup.ixactcontact.com/) · [Company Overview](https://www.ixactcontact.com/about/) · [Contact Us](https://www.ixactcontact.com/contact/) · [Home page](https://www.ixactcontact.com) · [Support](https://www.ixactcontact.com/support/) · [Concierge Customer Service](https://www.ixactcontact.com/concierge-customer-service/) · [CRM for Real Estate Teams](https://www.ixactcontact.com/crm-for-real-estate-teams/) · [Brokerage Program](https://www.ixactcontact.com/real-estate-broker-software/) · [Agent Websites](https://www.ixactcontact.com/real-estate-agent-websites-idx/) · [Integrations](https://www.ixactcontact.com/integrations/) · [TrackMyFile](https://www.ixactcontact.com/track-my-file/) · [Tutorial Videos](https://www.ixactcontact.com/tutorial-videos/) · [Security](https://www.ixactcontact.com/security/) · [FAQs](https://www.ixactcontact.com/faqs/) · [FAQ: getting started](https://www.ixactcontact.com/faqs/does-ixact-contact-help-me-get-started/) · [FAQ: sharing data](https://www.ixactcontact.com/faqs/do-you-share-or-sell-my-client-or-personal-information-to-anyone/) · [FAQ: email deliverability](https://www.ixactcontact.com/faqs/why-is-your-email-deliverability-so-much-better-than-your-real-estate-crm-competitors/) · [FAQ: importing contacts](https://www.ixactcontact.com/faqs/can-i-import-my-contact-database-from-another-system/) · [Real Estate CRM](https://www.ixactcontact.com/real-estate-crm/) · [Demo agent website](https://9598-1023.ixactcontactwebsites.com)

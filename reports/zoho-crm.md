@@ -604,6 +604,52 @@ Few CRMs offer as much for the money, but the savings apply only to a do-it-your
 - [Zoho CRM vs Wise Agent](../comparisons/wise-agent-vs-zoho-crm.md)
 - [Zoho CRM vs Pipedrive](../comparisons/pipedrive-vs-zoho-crm.md)
 
+## Frequently asked questions
+
+### How much does Zoho CRM cost?
+
+Zoho CRM's typical plan, Professional, costs $276 a year, less than the median of $1,044 a year across the 26 CRMs we scored. Its plans run from free (Free) to $624 a year (Ultimate). Add-ons such as Premium Support, Jumpstart setup by a Zoho expert and Additional data storage cost extra.
+
+### Does Zoho CRM have a free trial?
+
+Yes: 15 days, with no credit card needed. The longest trial we found is 90 days: see [the CRMs with the longest free trials](https://thecrmcomparewebsite.github.io/the-crm-compare-website/blog/longest-free-trial-crm.html).
+
+### Who is Zoho CRM best for?
+
+Zoho CRM is a general business CRM, not one built for real estate, so an agent has to set up lead routing, transactions and past-client follow-up themselves.
+
+### Is Zoho CRM a good CRM for real estate agents?
+
+Zoho CRM scores 6.3 out of 10, #11 of the 26 CRMs we scored. Its best category is terms of service (9) and its weakest is reviews (2). Zoho CRM is a general business CRM, not designed for real estate, so it is not an ideal choice for any real estate buyer.
+
+### What do customers say about Zoho CRM?
+
+Across 551 ratings on 13 review sites, Zoho CRM averages 3.5 stars, and 62% of ratings are four or five stars. Praised for value and flexibility, but slow support, billing and cancellation trouble, and a buggy mobile app; about three in ten reviews are one or two stars.
+
+### Does Zoho CRM have a mobile app?
+
+Yes. Native iPhone and Android apps.
+
+### Does Zoho CRM connect to the MLS?
+
+Not that we could find.
+
+### Can you text clients from Zoho CRM?
+
+No. Zoho's own text messaging serves India only; US texting needs third-party extensions. WhatsApp Business messaging is built in.
+
+### Can I import my contacts into Zoho CRM?
+
+Yes. CSV, Excel and vCard import, plus migration wizards for many CRMs.
+
+### Who makes Zoho CRM?
+
+Zoho Corporation Pvt. Ltd. (privately held), based in Chennai, Tamil Nadu, India.
+
+### What are the best alternatives to Zoho CRM?
+
+The alternatives our report compares it with: [RealtyJuggler](../reports/realtyjuggler.md) (9.8), [Wise Agent](../reports/wise-agent.md) (8.4) and [Pipedrive](../reports/pipedrive.md) (6.6). See [Zoho CRM vs RealtyJuggler](../comparisons/realtyjuggler-vs-zoho-crm.md) side by side.
+
 ## Sources
 
 - Vendor website: [Zoho CRM pricing](https://www.zoho.com/crm/zohocrm-pricing.html) · [Edition comparison](https://www.zoho.com/crm/comparison.html) · [Complete feature list and add-ons](https://www.zoho.com/crm/complete-feature-list.html) · [Support plans](https://www.zoho.com/crm/support-plans.html) · [Jumpstart setup](https://www.zoho.com/jumpstart/) · [Request free migration](https://www.zoho.com/crm/request-migration-assistance.html) · [Contact us](https://www.zoho.com/contactus.html) · [About us](https://www.zoho.com/aboutus.html) · [Zoho CRM home](https://www.zoho.com/crm/) · [Zoho CRM for real estate](https://www.zoho.com/crm/real-estate/) · [Zoho Real Estate CRM](https://www.zoho.com/realestate/realestate-crm/)

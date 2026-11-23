@@ -598,6 +598,52 @@ For a sales team that lives on the phone, Close offers reasonable value. An agen
 - [CloseCRM vs Insightly](../comparisons/closecrm-vs-insightly.md)
 - [CloseCRM vs HubSpot Sales Hub](../comparisons/closecrm-vs-hubspot-sales-hub.md)
 
+## Frequently asked questions
+
+### How much does CloseCRM cost?
+
+CloseCRM's typical plan, Growth, costs $1,188 a year per user, more than the median of $1,044 a year across the 26 CRMs we scored. Its plans run from $108 a year (Solo) to $1,668 a year per user (Scale). Add-ons such as Call Assistant (call transcripts and summaries), Additional organization (one included with Growth and Scale) and AI credit packs cost extra.
+
+### Does CloseCRM have a free trial?
+
+Yes: 14 days, with no credit card needed. The longest trial we found is 90 days: see [the CRMs with the longest free trials](https://thecrmcomparewebsite.github.io/the-crm-compare-website/blog/longest-free-trial-crm.html).
+
+### Who is CloseCRM best for?
+
+CloseCRM is a general business CRM, not one built for real estate, so an agent has to set up lead routing, transactions and past-client follow-up themselves.
+
+### Is CloseCRM a good CRM for real estate agents?
+
+CloseCRM scores 6.9 out of 10, #4 of the 26 CRMs we scored. Its best category is terms of service (10) and its weakest is features (4.7). Close is a generic CRM sold to sales teams across many industries, and it is a poor fit for any real estate buyer: an agent would have to build the real estate side of the business around it or keep that work elsewhere.
+
+### What do customers say about CloseCRM?
+
+Across 238 ratings on 8 review sites, CloseCRM averages 4.1 stars, and 76% of ratings are four or five stars. Reviewers praise ease of use and quick, helpful support; the mobile apps draw a steady stream of unfixed calling-bug complaints.
+
+### Does CloseCRM have a mobile app?
+
+Yes. Native iPhone, iPad and Android apps.
+
+### Does CloseCRM connect to the MLS?
+
+Not that we could find.
+
+### Can you text clients from CloseCRM?
+
+Yes. Two-way texting from the lead page and Inbox.
+
+### Can I import my contacts into CloseCRM?
+
+Yes. Imports CSV or Excel files and migrates directly from several other CRMs.
+
+### Who makes CloseCRM?
+
+Elastic Inc, doing business as Close, based in Austin, Texas, United States.
+
+### What are the best alternatives to CloseCRM?
+
+The alternatives our report compares it with: [RealtyJuggler](../reports/realtyjuggler.md) (9.8), [Wise Agent](../reports/wise-agent.md) (8.4) and [Pipedrive](../reports/pipedrive.md) (6.6). See [CloseCRM vs RealtyJuggler](../comparisons/closecrm-vs-realtyjuggler.md) side by side.
+
 ## Sources
 
 - Vendor website: [Pricing](https://www.close.com/pricing) · [About](https://www.close.com/about) · [Support](https://www.close.com/support) · [Professional Services](https://www.close.com/professional-services) · [Product updates](https://close.com/changelog) · [Real estate CRMs (Close blog)](https://close.com/blog/real-estate-crms)

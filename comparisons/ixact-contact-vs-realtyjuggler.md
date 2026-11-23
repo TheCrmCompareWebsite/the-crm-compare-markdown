@@ -297,6 +297,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [realtyjuggler.com](https://www.realtyjuggler.com/) | [ixactcontact.com](https://www.ixactcontact.com) |
 | Full report | [RealtyJuggler report](../reports/realtyjuggler.md) | [IXACT Contact report](../reports/ixact-contact.md) |
 
+## Frequently asked questions
+
+### Which is better, RealtyJuggler or IXACT Contact?
+
+RealtyJuggler scores higher overall: 9.8 to 6.7 out of 10. It wins on features, reviews, value, terms of service, support and governance.
+
+### Which is cheaper, RealtyJuggler or IXACT Contact?
+
+RealtyJuggler: its typical plan costs $179 a year, against $561 for IXACT Contact.
+
+### Which has more features, RealtyJuggler or IXACT Contact?
+
+RealtyJuggler, with 103.5 of 119 points on our feature checklist against 83.5 for IXACT Contact.
+
+### Do RealtyJuggler and IXACT Contact have free trials?
+
+RealtyJuggler has a 90-day free trial (no credit card needed); IXACT Contact has a 14-day free trial (credit card required).
+
+### Who should choose RealtyJuggler and who should choose IXACT Contact?
+
+RealtyJuggler is the better fit for new agents and offices; IXACT Contact is the better fit for high-volume teams. The full reports: [RealtyJuggler](../reports/realtyjuggler.md) and [IXACT Contact](../reports/ixact-contact.md).
+
 ## Related comparisons
 
 - [RealtyJuggler vs Wise Agent](realtyjuggler-vs-wise-agent.md)

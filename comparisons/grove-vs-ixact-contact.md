@@ -322,6 +322,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [ixactcontact.com](https://www.ixactcontact.com) | [getgrove.com](https://getgrove.com/) |
 | Full report | [IXACT Contact report](../reports/ixact-contact.md) | [Grove report](../reports/grove.md) |
 
+## Frequently asked questions
+
+### Which is better, IXACT Contact or Grove?
+
+IXACT Contact scores higher overall: 6.7 to 6.2 out of 10. It wins on features, value, support and governance; Grove wins on reviews and terms of service.
+
+### Which is cheaper, IXACT Contact or Grove?
+
+IXACT Contact: its typical plan costs $561 a year, against $600 for Grove.
+
+### Which has more features, IXACT Contact or Grove?
+
+IXACT Contact, with 83.5 of 119 points on our feature checklist against 37 for Grove.
+
+### Do IXACT Contact and Grove have free trials?
+
+IXACT Contact has a 14-day free trial (credit card required); Grove has a 15-day free trial (credit card required).
+
+### Who should choose IXACT Contact and who should choose Grove?
+
+IXACT Contact is the better fit for new agents, agents with an assistant, high-volume teams and offices. The full reports: [IXACT Contact](../reports/ixact-contact.md) and [Grove](../reports/grove.md).
+
 ## Related comparisons
 
 - [IXACT Contact vs RealtyJuggler](ixact-contact-vs-realtyjuggler.md)

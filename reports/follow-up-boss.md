@@ -613,6 +613,52 @@ For the money, Follow Up Boss is a good value, and its terms make it easy to try
 - [Follow Up Boss vs IXACT Contact](../comparisons/follow-up-boss-vs-ixact-contact.md)
 - [Follow Up Boss vs monday CRM](../comparisons/follow-up-boss-vs-monday-crm.md)
 
+## Frequently asked questions
+
+### How much does Follow Up Boss cost?
+
+Follow Up Boss's typical plan, Grow, costs $696 a year per user, less than the median of $1,044 a year across the 26 CRMs we scored. Its plans run from $696 a year per user (Grow) to $9,996 a year (Platform). Add-ons such as FUB Calling (Grow plan) cost extra.
+
+### Does Follow Up Boss have a free trial?
+
+Yes: 14 days, with no credit card needed. The longest trial we found is 90 days: see [the CRMs with the longest free trials](https://thecrmcomparewebsite.github.io/the-crm-compare-website/blog/longest-free-trial-crm.html).
+
+### Who is Follow Up Boss best for?
+
+Follow Up Boss is built for real estate. We rate it ideal for agents with an assistant and high-volume teams.
+
+### Is Follow Up Boss a good CRM for real estate agents?
+
+Follow Up Boss scores 6.5 out of 10, #7 of the 26 CRMs we scored. Its best category is terms of service (9) and its weakest is governance (1.5). Follow Up Boss is a real estate CRM rather than a general business tool, aimed first at high-volume teams and then at agents with an assistant.
+
+### What do customers say about Follow Up Boss?
+
+Across 241 ratings on 8 review sites, Follow Up Boss averages 3.8 stars, and 67% of ratings are four or five stars. Reviewers praise how easy it is to use, but phone-app bugs go unfixed and more than a quarter of the ratings are one or two stars.
+
+### Does Follow Up Boss have a mobile app?
+
+Yes. Native iPhone and Android apps; iPad users can add the web app to the home screen.
+
+### Does Follow Up Boss connect to the MLS?
+
+Partly. MLS listing search inside FUB requires a Zillow Pro membership in a supported MLS market.
+
+### Can you text clients from Follow Up Boss?
+
+Yes. Two-way texting from desktop and mobile on the included company number; business registration required.
+
+### Can I import my contacts into Follow Up Boss?
+
+Yes. Self-serve CSV import with field mapping, tags, custom fields, relationships and notes files.
+
+### Who makes Follow Up Boss?
+
+Zillow, Inc., part of Zillow Group (Nasdaq: Z), based in Seattle, Washington, United States.
+
+### What are the best alternatives to Follow Up Boss?
+
+The alternatives our report compares it with: [RealtyJuggler](../reports/realtyjuggler.md) (9.8), [Wise Agent](../reports/wise-agent.md) (8.4) and [IXACT Contact](../reports/ixact-contact.md) (6.7). See [Follow Up Boss vs RealtyJuggler](../comparisons/follow-up-boss-vs-realtyjuggler.md) side by side.
+
 ## Sources
 
 - Vendor website: [Pricing](https://www.followupboss.com/pricing) · [FAQ](https://www.followupboss.com/faq) · [About](https://www.followupboss.com/about) · [How we help](https://www.followupboss.com/how-we-help) · [Migration](https://www.followupboss.com/how-it-works/migration) · [FUB AI](https://www.followupboss.com/features/ai) · [Mobile apps](https://www.followupboss.com/features/mobile-apps) · [Zillow Pro](https://www.followupboss.com/zillow-pro) · [API Nation Google Contacts integration](https://www.followupboss.com/integrations/apination-google-contacts) · [Acquisition announcement](https://www.followupboss.com/blog/follow-up-boss-acquired-by-zillow-group) · [2025 recap](https://www.followupboss.com/blog/2025-wrapped)

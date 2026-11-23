@@ -279,6 +279,24 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [close.com](https://www.close.com) | [insightly.com](https://www.insightly.com) |
 | Full report | [CloseCRM report](../reports/closecrm.md) | [Insightly report](../reports/insightly.md) |
 
+## Frequently asked questions
+
+### Which is better, CloseCRM or Insightly?
+
+CloseCRM scores higher overall: 6.9 to 6.4 out of 10. It wins on reviews, terms of service and governance; Insightly wins on features, value and support.
+
+### Which is cheaper, CloseCRM or Insightly?
+
+Insightly: its typical plan (Professional) costs $588 a year, against $1,188 for CloseCRM (Growth).
+
+### Which has more features, CloseCRM or Insightly?
+
+Insightly, with 58.5 of 119 points on our feature checklist against 55.5 for CloseCRM.
+
+### Do CloseCRM and Insightly have free trials?
+
+CloseCRM has a 14-day free trial (no credit card needed); Insightly has a 14-day free trial (no credit card needed).
+
 ## Related comparisons
 
 - [CloseCRM vs RealtyJuggler](closecrm-vs-realtyjuggler.md)

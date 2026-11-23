@@ -343,6 +343,28 @@ Niche features are each CRM's own extras, so they aren't matched one to one.
 | Website | [realtyjuggler.com](https://www.realtyjuggler.com/) | [marketleader.com](https://www.marketleader.com/) |
 | Full report | [RealtyJuggler report](../reports/realtyjuggler.md) | [Market Leader report](../reports/market-leader.md) |
 
+## Frequently asked questions
+
+### Which is better, RealtyJuggler or Market Leader?
+
+RealtyJuggler scores higher overall: 9.8 to 4.4 out of 10. It wins on features, reviews, value, terms of service, support and governance.
+
+### Which is cheaper, RealtyJuggler or Market Leader?
+
+RealtyJuggler: its typical plan costs $179 a year, against $2,268 for Market Leader (Market Leader Professional).
+
+### Which has more features, RealtyJuggler or Market Leader?
+
+RealtyJuggler, with 103.5 of 119 points on our feature checklist against 51 for Market Leader.
+
+### Do RealtyJuggler and Market Leader have free trials?
+
+RealtyJuggler has a 90-day free trial (no credit card needed); Market Leader has no free trial.
+
+### Who should choose RealtyJuggler and who should choose Market Leader?
+
+RealtyJuggler is the better fit for new agents, average agents and offices; Market Leader is the better fit for high-volume teams. The full reports: [RealtyJuggler](../reports/realtyjuggler.md) and [Market Leader](../reports/market-leader.md).
+
 ## Related comparisons
 
 - [RealtyJuggler vs Wise Agent](realtyjuggler-vs-wise-agent.md)

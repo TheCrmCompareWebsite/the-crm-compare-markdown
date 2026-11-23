@@ -622,6 +622,52 @@ As a value proposition, CINC makes sense only at scale. For a single agent or an
 - [CINC vs Wise Agent](../comparisons/cinc-vs-wise-agent.md)
 - [CINC vs IXACT Contact](../comparisons/cinc-vs-ixact-contact.md)
 
+## Frequently asked questions
+
+### How much does CINC cost?
+
+CINC's typical plan, Solo, costs $11,988 a year, more than the median of $1,044 a year across the 26 CRMs we scored. Its plans run from $11,988 a year (Solo) to $18,000 a year (Pro). Add-ons such as Advertising (minimum ad spend), Ad management fee and CINC AI cost extra.
+
+### Does CINC have a free trial?
+
+No, we found no free trial. The longest trial we found is 90 days: see [the CRMs with the longest free trials](https://thecrmcomparewebsite.github.io/the-crm-compare-website/blog/longest-free-trial-crm.html).
+
+### Who is CINC best for?
+
+CINC is built for real estate. We rate it ideal for high-volume teams.
+
+### Is CINC a good CRM for real estate agents?
+
+CINC scores 4.3 out of 10, #25 of the 26 CRMs we scored. Its best category is support (10) and its weakest is terms of service (1). CINC is real estate software built first for busy teams that grow by buying online leads, and it can also serve an agent with an assistant or a real estate office that wants the same flow of new prospects.
+
+### What do customers say about CINC?
+
+Across 259 ratings on 7 review sites, CINC averages 3.8 stars, and 68% of ratings are four or five stars. Support and lead flow earn praise, but almost a quarter of ratings are one or two stars, and sales promises, contract exits and unfixed app bugs draw repeated complaints.
+
+### Does CINC have a mobile app?
+
+Yes. CINC Agent native apps for iOS and Android.
+
+### Does CINC connect to the MLS?
+
+Yes. IDX website with full MLS feed.
+
+### Can you text clients from CINC?
+
+Yes. Two-way texting from the CRM, inbox and app.
+
+### Can I import my contacts into CINC?
+
+Yes. CSV import tool with field mapping, labels and error report.
+
+### Who makes CINC?
+
+Commissions, Inc. (HBN Media, Inc. d/b/a Commissions, Inc.), a subsidiary of Fidelity National Financial (NYSE: FNF), based in Atlanta, Georgia, United States.
+
+### What are the best alternatives to CINC?
+
+The alternatives our report compares it with: [RealtyJuggler](../reports/realtyjuggler.md) (9.8), [Wise Agent](../reports/wise-agent.md) (8.4) and [IXACT Contact](../reports/ixact-contact.md) (6.7). See [CINC vs RealtyJuggler](../comparisons/cinc-vs-realtyjuggler.md) side by side.
+
 ## Sources
 
 - Vendor website: [Home](https://www.cincpro.com) · [Pricing](https://www.cincpro.com/pricing) · [About Us](https://www.cincpro.com/about-us) · [Leadership](https://www.cincpro.com/leadership) · [Contact Us](https://www.cincpro.com/contact-us) · [Blog](https://www.cincpro.com/blog) · [Features](https://www.cincpro.com/features/product-overview)
