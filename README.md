@@ -1,4 +1,4 @@
-# The CRM Compare Website: reports and comparisons
+# CRM Compare: reports and comparisons
 
 Independent scores for real estate CRMs, as Markdown. The same reports and comparisons are published as web pages at https://thecrmcomparewebsite.github.io/the-crm-compare-website/
 

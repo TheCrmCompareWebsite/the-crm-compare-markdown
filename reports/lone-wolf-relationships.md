@@ -21,19 +21,19 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/re
 
 # Lone Wolf Relationships Report
 
-*Updated November 15, 2026 · [Read this report on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/lone-wolf-relationships.html)*
+*Updated November 15, 2026 · [Read this report on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/lone-wolf-relationships.html)*
 
 ## Summary
 
 |  |  |
-| --- | --- |
+| ---: | --- |
 | Product | Lone Wolf Relationships |
 | Company | Lone Wolf Real Estate Technologies, Inc. |
 | Location | Dallas, Texas, United States |
 | Website | [lwolf.com/products/relationships](https://www.lwolf.com/products/relationships) |
 | Price | $399 per year (Relationships, billed yearly) |
-| Final score | **5.1/10** (#19 of 26 CRMs) |
-| Best fit | Real estate offices and franchises |
+| Final Score | **5.1/10** (#19 of 26 CRMs) |
+| Best For | Real estate offices and franchises |
 | Type | Built for real estate |
 | Free trial | 14-day free trial (card not required) |
 | Features | 30 of 119 checklist points |
@@ -47,7 +47,7 @@ Lone Wolf is one of the oldest companies in real estate software. Lorne Wallace 
 
 Relationships is sold on simplicity. Instead of a large toolkit, it offers an uncluttered place to keep track of clients that works alongside the tools agents already use and handles routine follow-up with minimal setup. Its appeal is strongest for a brokerage, franchise, or association already invested in Lone Wolf that wants to give every agent the same easy contact manager, one that requires little training and connects to the rest of the platform.
 
-## Pros and cons
+## Pros and Cons
 
 **Pros**
 
@@ -77,7 +77,9 @@ Relationships is sold on simplicity. Instead of a large toolkit, it offers an un
 | [Terms of Service](#terms-of-service) | 5.5/10 | A 14-day trial with no credit card, but hidden prices, a year-long term that renews automatically, 60 days' notice to cancel and no refunds. |
 | [Support](#support) | 8/10 | Phone, chat and email support, a help center, videos and free group onboarding, though reviewers say help is hard to reach. |
 | [Governance](#governance) | 7.3/10 | An established company that sells several competing CRMs, with sound privacy commitments weakened by a loosely worded license over agents' data. |
-| **Total** | **5.1/10** | Average of the six categories |
+| **Final Score** | **5.1/10** | Average of the six categories |
+
+Category scores: Features 2.5 · Reviews 1 · Value 6 · Terms of Service 5.5 · Support 8 · Governance 7.3.
 
 > **How the final score was calculated:** The average of the six category scores:
 >
@@ -90,8 +92,6 @@ Relationships is sold on simplicity. Instead of a large toolkit, it offers an un
 > - Total: 30.3
 >
 > 30.3 ÷ 6 = 5.05, rounded to **5.1**.
-
-Category scores: Features 2.5 · Reviews 1 · Value 6 · Terms of Service 5.5 · Support 8 · Governance 7.3.
 
 ## Fit
 
@@ -373,9 +373,11 @@ The contact export is the most significant practical limitation. It produces a C
 
 Lone Wolf rarely sells Relationships on its own. It is usually part of a larger purchase that includes other Lone Wolf modules, priced as a package and signed for a one-year term. For a single agent buying it alone, third parties report **$399 per year**, billed upfront ($33.25 per month); some also quote $39 per month, though the contract is still likely to run a full year. Lone Wolf charges no setup or onboarding fee.
 
+**Typical price: $399 per year** (Relationships, the only plan) · $33.25 (billed yearly) a month
+
 | Plan | Monthly | Annual | What's included |
 | --- | --- | --- | --- |
-| Relationships *(typical)* | $33.25 (billed yearly) | $399 | One agent; 14-day free trial set up through a sales demo; annual Sales Order |
+| Relationships *(typical plan)* | $33.25 (billed yearly) | **$399** | One agent; 14-day free trial set up through a sales demo; annual Sales Order |
 
 | Add-on | Monthly | One-time |
 | --- | --- | --- |
@@ -406,7 +408,7 @@ This review uses single-user pricing for its calculations and comparisons. Relat
 | [BBB](https://www.bbb.org/us/tx/dallas/profile/computer-software/lone-wolf-technologies-0875-91137051) | 0 | 0 | 2 | 1 | 25 | **28** |
 | [Google Business Profile](https://www.google.com/maps/place/?q=place_id:ChIJPddYzmqIK4gR0HUCKeMVSUY) | 16 | 8 | 1 | 2 | 23 | **50** |
 | [SourceForge](https://sourceforge.net/software/product/Lone-Wolf/) | 0 | 0 | 0 | 0 | 1 | **1** |
-| All sources | 16 | 8 | 3 | 3 | 49 | **79** |
+| All Sources | 16 | 8 | 3 | 3 | 49 | **79** |
 
 The reviews studied rate Lone Wolf as a company rather than Relationships itself. G2's Lone Wolf Relationships listing holds 44 reviews, all from 2018 to 2024 when it was LionDesk's listing, so they were left out; the Capterra pool (read on Software Advice), TrustRadius, Trustpilot, Yelp, Gartner Peer Insights, Software Finder, PissedConsumer, and both app stores have no reviews of the product or company. The BBB row covers the Dallas profile's 12 reviews and 16 published complaints; complaints are rated by Lone Wolf's response (13 unanswered at 1 star, 1 answered at 2 stars, 2 resolved at 3 stars), and the Canadian profiles have none. The Google Business Profile row combines Lone Wolf's Cambridge, Ontario, and Dallas listings and is limited to the 50 most recent of 52 reviews; one review about a visit to the office was left out. The SourceForge row rates Lone Wolf's whole product family. No sign of solicited reviews was found. Reddit is not rated, so it appears only in the written analysis: 11 comments from the past two years in saved threads on r/RealEstateTechnology, r/RealEstate and r/SaaS were read, and posts from two former employees, a support worker at another company, and a question repeating something the poster had read were left out.
 

@@ -21,19 +21,19 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/re
 
 # IXACT Contact Report
 
-*Updated November 15, 2026 · [Read this report on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/ixact-contact.html)*
+*Updated November 15, 2026 · [Read this report on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/ixact-contact.html)*
 
 ## Summary
 
 |  |  |
-| --- | --- |
+| ---: | --- |
 | Product | IXACT Contact |
 | Company | IXACT Contact Solutions Inc., part of Elm Street Technology |
 | Location | Frisco, Texas, United States |
 | Website | [ixactcontact.com](https://www.ixactcontact.com) |
 | Price | $561 per year (IXACT Contact, billed annually) |
-| Final score | **6.7/10** (#5 of 26 CRMs) |
-| Best fit | Average agent; Agent with an assistant; High-volume team |
+| Final Score | **6.7/10** (#5 of 26 CRMs) |
+| Best For | Average agent; Agent with an assistant; High-volume team |
 | Type | Built for real estate |
 | Free trial | 14-day free trial (card required) |
 | Features | 83.5 of 119 checklist points |
@@ -47,7 +47,7 @@ The product grew out of Morris Marketing Group, a Toronto firm that has written 
 
 Its appeal is that the marketing comes with the software. The company writes the content, the system prompts the agent on whom to contact and when, and staff set up each new account, so an agent can stay in regular touch with a large circle of past clients without writing the material or designing the routine.
 
-## Pros and cons
+## Pros and Cons
 
 **Pros**
 
@@ -77,7 +77,9 @@ Its appeal is that the marketing comes with the software. The company writes the
 | [Terms of Service](#terms-of-service) | 5/10 | Month-to-month billing and a free trial, offset by a trial that needs a card, no refunds even if the vendor ends the account, and disputes heard in Ontario courts. |
 | [Support](#support) | 9/10 | Free setup and data import are promised in writing, though reviewers report that the support line often goes unanswered. |
 | [Governance](#governance) | 6.8/10 | Contract terms keep client data private and the agent's own, but the company names no leaders and its parent has just launched a competing CRM. |
-| **Total** | **6.7/10** | Average of the six categories |
+| **Final Score** | **6.7/10** | Average of the six categories |
+
+Category scores: Features 7 · Reviews 5 · Value 7.5 · Terms of Service 5 · Support 9 · Governance 6.8.
 
 > **How the final score was calculated:** The average of the six category scores:
 >
@@ -90,8 +92,6 @@ Its appeal is that the marketing comes with the software. The company writes the
 > - Total: 40.3
 >
 > 40.3 ÷ 6 = 6.72, rounded to **6.7**.
-
-Category scores: Features 7 · Reviews 5 · Value 7.5 · Terms of Service 5 · Support 9 · Governance 6.8.
 
 ## Fit
 
@@ -380,10 +380,12 @@ Some capabilities come from outside the product. Video email requires a separate
 
 IXACT Contact sells one plan to individual agents. It costs $55 per month billed monthly, or $46.75 per month billed annually ($561 per year), and every subscriber receives the full product. Brokerages buy through a Broker Program, with pricing available on request.
 
+**Typical price: $561 per year** (IXACT Contact, one of 2 plans) · $55 a month
+
 | Plan | Monthly | Annual | What's included |
 | --- | --- | --- | --- |
-| IXACT Contact *(typical)* | $55 | $561 ($46.75 a month, billed annually) | CRM, email marketing, monthly e-newsletter, agent website without IDX listings, mobile app |
-| Broker Program | — | Custom quote | Branded version for brokerages with a custom implementation plan; price on request |
+| IXACT Contact *(typical plan)* | $55 | **$561 ($46.75 a month, billed annually)** | CRM, email marketing, monthly e-newsletter, agent website without IDX listings, mobile app |
+| Broker Program | — | **Custom quote** | Branded version for brokerages with a custom implementation plan; price on request |
 
 | Add-on | Monthly | One-time |
 | --- | --- | --- |
@@ -423,7 +425,7 @@ This review compares single-user prices. An agent who adds an assistant pays $28
 | [Google Play](https://play.google.com/store/apps/details?id=com.iXactContact.iXactContactApp) | 10 | 0 | 2 | 0 | 1 | **13** |
 | [SourceForge](https://sourceforge.net/software/product/IXACT-Contact/reviews/) | 7 | 5 | 0 | 1 | 0 | **13** |
 | [Trustpilot](https://www.trustpilot.com/review/ixactcontact.com) | 1 | 0 | 0 | 0 | 6 | **7** |
-| All sources | 95 | 35 | 6 | 6 | 41 | **183** |
+| All Sources | 95 | 35 | 6 | 6 | 41 | **183** |
 
 We studied the 50 most recent reviews on Software Advice (145 in total), G2 (268) and Google Business Profile (100), and every written review on Google Play (13 of 22 ratings), SourceForge and Trustpilot. Capterra shows only its first two reviews in full, so Capterra's review network was read on Software Advice; GetApp and Software Finder show the same reviewers, and SourceForge shares its reviews with Slashdot, so each pool is counted once. Google Business Profile and Trustpilot rate the company rather than the CRM alone; Google Play rates the mobile app, and Google Business Profile shows only approximate review dates. One G2 rating of 3½ stars was rounded up. We left out five entries: three G2 reviews and one SourceForge review from reviewers flagged as business partners of the vendor or a competitor, and one Trustpilot review from someone who was not a customer. BBB complaints count as reviews, but none of the six on the BBB profile of IXACT's parent, Elm Street Technology, is about IXACT. Five concern Elm Street's other products and one names no product, so all six were left out, and IXACT's own Canadian BBB profile has no complaints. One person posted two Google reviews; both appear in the chart and table but count once in the analysis. Solicited reviews are common: 45 of the 50 Software Advice reviews, and 49 of the 50 G2 reviews are marked as invited or incentivized; all 14 SourceForge reviews were posted within four days in February 2021, and G2 shows several single-day bursts in 2021 and 2022. We checked every review with a complaint for a company reply: most older replies on Software Advice, G2 and SourceForge are thank-you notes or invitations to call support, and the ones that address a complaint promise future improvements without showing the problem was solved. A Reddit search turned up one passing mention from a commenter who did not say they had used the product, so it was left out.
 
@@ -593,22 +595,14 @@ Taken as a whole, IXACT is good value for the agents it was built for: a referra
 
 - [IXACT Contact vs RealtyJuggler](../comparisons/ixact-contact-vs-realtyjuggler.md)
 - [IXACT Contact vs Wise Agent](../comparisons/ixact-contact-vs-wise-agent.md)
-- [IXACT Contact vs Apptivo](../comparisons/apptivo-vs-ixact-contact.md)
 - [IXACT Contact vs Follow Up Boss](../comparisons/follow-up-boss-vs-ixact-contact.md)
 - [IXACT Contact vs Referral Maker CRM](../comparisons/ixact-contact-vs-referral-maker-crm.md)
 - [IXACT Contact vs Realvolve](../comparisons/ixact-contact-vs-realvolve.md)
 - [IXACT Contact vs Brivity](../comparisons/brivity-vs-ixact-contact.md)
 - [IXACT Contact vs Grove](../comparisons/grove-vs-ixact-contact.md)
 - [IXACT Contact vs Real Geeks](../comparisons/ixact-contact-vs-real-geeks.md)
-- [IXACT Contact vs RethinkCRM](../comparisons/ixact-contact-vs-rethinkcrm.md)
-- [IXACT Contact vs Lofty](../comparisons/ixact-contact-vs-lofty.md)
-- [IXACT Contact vs Lone Wolf Relationships](../comparisons/ixact-contact-vs-lone-wolf-relationships.md)
 - [IXACT Contact vs Top Producer](../comparisons/ixact-contact-vs-top-producer.md)
-- [IXACT Contact vs BoldTrail](../comparisons/boldtrail-vs-ixact-contact.md)
-- [IXACT Contact vs Sierra Interactive](../comparisons/ixact-contact-vs-sierra-interactive.md)
 - [IXACT Contact vs Market Leader](../comparisons/ixact-contact-vs-market-leader.md)
-- [IXACT Contact vs CINC](../comparisons/cinc-vs-ixact-contact.md)
-- [IXACT Contact vs Lone Wolf Front Office](../comparisons/ixact-contact-vs-lone-wolf-front-office.md)
 
 ## Frequently asked questions
 

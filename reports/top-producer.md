@@ -21,19 +21,19 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/re
 
 # Top Producer Report
 
-*Updated November 15, 2026 · [Read this report on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/top-producer.html)*
+*Updated November 15, 2026 · [Read this report on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/top-producer.html)*
 
 ## Summary
 
 |  |  |
-| --- | --- |
+| ---: | --- |
 | Product | Top Producer X CRM (with Top Producer Classic 8i) |
 | Company | Top Producer Software Inc., part of Constellation1 (Constellation Software) |
 | Location | Hunt Valley, Maryland, United States |
 | Website | [topproducer.com](https://www.topproducer.com) |
 | Price | $2,148 per year (Pro) |
-| Final score | **4.8/10** (#20 of 26 CRMs) |
-| Best fit | Experienced solo agents, agents with an assistant, high-volume teams |
+| Final Score | **4.8/10** (#20 of 26 CRMs) |
+| Best For | Experienced solo agents, agents with an assistant, high-volume teams |
 | Type | Built for real estate |
 | Free trial | No free trial |
 | Features | 68.5 of 119 checklist points |
@@ -47,7 +47,7 @@ It is one of the oldest names in real estate software. The company was founded i
 
 The pitch is that an agent's database should be worked on every day, not only when there is time. Top Producer helps determine whom the agent should contact, keeps clients hearing from the agent about their neighborhood market, and brings new inquiries into the same daily list. Hence, an agent who would rather sell than build systems has a ready-made routine.
 
-## Pros and cons
+## Pros and Cons
 
 **Pros**
 
@@ -77,7 +77,9 @@ The pitch is that an agent's database should be worked on every day, not only wh
 | [Terms of Service](#terms-of-service) | 2.5/10 | No free trial, a 12-month term with no early exit, and the vendor can end an account without cause and keep fees paid. |
 | [Support](#support) | 7/10 | A large help center and paid onboarding, but no phone support. |
 | [Governance](#governance) | 6.3/10 | A long-established company whose parent sells competing CRMs and has seen frequent leadership changes, with mixed BBB grades and privacy terms that protect agents' contacts but not purchased leads. |
-| **Total** | **4.8/10** | Average of the six categories |
+| **Final Score** | **4.8/10** | Average of the six categories |
+
+Category scores: Features 5.8 · Reviews 3 · Value 4.1 · Terms of Service 2.5 · Support 7 · Governance 6.3.
 
 > **How the final score was calculated:** The average of the six category scores:
 >
@@ -90,8 +92,6 @@ The pitch is that an agent's database should be worked on every day, not only wh
 > - Total: 28.7
 >
 > 28.7 ÷ 6 = 4.78, rounded to **4.8**.
-
-Category scores: Features 5.8 · Reviews 3 · Value 4.1 · Terms of Service 2.5 · Support 7 · Governance 6.3.
 
 ## Fit
 
@@ -376,14 +376,16 @@ Three extras are included in Pro. Market Snapshot sends branded neighborhood rep
 
 Top Producer lists its prices monthly, but every plan requires a one-year commitment, paid in monthly installments. The typical plan is Pro at $2,148 per user per year, which covers the CRM itself. Pro + Leads and Pro + Farming add the company's paid lead-generation and farming services, and the Pro Teams plans cover five, ten, or 25 users for one flat price.
 
+**Typical price: $2,148 per year** (Pro, one of 6 plans) · $179 a month
+
 | Plan | Monthly | Annual | What's included |
 | --- | --- | --- | --- |
-| Pro *(typical)* | $179 | $2,148 | CRM, Market Snapshot, lead response, transaction management; per user |
-| Pro + Leads | $479 starting price | $5,748 starting price | Pro plus Social Connect social-media leads; price varies with lead volume |
-| Pro + Farming | $599 starting price | $7,188 starting price | Pro plus Smart Targeting farming and postcards; price varies with farm size |
-| Pro Teams 5 | $399 | $4,788 | Up to 5 users with shared contacts |
-| Pro Teams 10 | $699 | $8,388 | Up to 10 users |
-| Pro Teams 25 | $1,199 | $14,388 | Up to 25 users; larger teams by quote |
+| Pro *(typical plan)* | $179 | **$2,148** | CRM, Market Snapshot, lead response, transaction management; per user |
+| Pro + Leads | $479 starting price | **$5,748 starting price** | Pro plus Social Connect social-media leads; price varies with lead volume |
+| Pro + Farming | $599 starting price | **$7,188 starting price** | Pro plus Smart Targeting farming and postcards; price varies with farm size |
+| Pro Teams 5 | $399 | **$4,788** | Up to 5 users with shared contacts |
+| Pro Teams 10 | $699 | **$8,388** | Up to 10 users |
+| Pro Teams 25 | $1,199 | **$14,388** | Up to 25 users; larger teams by quote |
 
 | Add-on | Monthly | One-time |
 | --- | --- | --- |
@@ -422,7 +424,7 @@ This review uses single-user pricing for its calculations and comparisons. Becau
 | [TrustRadius](https://www.trustradius.com/products/top-producer-crm/reviews) | 0 | 1 | 0 | 0 | 0 | **1** |
 | [Trustpilot](https://www.trustpilot.com/review/topproducer.com) | 0 | 0 | 0 | 1 | 15 | **16** |
 | [Yelp](https://www.yelp.ca/biz/top-producer-systems-richmond-3) | 0 | 0 | 0 | 0 | 9 | **9** |
-| All sources | 76 | 16 | 2 | 6 | 52 | **152** |
+| All Sources | 76 | 16 | 2 | 6 | 52 | **152** |
 
 G2 and Software Advice were limited to their 50 most recent reviews; the other sources were read in full, at any age. Software Advice shares its reviews with Capterra and GetApp, and was read because Capterra's list repeated one review many times; Software Finder's eight reviews are reworded copies of G2 reviews and are counted once, under G2. SourceForge shares its reviews with Slashdot. TrustRadius ratings were converted from a 10-point scale. Trustpilot, BBB, and Yelp ratings cover the whole company, including its lead services, not just the CRM; the Yelp listing is for the closed Richmond, British Columbia office. One Yelp entry was left out because it was not a customer review, and one PissedConsumer review was left out as a copy of a Software Advice review. 22 of the G2 reviews, 13 of the Software Advice reviews, and 5 of the SourceForge reviews are marked as invited or incentivized. The BBB row combines customer reviews and complaints from the company's three BBB profiles, in Santa Rosa, California; Hunt Valley, Maryland; and Markham, Ontario. Its 16 complaints are counted as reviews: 10 the company never answered as one star, 4 it answered without resolving as two stars, and 2 it resolved as three stars; resolved complaints are not counted toward complaint patterns. Two people posted on more than one site, and each is counted once.
 

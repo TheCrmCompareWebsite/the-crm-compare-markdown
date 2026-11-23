@@ -21,19 +21,19 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/re
 
 # Referral Maker CRM Report
 
-*Updated November 15, 2026 · [Read this report on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/referral-maker-crm.html)*
+*Updated November 15, 2026 · [Read this report on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/referral-maker-crm.html)*
 
 ## Summary
 
 |  |  |
-| --- | --- |
+| ---: | --- |
 | Product | Referral Maker CRM |
 | Company | Buffini & Company |
 | Location | Carlsbad, California, United States |
 | Website | [buffini.com/solutions/referral-maker-crm](https://www.buffini.com/solutions/referral-maker-crm/) |
 | Price | $468 per year (Referral Maker CRM, billed yearly) |
-| Final score | **6.4/10** (#9 of 26 CRMs) |
-| Best fit | Average agents, agents with an assistant |
+| Final Score | **6.4/10** (#9 of 26 CRMs) |
+| Best For | Average agents, agents with an assistant |
 | Type | Built for real estate |
 | Free trial | 30-day free trial (card requirement not stated) |
 | Features | 30.5 of 119 checklist points |
@@ -47,7 +47,7 @@ Buffini targets the product at solo agents and at agents who work with an assist
 
 Its appeal lies in its method rather than a long list of tools. Referral Maker is the software version of Buffini's Work by Referral approach: it determines whom the agent should contact each day and aligns that daily routine with the income the agent wants to earn, so agents who already follow Buffini's teaching get a CRM that works the way they were coached to work.
 
-## Pros and cons
+## Pros and Cons
 
 **Pros**
 
@@ -77,7 +77,9 @@ Its appeal lies in its method rather than a long list of tools. Referral Maker i
 | [Terms of Service](#terms-of-service) | 6.5/10 | A 30-day trial and month-to-month terms are offset by a notice period that can stretch past 30 days and Buffini's right to end a membership without cause. |
 | [Support](#support) | 9/10 | Phone, chat and onboarding help are included, with one-on-one coaching available at a higher price. |
 | [Governance](#governance) | 8.3/10 | A long-established company whose privacy policy keeps agents' client data off the market, but leadership has turned over repeatedly in 2026. |
-| **Total** | **6.4/10** | Average of the six categories |
+| **Final Score** | **6.4/10** | Average of the six categories |
+
+Category scores: Features 2.6 · Reviews 6 · Value 5.7 · Terms of Service 6.5 · Support 9 · Governance 8.3.
 
 > **How the final score was calculated:** The average of the six category scores:
 >
@@ -90,8 +92,6 @@ Its appeal lies in its method rather than a long list of tools. Referral Maker i
 > - Total: 38.1
 >
 > 38.1 ÷ 6 = 6.35, rounded to **6.4**.
-
-Category scores: Features 2.6 · Reviews 6 · Value 5.7 · Terms of Service 6.5 · Support 9 · Governance 8.3.
 
 ## Fit
 
@@ -373,14 +373,16 @@ Two higher-tier extras are worth noting, but they earn no credit on the typical 
 
 Buffini sells Referral Maker CRM on its own for $49 per month, or $468 per year when paid annually. The same CRM is included in five Buffini memberships that include training, monthly marketing materials, and coaching, priced from $99 to $1,499 per month.
 
+**Typical price: $468 per year** (Referral Maker CRM, one of 6 plans) · $49 a month
+
 | Plan | Monthly | Annual | What's included |
 | --- | --- | --- | --- |
-| Referral Maker CRM *(typical)* | $49 | $468 | The CRM on its own; yearly billing saves $120 |
-| Referral Maker CORE | $99 | $999 | CRM plus The Blitz training, monthly marketing content and resource library |
-| Referral Maker PRO | $149 | $1,590 | CRM plus daily plan, monthly marketing kit and Social Suite |
-| Referral Maker PRO Personalized | $179 | $1,940 | PRO with personalized monthly mailers |
-| One2One Coaching | $549 | $5,870 | Two coaching calls a month plus PRO |
-| Leadership Coaching | $1,499 | $15,740 | Leadership coaching; up to 50 team CRM licenses |
+| Referral Maker CRM *(typical plan)* | $49 | **$468** | The CRM on its own; yearly billing saves $120 |
+| Referral Maker CORE | $99 | **$999** | CRM plus The Blitz training, monthly marketing content and resource library |
+| Referral Maker PRO | $149 | **$1,590** | CRM plus daily plan, monthly marketing kit and Social Suite |
+| Referral Maker PRO Personalized | $179 | **$1,940** | PRO with personalized monthly mailers |
+| One2One Coaching | $549 | **$5,870** | Two coaching calls a month plus PRO |
+| Leadership Coaching | $1,499 | **$15,740** | Leadership coaching; up to 50 team CRM licenses |
 
 | Add-on | Monthly | One-time |
 | --- | --- | --- |
@@ -418,7 +420,7 @@ This review uses single-user pricing for its calculations and comparisons. Addin
 | [Google Play](https://play.google.com/store/apps/details?id=com.seamgen.buffini) | 15 | 8 | 5 | 8 | 14 | **50** |
 | [SourceForge](https://sourceforge.net/software/product/Referral-Maker-CRM/) | 1 | 0 | 0 | 0 | 0 | **1** |
 | [Yelp](https://www.yelp.com/biz/buffini-and-company-carlsbad-2) | 11 | 1 | 1 | 1 | 11 | **25** |
-| All sources | 119 | 23 | 12 | 20 | 38 | **212** |
+| All Sources | 119 | 23 | 12 | 20 | 38 | **212** |
 
 The table counts 212 reviews: every review on each site except Google Business Profile (354 reviews) and Google Play (110 written reviews), which were limited to their 50 most recent. Capterra shares its reviews with Software Advice and GetApp, and SourceForge with Slashdot; each pool is counted once. Software Finder's three reviews repeat three G2 reviews in other words, by the same reviewers, so they are counted once, under G2. Yelp and Google Business Profile rate Buffini & Company as a whole, so many of those reviews concern coaching and events rather than the CRM, and Google shows only approximate dates. The App Store and Google Play rate the mobile app. One Yelp entry from a consumer who was not a Buffini customer was left out, and a second review by the same Yelp reviewer on the same day was counted once. On G2, 25 of 34 reviews were marked as invited by the vendor or incentivized, and 17 were posted in November 2016; on Capterra, 15 of 22 carry Capterra's incentivized label; on Google Business Profile, many recent five-star reviews thank a named support agent and carry an owner reply, a sign the reviews were requested after support contacts. The only Reddit discussion found dates from 2023 and was used as background only. TrustRadius and Trustpilot list Buffini with no reviews; the BBB profile has no reviews or complaints, and Gartner Peer Insights and PissedConsumer have no listing.
 

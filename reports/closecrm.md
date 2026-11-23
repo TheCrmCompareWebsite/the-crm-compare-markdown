@@ -21,19 +21,19 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/re
 
 # CloseCRM Report
 
-*Updated November 15, 2026 · [Read this report on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/closecrm.html)*
+*Updated November 15, 2026 · [Read this report on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/closecrm.html)*
 
 ## Summary
 
 |  |  |
-| --- | --- |
+| ---: | --- |
 | Product | Close (formerly Close.io) |
 | Company | Elastic Inc, doing business as Close |
 | Location | Austin, Texas, United States |
 | Website | [close.com](https://www.close.com) |
 | Price | $1,188 per year (Growth, billed annually) |
-| Final score | **6.9/10** (#4 of 26 CRMs) |
-| Best fit | None: a generic sales CRM with no real estate tools |
+| Final Score | **6.9/10** (#4 of 26 CRMs) |
+| Best For | None: a generic sales CRM with no real estate tools |
 | Type | General business CRM |
 | Free trial | 14-day free trial (card not required) |
 | Features | 55.5 of 119 checklist points |
@@ -47,7 +47,7 @@ The company grew out of sales, not software. After Y Combinator, Steli Efti, Ant
 
 Close's pitch is that salespeople should spend their day in conversations rather than in data entry. It keeps every exchange a salesperson has with a prospect in one place, promises that a new team can start selling soon after signing up, and increasingly uses artificial intelligence to take routine prospecting and follow-up off the team's hands. It positions itself as a leaner, faster alternative to large business CRMs for teams that sell by phone.
 
-## Pros and cons
+## Pros and Cons
 
 **Pros**
 
@@ -77,7 +77,9 @@ Close's pitch is that salespeople should spend their day in conversations rather
 | [Terms of Service](#terms-of-service) | 10/10 | A 14-day free trial with no credit card, published prices and monthly plans that can be canceled at any time. |
 | [Support](#support) | 5.5/10 | Email-only support from a team spread over three continents, partly offset by free data migration and paid onboarding and training. |
 | [Governance](#governance) | 8/10 | A founder-led company that clearly intends client data in the CRM to stay private, held back by selling a generic CRM and by contract wording that does not rule out marketing use. |
-| **Total** | **6.9/10** | Average of the six categories |
+| **Final Score** | **6.9/10** | Average of the six categories |
+
+Category scores: Features 4.7 · Reviews 8 · Value 5 · Terms of Service 10 · Support 5.5 · Governance 8.
 
 > **How the final score was calculated:** The average of the six category scores:
 >
@@ -90,8 +92,6 @@ Close's pitch is that salespeople should spend their day in conversations rather
 > - Total: 41.2
 >
 > 41.2 ÷ 6 = 6.87, rounded to **6.9**.
-
-Category scores: Features 4.7 · Reviews 8 · Value 5 · Terms of Service 10 · Support 5.5 · Governance 8.
 
 ## Fit
 
@@ -374,12 +374,14 @@ Many rows are left blank because Close's own documentation neither confirms nor 
 
 Close publishes all four of its plans, each priced per user, with a discount for annual billing. The Growth plan is the typical plan for this review, priced at $1,188 per user per year with annual billing or $109 per month with monthly billing. Calling, texting, and AI use are billed separately by usage on every plan.
 
+**Typical price: $1,188 per year** (Growth, one of 4 plans) · $109 per user per month a month
+
 | Plan | Monthly | Annual | What's included |
 | --- | --- | --- | --- |
-| Solo | $19 per month | $108 per year ($9/month billed annually) | One user and up to 10,000 leads; no workflows, bulk email or email scheduling. |
-| Essentials | $49 per user per month | $420 per user per year ($35/month billed annually) | Unlimited contacts and leads; no workflows, bulk email, power dialer or email scheduling. |
-| Growth *(typical)* | $109 per user per month | $1,188 per user per year ($99/month billed annually) | Adds workflows, the power dialer, bulk email and email scheduling, leaderboards and AI features. |
-| Scale | $149 per user per month | $1,668 per user per year ($139/month billed annually) | Adds custom roles, lead visibility rules, a predictive dialer, call coaching and custom objects. |
+| Solo | $19 per month | **$108 per year ($9/month billed annually)** | One user and up to 10,000 leads; no workflows, bulk email or email scheduling. |
+| Essentials | $49 per user per month | **$420 per user per year ($35/month billed annually)** | Unlimited contacts and leads; no workflows, bulk email, power dialer or email scheduling. |
+| Growth *(typical plan)* | $109 per user per month | **$1,188 per user per year ($99/month billed annually)** | Adds workflows, the power dialer, bulk email and email scheduling, leaderboards and AI features. |
+| Scale | $149 per user per month | **$1,668 per user per year ($139/month billed annually)** | Adds custom roles, lead visibility rules, a predictive dialer, call coaching and custom objects. |
 
 | Add-on | Monthly | One-time |
 | --- | --- | --- |
@@ -420,7 +422,7 @@ This review compares single-user pricing. Close bills each plan per user, so add
 | [Google Play](https://play.google.com/store/apps/details?id=com.close.mobile) | 4 | 2 | 5 | 7 | 17 | **35** |
 | [Apple App Store](https://apps.apple.com/us/app/close-crm/id1668836284) | 9 | 1 | 3 | 8 | 10 | **31** |
 | [PissedConsumer](https://www.pissedconsumer.com/close/RT-F.html) | 0 | 0 | 0 | 0 | 2 | **2** |
-| All sources | 150 | 30 | 11 | 15 | 32 | **238** |
+| All Sources | 150 | 30 | 11 | 15 | 32 | **238** |
 
 Notes: G2, Capterra and Trustpilot are limited to their 50 most recent reviews; the other sites show all of their written reviews. Capterra shares its reviews with Software Advice and GetApp, and SourceForge with Slashdot, so each pool is counted once. TrustRadius ratings are on a 10-point scale and were converted to stars. The Google Play and Apple App Store ratings cover Close's mobile apps rather than the CRM as a whole. The PissedConsumer row holds two complaints; Close did not answer either, so each counts as a one-star review. Left out: six G2 reviews that G2 marks as written by a business partner of the seller or a competitor, one Trustpilot review about a different company, and two Reddit comments (one from a Close employee and one promoting another product). One Trustpilot billing complaint that Close resolved with a refund keeps its stars but is not counted as a negative pattern, and three people who reviewed Close on two sites are counted once in the analysis. Signs of solicited reviews: 43 of the 50 G2 reviews were invited by the seller, most with a small incentive, 30 of the 50 Capterra reviews were incentivized or referred by Close, and all 8 TrustRadius reviews were incentivized. Trustpilot received bursts of reviews in July 2026 and late September 2026, SourceForge in August and September 2023, and the Apple App Store when the iPhone app launched in May 2023. Because new reviews arrive slowly, the Capterra sample reaches back to 2019 and the TrustRadius reviews date from 2017 to 2022. Reddit comments are limited to the past two years and are used in the text but not in the ratings.
 

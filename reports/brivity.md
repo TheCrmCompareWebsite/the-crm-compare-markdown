@@ -21,19 +21,19 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/re
 
 # Brivity Report
 
-*Updated November 15, 2026 · [Read this report on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/brivity.html)*
+*Updated November 15, 2026 · [Read this report on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/brivity.html)*
 
 ## Summary
 
 |  |  |
-| --- | --- |
+| ---: | --- |
 | Product | Brivity Platform |
 | Company | Brivity, Inc. (part of PLACE) |
 | Location | Bellingham, Washington, United States |
 | Website | [brivity.com](https://www.brivity.com/) |
 | Price | $3,588 per year (Growth, Solo Agent) |
-| Final score | **6.2/10** (#12 of 26 CRMs) |
-| Best fit | High-volume team |
+| Final Score | **6.2/10** (#12 of 26 CRMs) |
+| Best For | High-volume team |
 | Type | Built for real estate |
 | Free trial | No free trial |
 | Features | 72.5 of 119 checklist points |
@@ -47,7 +47,7 @@ Ben Kinney, a Bellingham, Washington, agent and team leader, created Brivity in 
 
 Its pitch is that it was built for working agents by working agents. Instead of asking a team to piece together separate tools, Brivity sells one system and a company that sets it up, trains the team, and stays on call, so that a team leader can spend less time on software and more time leading people.
 
-## Pros and cons
+## Pros and Cons
 
 **Pros**
 
@@ -77,7 +77,9 @@ Its pitch is that it was built for working agents by working agents. Instead of 
 | [Terms of Service](#terms-of-service) | 4.5/10 | Month-to-month billing helps, but there is no free trial, five plans with prices given only on request or in the FAQ, and reviewers report trouble cancelling. |
 | [Support](#support) | 10/10 | US-based phone support on every plan, free guided onboarding with data import, and a large video library. |
 | [Governance](#governance) | 8.5/10 | Strong privacy commitments offset conflicts of interest from the owners' brokerage, title and mortgage businesses and a competing product. |
-| **Total** | **6.2/10** | Average of the six categories |
+| **Final Score** | **6.2/10** | Average of the six categories |
+
+Category scores: Features 6.1 · Reviews 5 · Value 3.1 · Terms of Service 4.5 · Support 10 · Governance 8.5.
 
 > **How the final score was calculated:** The average of the six category scores:
 >
@@ -90,8 +92,6 @@ Its pitch is that it was built for working agents by working agents. Instead of 
 > - Total: 37.2
 >
 > 37.2 ÷ 6 = **6.2**.
-
-Category scores: Features 6.1 · Reviews 5 · Value 3.1 · Terms of Service 4.5 · Support 10 · Governance 8.5.
 
 ## Fit
 
@@ -376,13 +376,15 @@ Brivity earns Niche credit for its IDX website, hosted landing pages, social med
 
 Brivity's typical plan, Growth (Solo Agent), costs **$3,588 per year** ($299 per month). The other four plans are sized for larger teams, and their prices are given only on request.
 
+**Typical price: $3,588 per year** (Growth (Solo Agent), one of 5 plans) · $299 a month
+
 | Plan | Monthly | Annual | What's included |
 | --- | --- | --- | --- |
-| Growth (Solo Agent) *(typical)* | $299 | $3,588 | Up to 2 users; the full platform, including a website |
-| Accelerate (Small Team) | — | Custom quote | Up to 5 users; adds team lead management |
-| Expand (Mid-Size Team) | — | Custom quote | Up to 10 users; adds more team management tools and a dedicated success manager |
-| Mega (Large Team) | — | Custom quote | Up to 25 users; adds an account manager |
-| Custom | — | Custom quote | More than 25 users |
+| Growth (Solo Agent) *(typical plan)* | $299 | **$3,588** | Up to 2 users; the full platform, including a website |
+| Accelerate (Small Team) | — | **Custom quote** | Up to 5 users; adds team lead management |
+| Expand (Mid-Size Team) | — | **Custom quote** | Up to 10 users; adds more team management tools and a dedicated success manager |
+| Mega (Large Team) | — | **Custom quote** | Up to 25 users; adds an account manager |
+| Custom | — | **Custom quote** | More than 25 users |
 
 | Add-on | Monthly | One-time |
 | --- | --- | --- |
@@ -423,7 +425,7 @@ This review uses single-user pricing for most calculations and comparisons. On t
 | [G2](https://www.g2.com/products/brivity/reviews) | 31 | 5 | 0 | 1 | 5 | **42** |
 | [Google Business Profile](https://www.google.com/maps/place/?q=place_id:ChIJq6pqJn2khVQRjWFC8AFYwwI) | 47 | 0 | 0 | 0 | 3 | **50** |
 | [Google Play](https://play.google.com/store/apps/details?id=com.brivity.go) | 11 | 1 | 4 | 7 | 14 | **37** |
-| All sources | 142 | 9 | 7 | 13 | 37 | **208** |
+| All Sources | 142 | 9 | 7 | 13 | 37 | **208** |
 
 Notes: Google Business Profile was limited to the 50 most recent of its 57 reviews, and its dates are approximate because Google shows relative dates. Google Business Profile and BBB reviews cover the company as a whole. The Apple App Store row combines the Brivity GO and Brivity Open House apps; the client-facing Brivity Home app was left out because its reviewers are home buyers. Software Finder shows the same reviews as Capterra, and Software Advice and GetApp share Capterra's reviews, so we counted them once under Capterra. The BBB row includes one complaint from 2023; Brivity answered it, and BBB lists it as resolved, so it counts as three stars and was left out when looking for complaint patterns. We left out four entries: two G2 reviews and one Capterra review from business partners of the vendor or its founder's team, and one BBB review from a consumer who is not a customer. A few people reviewed Brivity on more than one site; we counted each person once when looking for patterns. Signs of solicited reviews: 13 G2 reviews from 2018-2019 are marked as invited or incentivized, and G2 shows a burst in January 2021; 29 of the 36 Capterra reviews were posted May 26-28, 2021; about 26 Google Business Profile reviews arrived between August and October 2026; and the App Store shows a burst in mid-October 2024.
 
@@ -604,7 +606,6 @@ For the customer it targets, Brivity is a reasonable purchase: a team that will 
 - [Brivity vs RealtyJuggler](../comparisons/brivity-vs-realtyjuggler.md)
 - [Brivity vs Wise Agent](../comparisons/brivity-vs-wise-agent.md)
 - [Brivity vs IXACT Contact](../comparisons/brivity-vs-ixact-contact.md)
-- [Brivity vs PropertyBase Salesforce Edition](../comparisons/brivity-vs-propertybase-salesforce-edition.md)
 
 ## Frequently asked questions
 

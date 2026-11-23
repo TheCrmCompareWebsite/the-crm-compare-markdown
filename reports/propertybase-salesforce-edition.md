@@ -21,19 +21,19 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/re
 
 # PropertyBase Salesforce Edition Report
 
-*Updated November 15, 2026 · [Read this report on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/propertybase-salesforce-edition.html)*
+*Updated November 15, 2026 · [Read this report on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/propertybase-salesforce-edition.html)*
 
 ## Summary
 
 |  |  |
-| --- | --- |
+| ---: | --- |
 | Product | Propertybase Salesforce Edition |
 | Company | Lone Wolf Real Estate Technologies, Inc. |
 | Location | Dallas, Texas, United States |
 | Website | [propertybase.lwolf.com](https://propertybase.lwolf.com/) |
 | Price | $10,680 per year (Propertybase Salesforce Edition, 10-license minimum) |
-| Final score | **4.6/10** (#21 of 26 CRMs) |
-| Best fit | Real estate offices, franchises |
+| Final Score | **4.6/10** (#21 of 26 CRMs) |
+| Best For | Real estate offices, franchises |
 | Type | Built for real estate |
 | Free trial | No free trial |
 | Features | 74 of 119 checklist points |
@@ -47,7 +47,7 @@ The product began as a Salesforce real estate application from a Munich start-up
 
 Its pitch is a single shared real estate system for an entire organization, built on Salesforce rather than on the vendor's own software. A broker can give every office and agent the same system, let managers oversee their people, and reshape it the way any Salesforce customer adapts its own, which is also why it is made for organizations with the budget and staff to run it.
 
-## Pros and cons
+## Pros and Cons
 
 **Pros**
 
@@ -77,7 +77,9 @@ Its pitch is a single shared real estate system for an entire organization, buil
 | [Terms of Service](#terms-of-service) | 2.5/10 | No free trial, a one-year term that renews for another year, and a recent price rise. |
 | [Support](#support) | 6.5/10 | A large help center and help with email setup, but no phone support, and onboarding, training and data import all cost extra. |
 | [Governance](#governance) | 8.3/10 | Strong contractual protection for client data, offset by two other CRMs under the same parent and a leadership team replaced this year. |
-| **Total** | **4.6/10** | Average of the six categories |
+| **Final Score** | **4.6/10** | Average of the six categories |
+
+Category scores: Features 6.2 · Reviews 3 · Value 1 · Terms of Service 2.5 · Support 6.5 · Governance 8.3.
 
 > **How the final score was calculated:** The average of the six category scores:
 >
@@ -90,8 +92,6 @@ Its pitch is a single shared real estate system for an entire organization, buil
 > - Total: 27.5
 >
 > 27.5 ÷ 6 = 4.58, rounded to **4.6**.
-
-Category scores: Features 6.2 · Reviews 3 · Value 1 · Terms of Service 2.5 · Support 6.5 · Governance 8.3.
 
 ## Fit
 
@@ -379,9 +379,11 @@ The product page lists features that the help center doesn’t describe. Lone Wo
 
 Lone Wolf sells a single plan under the Propertybase name, the Salesforce Edition, priced at $89 per user per month with a Force.com license included. The listing on Salesforce's AppExchange requires at least ten licenses, so the smallest purchase is $890 per month, or $10,680 per year.
 
+**Typical price: $10,680 per year** (Propertybase Salesforce Edition, the only plan) · $890 per month (10 licenses at $89) a month
+
 | Plan | Monthly | Annual | What's included |
 | --- | --- | --- | --- |
-| Propertybase Salesforce Edition *(typical)* | $890 per month (10 licenses at $89) | $10,680 | CRM on a Salesforce license, 10-license minimum |
+| Propertybase Salesforce Edition *(typical plan)* | $890 per month (10 licenses at $89) | **$10,680** | CRM on a Salesforce license, 10-license minimum |
 
 | Add-on | Monthly | One-time |
 | --- | --- | --- |
@@ -417,7 +419,7 @@ This review uses single-user pricing for most calculations and comparisons, whic
 | [TrustRadius](https://www.trustradius.com/products/propertybase/reviews) | 0 | 0 | 0 | 0 | 1 | **1** |
 | [Trustpilot](https://www.trustpilot.com/review/propertybase.com) | 0 | 0 | 0 | 0 | 1 | **1** |
 | [Google Business Profile](https://www.google.com/maps/place/?q=place_id:ChIJ__u_qAfya4cR57zTxWMAePc) | 0 | 1 | 0 | 0 | 0 | **1** |
-| All sources | 32 | 20 | 7 | 8 | 19 | **86** |
+| All Sources | 32 | 20 | 7 | 8 | 19 | **86** |
 
 The table counts 86 rated reviews of any age: every review on G2 (33), BBB (1), TrustRadius (1), Trustpilot (1), and Google Business Profile (1), and 49 of the 51 on Capterra. Capterra, Software Advice and GetApp share one pool of reviews and are counted once, as Capterra; one Capterra entry was left out because it describes the review site's own software search, and the oldest Capterra review falls outside the 50 most recent. Software Finder shows reworded copies of 19 G2 reviews under the same names and dates, so it is not counted separately. G2 half-star ratings and TrustRadius's 10-point rating were converted to whole stars, rounding halves up; the Google Business Profile review is dated over six years ago. The vendor invited many reviews: 27 of the G2 reviews came through G2 invitations, most in December 2017, and 14 Capterra reviews were incentivized, mostly between December 2017 and January 2018. The TrustRadius review comes from a customer of Lone Wolf's back-office software and is included as a review of the product family. BBB no longer shows a 2023 BBB complaint used in the previous edition of this report and has been removed. None of the 86 reviews studied are from the past two years; the newest is from May 2024. Salesforce AppExchange reviews are not included. Gartner Peer Insights has no listing for Propertybase, and Reddit has no post about it from the past two years.
 

@@ -21,19 +21,19 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/re
 
 # Insightly Report
 
-*Updated November 15, 2026 · [Read this report on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/insightly.html)*
+*Updated November 15, 2026 · [Read this report on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/insightly.html)*
 
 ## Summary
 
 |  |  |
-| --- | --- |
+| ---: | --- |
 | Product | Insightly CRM |
 | Company | Insightly, Inc., an Unbounce company |
 | Location | San Francisco, California, United States |
 | Website | [insightly.com](https://www.insightly.com) |
 | Price | $588 per year (Professional) |
-| Final score | **6.4/10** (#8 of 26 CRMs) |
-| Best fit | None. A general business CRM that would need extensive setup for real estate work. |
+| Final Score | **6.4/10** (#8 of 26 CRMs) |
+| Best For | None. A general business CRM that would need extensive setup for real estate work. |
 | Type | General business CRM |
 | Free trial | 14-day free trial (card not required) |
 | Features | 58.5 of 119 checklist points |
@@ -47,7 +47,7 @@ The company was founded in Perth, Australia, in 2009 by Anthony Smith and has be
 
 It promises a single system that a growing company can use to manage prospects, close sales, and organize the work that follows, tailored to its own process rather than a fixed industry template, with per-user pricing aimed at smaller firms that have outgrown spreadsheets yet don't want a complex and expensive enterprise system.
 
-## Pros and cons
+## Pros and Cons
 
 **Pros**
 
@@ -77,7 +77,9 @@ It promises a single system that a growing company can use to manage prospects, 
 | [Terms of Service](#terms-of-service) | 9/10 | A free trial with no credit card and month-to-month terms, offset only by a mobile app rebuild that removed features. |
 | [Support](#support) | 9/10 | Phone support comes with every plan, while onboarding, training and help importing data are sold as extras. |
 | [Governance](#governance) | 7/10 | Contract terms that keep customer data private and promise its deletion are weighed down by a 2024 change of ownership and a website that names no one in management. |
-| **Total** | **6.4/10** | Average of the six categories |
+| **Final Score** | **6.4/10** | Average of the six categories |
+
+Category scores: Features 4.9 · Reviews 2 · Value 6.6 · Terms of Service 9 · Support 9 · Governance 7.
 
 > **How the final score was calculated:** The average of the six category scores:
 >
@@ -90,8 +92,6 @@ It promises a single system that a growing company can use to manage prospects, 
 > - Total: 38.5
 >
 > 38.5 ÷ 6 = 6.42, rounded to **6.4**.
-
-Category scores: Features 4.9 · Reviews 2 · Value 6.6 · Terms of Service 9 · Support 9 · Governance 7.
 
 ## Fit
 
@@ -372,11 +372,13 @@ Insightly is rapidly adding AI and developer tools. The Copilot assistant answer
 
 Insightly offers three CRM plans, all priced per user per month and quoted for annual billing. The Professional plan, which Insightly labels "Recommended," is the typical plan, at **$588 per year** for one user ($49 per month billed annually). A first year with the onboarding and training packages Insightly sells totals **$5,088**.
 
+**Typical price: $588 per year** (Professional, one of 3 plans) · $59 a month
+
 | Plan | Monthly | Annual | What's included |
 | --- | --- | --- | --- |
-| Plus | $35 | $348 | Contacts, leads, opportunities, projects, email templates, two-way email sync, 100,000 records; no workflow automation, lead routing or custom objects |
-| Professional *(typical)* | $59 | $588 | Adds workflow automation, lead assignment rules and queues, custom objects, advanced permissions, webhooks and the Copilot AI assistant (75 queries per user a month); 250,000 records |
-| Enterprise | $129 | $1,188 | Adds field history (audit log), validation rules, calculated fields, single sign-on and 100 Copilot queries; 500,000 records; sold through sales |
+| Plus | $35 | **$348** | Contacts, leads, opportunities, projects, email templates, two-way email sync, 100,000 records; no workflow automation, lead routing or custom objects |
+| Professional *(typical plan)* | $59 | **$588** | Adds workflow automation, lead assignment rules and queues, custom objects, advanced permissions, webhooks and the Copilot AI assistant (75 queries per user a month); 250,000 records |
+| Enterprise | $129 | **$1,188** | Adds field history (audit log), validation rules, calculated fields, single sign-on and 100 Copilot queries; 500,000 records; sold through sales |
 
 | Add-on | Monthly | One-time |
 | --- | --- | --- |
@@ -418,7 +420,7 @@ This review uses single-user pricing for its calculations and comparisons. Addin
 | [SourceForge](https://sourceforge.net/software/product/Insightly/) | 1 | 2 | 0 | 0 | 0 | **3** |
 | [BBB](https://www.bbb.org/us/ca/san-francisco/profile/internet-service/insightly-inc-1116-454127/complaints) | 0 | 0 | 0 | 0 | 1 | **1** |
 | [PissedConsumer](https://www.pissedconsumer.com/insightly/RT-F.html) | 0 | 0 | 0 | 0 | 1 | **1** |
-| All sources | 115 | 101 | 29 | 13 | 56 | **314** |
+| All Sources | 115 | 101 | 29 | 13 | 56 | **314** |
 
 We used the 50 most recent reviews of any age from G2, Capterra, TrustRadius, Gartner Peer Insights, and Google Play, each with more than 50; smaller sites are counted in full, except the Apple App Store, whose web page shows only 10 reviews of Apple's choosing. Capterra, Software Advice and GetApp share one pool of reviews and are counted once as Capterra, and SourceForge shares its reviews with Slashdot. Software Finder's 54 reviews are copies of Capterra reviews and were left out, as was one PissedConsumer post about a different product. The BBB row is a single billing complaint that Insightly has not answered, and the PissedConsumer row is a single support complaint with no reply; each is counted as one star. Two Google Business Profile reviews counted in our earlier study are no longer shown and were removed, and one person who reviewed on both Trustpilot and Google Business Profile, and two who reviewed on both G2 and TrustRadius, are each counted once in the patterns. Trustpilot's 13 reviews cover all of Insightly's products, not only the CRM. TrustRadius ratings (out of 10) were converted to stars. Most reviews on the business-software sites were solicited: G2 marks 43 of its 50 as incentivized or invited by the seller, and TrustRadius marks 48 of 50 as incentivized; bursts of invited reviews appear on G2 on October 29, 2024, and on Capterra in April 2024. Google Business Profile shows only approximate review dates, and 32 of its 36 reviews are more than two years old.
 

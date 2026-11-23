@@ -13,7 +13,7 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/co
 
 # Wise Agent vs RethinkCRM
 
-*Based on reports updated November 15, 2026 · ✓ marks the better value in each row · [See this comparison on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/compare/rethinkcrm-vs-wise-agent.html)*
+*Based on reports updated November 15, 2026 · ✓ marks the better value in each row · [See this comparison on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/compare/rethinkcrm-vs-wise-agent.html)*
 
 **Wise Agent** scores 8.4 to 5.4 and wins 6 of the 6 categories.
 

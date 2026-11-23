@@ -21,19 +21,19 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/re
 
 # Grove Report
 
-*Updated November 15, 2026 · [Read this report on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/grove.html)*
+*Updated November 15, 2026 · [Read this report on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/grove.html)*
 
 ## Summary
 
 |  |  |
-| --- | --- |
+| ---: | --- |
 | Product | Grove |
 | Company | Elm Street Technology, LLC |
 | Location | Frisco, Texas, United States |
 | Website | [getgrove.com](https://getgrove.com/) |
 | Price | $600 per year (Grove, billed annually) |
-| Final score | **6.2/10** (#13 of 26 CRMs) |
-| Best fit | Average agent |
+| Final Score | **6.2/10** (#13 of 26 CRMs) |
+| Best For | Average agent |
 | Type | Built for real estate |
 | Free trial | 15-day free trial (card required) |
 | Features | 37 of 119 checklist points |
@@ -47,7 +47,7 @@ Elm Street markets Grove to individual agents who want to stay close to the peop
 
 Elm Street Technology has built software and marketing services for real estate professionals since 2016, and its brands include IDX Broker, OutboundEngine, IXACT Contact, Aiva and VoicePad. Keith Beeman is the company's chief executive. The company describes Grove as the CRM that brings together what it has learned across those brands, and its appeal is a calm, low-effort way for a busy agent to remember people and keep a referral business growing.
 
-## Pros and cons
+## Pros and Cons
 
 **Pros**
 
@@ -77,7 +77,9 @@ Elm Street Technology has built software and marketing services for real estate 
 | [Terms of Service](#terms-of-service) | 9/10 | One published price, monthly billing and cancel-any-time terms, held back only by a free trial that requires a credit card. |
 | [Support](#support) | 7/10 | Phone support from a real estate-focused team is included, but tutorial videos are few and new customers are offered no onboarding. |
 | [Governance](#governance) | 6.5/10 | Contract terms that protect client data very well are offset by a parent with a C- BBB grade, a recent ownership change and a competing CRM. |
-| **Total** | **6.2/10** | Average of the six categories |
+| **Final Score** | **6.2/10** | Average of the six categories |
+
+Category scores: Features 3.1 · Reviews 6 · Value 5.6 · Terms of Service 9 · Support 7 · Governance 6.5.
 
 > **How the final score was calculated:** The average of the six category scores:
 >
@@ -90,8 +92,6 @@ Elm Street Technology has built software and marketing services for real estate 
 > - Total: 37.2
 >
 > 37.2 ÷ 6 = **6.2**.
-
-Category scores: Features 3.1 · Reviews 6 · Value 5.6 · Terms of Service 9 · Support 7 · Governance 6.5.
 
 ## Fit
 
@@ -371,9 +371,11 @@ Grove's own help center lists texting, calendar integration, keep-in-touch autom
 
 Grove has one plan with every feature included, priced at $60 per month on monthly billing or $600 per year on annual billing, which works out to $50 per month. Annual billing is the typical price used in this report, so the typical annual price is $600.
 
+**Typical price: $600 per year** (Grove, the only plan) · $60 a month
+
 | Plan | Monthly | Annual | What's included |
 | --- | --- | --- | --- |
-| Grove *(typical)* | $60 | $600 | Unlimited contacts and every feature; $60 a month billed monthly or $600 a year billed annually |
+| Grove *(typical plan)* | $60 | **$600** | Unlimited contacts and every feature; $60 a month billed monthly or $600 a year billed annually |
 
 The typical first-year cost is also $600. Elm Street charges no setup, onboarding, or training fees. Phone support is included, and there are no add-ons.
 
@@ -398,7 +400,7 @@ This review uses single-user pricing for its calculations and comparisons. Grove
 | Source | 5★ | 4★ | 3★ | 2★ | 1★ | Total |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
 | [BBB](https://www.bbb.org/us/tx/frisco/profile/marketing-software/elm-street-technology-0875-91331466/complaints) | 0 | 0 | 4 | 1 | 1 | **6** |
-| All sources | 0 | 0 | 4 | 1 | 1 | **6** |
+| All Sources | 0 | 0 | 4 | 1 | 1 | **6** |
 
 The table counts the six complaints on the BBB profile of Elm Street Technology, Grove's parent company; the profile has no customer reviews, and Grove has no separate profile. All six concern Elm Street's other products rather than Grove and are counted as reviews of the vendor's whole product family. Complaints are rated from the company's response: four answered and resolved count as 3 stars, one answered but not resolved as 2 stars, and one unanswered as 1 star. Only 3 of the 6 are from the past two years. G2, Capterra (whose reviews Software Advice and GetApp share), TrustRadius, Trustpilot, Yelp, SourceForge (shared with Slashdot), Gartner Peer Insights, Google Play, the Apple App Store, PissedConsumer, Software Finder and Google Business Profile were searched and showed no Grove listing or reviews; Reddit and Facebook were searched and showed nothing beyond the launch announcement.
 

@@ -21,19 +21,19 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/re
 
 # Sierra Interactive Report
 
-*Updated November 15, 2026 · [Read this report on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/sierra-interactive.html)*
+*Updated November 15, 2026 · [Read this report on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/sierra-interactive.html)*
 
 ## Summary
 
 |  |  |
-| --- | --- |
+| ---: | --- |
 | Product | Sierra Interactive |
 | Company | Sierra Interactive LLC (part of Alpine Software Group) |
 | Location | Louisville, Kentucky, United States |
 | Website | [sierrainteractive.com](https://www.sierrainteractive.com/) |
 | Price | $3,599.40 per year (Starter, billed annually) |
-| Final score | **4.5/10** (#23 of 26 CRMs) |
-| Best fit | High-volume team, real estate office |
+| Final Score | **4.5/10** (#23 of 26 CRMs) |
+| Best For | High-volume team, real estate office |
 | Type | Built for real estate |
 | Free trial | No free trial |
 | Features | 55.5 of 119 checklist points |
@@ -47,7 +47,7 @@ It includes support for MLS listing feeds, listing alerts, lead routing, and a b
 
 The company traces its roots to 2003, when founder Ben Peskoe began building real estate websites in the California ski town of Mammoth Lakes. Sierra Interactive was formally founded in 2007 and adopted a subscription model with its own CRM in 2017. Based in Louisville, Kentucky, it joined Alpine Software Group, backed by the private equity firm Alpine Investors, in 2022, when Peter Maglathlin became chief executive. Its main appeal is a single system where an agent's branded, search-friendly website and the CRM share the same lead data, so the agent who follows up can see every visitor's searches and visits.
 
-## Pros and cons
+## Pros and Cons
 
 **Pros**
 
@@ -77,7 +77,9 @@ The company traces its roots to 2003, when founder Ben Peskoe began building rea
 | [Terms of Service](#terms-of-service) | 2.5/10 | No free trial, a 12-month agreement with no published renewal term, and a termination clause that favors the vendor. |
 | [Support](#support) | 10/10 | Phone support, onboarding with training, data import and email deliverability help come with every plan. |
 | [Governance](#governance) | 6/10 | A long-established company now owned by a private equity-backed group, with a D+ BBB grade and a privacy policy that offers little protection for client data. |
-| **Total** | **4.5/10** | Average of the six categories |
+| **Final Score** | **4.5/10** | Average of the six categories |
+
+Category scores: Features 4.7 · Reviews 1 · Value 2.6 · Terms of Service 2.5 · Support 10 · Governance 6.
 
 > **How the final score was calculated:** The average of the six category scores:
 >
@@ -90,8 +92,6 @@ The company traces its roots to 2003, when founder Ben Peskoe began building rea
 > - Total: 26.8
 >
 > 26.8 ÷ 6 = 4.47, rounded to **4.5**.
-
-Category scores: Features 4.7 · Reviews 1 · Value 2.6 · Terms of Service 2.5 · Support 10 · Governance 6.
 
 ## Fit
 
@@ -371,11 +371,13 @@ Several capabilities agents rely on after the first contact are missing. There i
 
 Sierra Interactive's typical Starter plan costs **$3,599.40 per year** when paid annually ($299.95 per month), and its typical first-year cost is the same. Monthly billing costs more, includes a setup fee, and requires a 12-month agreement.
 
+**Typical price: $3,599.40 per year** (Starter, one of 3 plans) · $359.95 (billed monthly) a month
+
 | Plan | Monthly | Annual | What's included |
 | --- | --- | --- | --- |
-| Starter *(typical)* | $359.95 (billed monthly) | $3,599.40 ($299.95/month prepaid) | 1 user; IDX website with one MLS feed; CRM, automations and reporting; 30-day onboarding |
-| Essential | $474.95 (billed monthly) | $4,799.40 ($399.95/month prepaid) | 3 users; advanced lead routing; messaging automations; website marketing tools; 60-day onboarding |
-| Growth | $724.95 (billed monthly) | $7,199.40 ($599.95/month prepaid) | 5 users; premium website designs; agent leaderboard; group text; 90-day onboarding plus two hours of extra training |
+| Starter *(typical plan)* | $359.95 (billed monthly) | **$3,599.40 ($299.95/month prepaid)** | 1 user; IDX website with one MLS feed; CRM, automations and reporting; 30-day onboarding |
+| Essential | $474.95 (billed monthly) | **$4,799.40 ($399.95/month prepaid)** | 3 users; advanced lead routing; messaging automations; website marketing tools; 60-day onboarding |
+| Growth | $724.95 (billed monthly) | **$7,199.40 ($599.95/month prepaid)** | 5 users; premium website designs; agent leaderboard; group text; 90-day onboarding plus two hours of extra training |
 
 | Add-on | Monthly | One-time |
 | --- | --- | --- |
@@ -423,7 +425,7 @@ This review uses single-user pricing for its calculations and comparisons. Addin
 | [Google Business Profile](https://www.google.com/maps/place/?q=place_id:ChIJxzP5it5yaYgRe6tPbn5JfJ4) | 19 | 0 | 0 | 1 | 12 | **32** |
 | [Google Play](https://play.google.com/store/apps/details?id=com.sierrainteractivedev.mobileapp) | 12 | 1 | 2 | 0 | 8 | **23** |
 | [Trustpilot](https://www.trustpilot.com/review/www.sierrainteractive.com) | 0 | 0 | 0 | 0 | 1 | **1** |
-| All sources | 46 | 4 | 5 | 1 | 26 | **82** |
+| All Sources | 46 | 4 | 5 | 1 | 26 | **82** |
 
 The table counts every written review each source showed: Google Business Profile (32), Google Play (23), the Apple App Store (22), G2 (3), Trustpilot (1) and BBB (1 complaint), so no source reached the 50-review limit. Software Finder shows the same three reviews as G2 and is counted once, under G2; one of the three is marked as incentivized. The BBB complaint went unanswered and is counted as a one-star review. Google Business Profile and BBB rate the company as a whole, and the app stores rate the mobile app. Google shows only approximate review dates. One Google review about the office space and one Reddit comment from an employee of a partner company were left out. Reddit comments come from a single r/realtors thread, and only one falls within the past two years.
 

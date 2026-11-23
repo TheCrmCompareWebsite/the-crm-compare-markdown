@@ -21,19 +21,19 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/re
 
 # HubSpot Sales Hub Report
 
-*Updated November 15, 2026 · [Read this report on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/hubspot-sales-hub.html)*
+*Updated November 15, 2026 · [Read this report on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/hubspot-sales-hub.html)*
 
 ## Summary
 
 |  |  |
-| --- | --- |
+| ---: | --- |
 | Product | HubSpot Sales Hub (on HubSpot Smart CRM) |
 | Company | HubSpot, Inc. (NYSE: HUBS) |
 | Location | Cambridge, Massachusetts, United States |
 | Website | [hubspot.com](https://www.hubspot.com/products/sales) |
 | Price | $1,080 per year (Sales Hub Professional) |
-| Final score | **5.4/10** (#15 of 26 CRMs) |
-| Best fit | None; a generic business CRM that needs extensive setup before it can serve real estate agents. |
+| Final Score | **5.4/10** (#15 of 26 CRMs) |
+| Best For | None; a generic business CRM that needs extensive setup before it can serve real estate agents. |
 | Type | General business CRM |
 | Free trial | 14-day free trial (card not required) |
 | Features | 70.5 of 119 checklist points |
@@ -47,7 +47,7 @@ The company dates back to 2006, when Brian Halligan and Dharmesh Shah, who met a
 
 HubSpot's pitch is a single connected system that grows with the business. A company can start free, move up through paid tiers as it adds people, and keep its marketing, sales, and service with a single vendor, with artificial intelligence woven throughout. For a brokerage that already markets through HubSpot, putting its agents' sales work on the same platform is the main draw.
 
-## Pros and cons
+## Pros and Cons
 
 **Pros**
 
@@ -77,7 +77,9 @@ HubSpot's pitch is a single connected system that grows with the business. A com
 | [Terms of Service](#terms-of-service) | 5.5/10 | A free trial with no card required, offset by a one-year term that also renews for a year, complex pricing, a recent price increase and features moved to another product. |
 | [Support](#support) | 6/10 | Phone support on the typical plan, but support runs largely from offices outside North America and reviewers say the required paid onboarding often falls short. |
 | [Governance](#governance) | 7.3/10 | A long-established public company with a D- BBB grade and a difficult year, whose privacy terms limit it to handling an agent's data on the agent's behalf and deleting it when the account ends, as long as the agent leaves an optional data add-on off. |
-| **Total** | **5.4/10** | Average of the six categories |
+| **Final Score** | **5.4/10** | Average of the six categories |
+
+Category scores: Features 5.9 · Reviews 2 · Value 5.7 · Terms of Service 5.5 · Support 6 · Governance 7.3.
 
 > **How the final score was calculated:** The average of the six category scores:
 >
@@ -90,8 +92,6 @@ HubSpot's pitch is a single connected system that grows with the business. A com
 > - Total: 32.4
 >
 > 32.4 ÷ 6 = **5.4**.
-
-Category scores: Features 5.9 · Reviews 2 · Value 5.7 · Terms of Service 5.5 · Support 6 · Governance 7.3.
 
 ## Fit
 
@@ -376,12 +376,14 @@ Where Sales Hub stands out is its AI and data tools, which few real estate CRMs 
 
 Sales Hub Professional, the standard plan, costs $1,080 per user per year when billed annually ($90 per month), or $100 per month on monthly billing, which still requires a one-year commitment. A one-time onboarding fee is required in addition to the subscription, so the first year costs more.
 
+**Typical price: $1,080 per year** (Sales Hub Professional, one of 4 plans) · $100 per seat a month
+
 | Plan | Monthly | Annual | What's included |
 | --- | --- | --- | --- |
-| Sales Hub Free | $0 | $0 | Up to 2 users; basic contacts, deals, email tracking and meeting links. |
-| Sales Hub Starter | $20 per seat | $84 per seat | $7 per seat a month when billed annually, a price for new customers; simple automation and calling, without sequences or workflows. |
-| Sales Hub Professional *(typical)* | $100 per seat | $1,080 per seat | Annual commitment even when billed monthly; sequences, workflows, forecasting and phone support; $1,500 onboarding required. |
-| Sales Hub Enterprise | — | $1,800 per seat | Billed annually only; field-level permissions, record sharing and automatic sequence enrollment; $3,500 onboarding required. |
+| Sales Hub Free | $0 | **$0** | Up to 2 users; basic contacts, deals, email tracking and meeting links. |
+| Sales Hub Starter | $20 per seat | **$84 per seat** | $7 per seat a month when billed annually, a price for new customers; simple automation and calling, without sequences or workflows. |
+| Sales Hub Professional *(typical plan)* | $100 per seat | **$1,080 per seat** | Annual commitment even when billed monthly; sequences, workflows, forecasting and phone support; $1,500 onboarding required. |
+| Sales Hub Enterprise | — | **$1,800 per seat** | Billed annually only; field-level permissions, record sharing and automatic sequence enrollment; $3,500 onboarding required. |
 
 | Add-on | Monthly | One-time |
 | --- | --- | --- |
@@ -426,7 +428,7 @@ This review uses single-user pricing for most comparisons. An agent adding an as
 | [TrustRadius](https://www.trustradius.com/products/hubspot-sales-hub/reviews) | 35 | 13 | 2 | 0 | 0 | **50** |
 | [Trustpilot](https://www.trustpilot.com/review/hubspot.com) | 0 | 1 | 1 | 3 | 45 | **50** |
 | [Yelp](https://www.yelp.com/biz/hubspot-cambridge) | 2 | 0 | 0 | 4 | 12 | **18** |
-| All sources | 167 | 81 | 25 | 24 | 174 | **471** |
+| All Sources | 167 | 81 | 25 | 24 | 174 | **471** |
 
 The table counts the 50 most recent reviews on each site with more than 50 (Apple App Store, BBB, Capterra, G2, Gartner Peer Insights, Google Play, TrustRadius and Trustpilot) and every review on the smaller sites. Capterra's reviews are shared with Software Advice and GetApp, and SourceForge's with Slashdot, so each pool is counted once. Software Finder shows reworded copies of G2 reviews from the same reviewers in the same months, so it is counted with G2; its six late-2024 reviews are older than G2's 50 most recent and drop out of the table. The BBB row includes 41 complaints: the 40 that HubSpot never answered count as one star and the one it resolved as three stars, alongside 9 star-rated reviews. Trustpilot, the BBB, Yelp and Google Business Profile rate HubSpot as a company across all of its hubs, and the app stores rate the mobile app used with every hub; the other sites review Sales Hub itself. TrustRadius ratings on a 10-point scale were converted to five stars. 47 entries were left out because they were not customer reviews of the product: 30 on Google Business Profile (mostly ratings with no text on HubSpot's headquarters listing, plus building visitors and a competing CRM), 6 on Trustpilot, 4 on the BBB, 3 on Google Play, 2 on Yelp, and 1 each on G2 and Gartner Peer Insights (a HubSpot partner). One Google Business Profile review has since been removed from the listing. Three people posted the same complaint on two sites; each counts once in the analysis. The one resolved BBB complaint keeps its stars but is left out of the complaint patterns. G2 marks 44 of its 50 reviews as invited or incentivized, including a burst of reviews on September 18, 2026, and TrustRadius marks 37 of 50 as incentivized, many written in bursts in 2021 and late 2022; TrustRadius's newest review is from April 2025. Apple's website does not show developer replies for older App Store reviews, so none could be found there. Eight Reddit posts and comments from the past two years have no star ratings, so they inform the written analysis but not the chart or table.
 

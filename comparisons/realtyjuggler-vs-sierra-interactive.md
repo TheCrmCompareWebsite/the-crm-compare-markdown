@@ -13,7 +13,7 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/co
 
 # RealtyJuggler vs Sierra Interactive
 
-*Based on reports updated November 15, 2026 · ✓ marks the better value in each row · [See this comparison on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/compare/realtyjuggler-vs-sierra-interactive.html)*
+*Based on reports updated November 15, 2026 · ✓ marks the better value in each row · [See this comparison on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/compare/realtyjuggler-vs-sierra-interactive.html)*
 
 **RealtyJuggler** scores 9.8 to 4.5 and wins 5 of the 6 categories.
 

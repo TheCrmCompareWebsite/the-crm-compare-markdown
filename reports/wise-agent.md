@@ -21,19 +21,19 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/re
 
 # Wise Agent Report
 
-*Updated November 15, 2026 · [Read this report on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/wise-agent.html)*
+*Updated November 15, 2026 · [Read this report on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/wise-agent.html)*
 
 ## Summary
 
 |  |  |
-| --- | --- |
+| ---: | --- |
 | Product | Wise Agent CRM |
 | Company | Wise Agent, LLC |
 | Location | Fountain Hills, Arizona, United States |
 | Website | [wiseagent.com](https://wiseagent.com) |
 | Price | $499 per year (CRM) |
-| Final score | **8.4/10** (#2 of 26 CRMs) |
-| Best fit | Average solo agents; agents with an assistant; high-volume teams; new agents |
+| Final Score | **8.4/10** (#2 of 26 CRMs) |
+| Best For | Average solo agents; agents with an assistant; high-volume teams; new agents |
 | Type | Built for real estate |
 | Free trial | 14-day free trial (card required) |
 | Features | 95.5 of 119 checklist points |
@@ -47,7 +47,7 @@ Brandon Wise, then a working Realtor, started the company in 2002 with his frien
 
 Its appeal is a low price paired with personal service. One plan includes the whole system. Membership runs month to month, and setup help, one-on-one coaching, and round-the-clock phone support come with every subscription instead of being sold as service tiers.
 
-## Pros and cons
+## Pros and Cons
 
 **Pros**
 
@@ -74,7 +74,9 @@ Its appeal is a low price paired with personal service. One plan includes the wh
 | [Terms of Service](#terms-of-service) | 7/10 | A 14-day trial and month-to-month terms, offset by a trial that requires a credit card, non-refundable fees and Wise Agent's right to close an account for any reason. |
 | [Support](#support) | 10/10 | Free 24/7 phone, chat and email support, onboarding, 1-on-1 training and import help on every plan. |
 | [Governance](#governance) | 8.5/10 | A long-established, founder-run company whose terms keep agents' client data out of resale and outside marketing but promise nothing once an account ends. |
-| **Total** | **8.4/10** | Average of the six categories |
+| **Final Score** | **8.4/10** | Average of the six categories |
+
+Category scores: Features 8 · Reviews 9 · Value 8 · Terms of Service 7 · Support 10 · Governance 8.5.
 
 > **How the final score was calculated:** The average of the six category scores:
 >
@@ -87,8 +89,6 @@ Its appeal is a low price paired with personal service. One plan includes the wh
 > - Total: 50.5
 >
 > 50.5 ÷ 6 = 8.42, rounded to **8.4**.
-
-Category scores: Features 8 · Reviews 9 · Value 8 · Terms of Service 7 · Support 10 · Governance 8.5.
 
 ## Fit
 
@@ -387,11 +387,13 @@ A few useful tools cost extra or are provided by partners. An AI texting bot tha
 
 Wise Agent's typical plan is CRM at $499 per year (or $49 billed monthly), which includes up to five team members on a shared login, onboarding, unlimited training, and 24/7 support. CRM + WiseSocial adds automated social media posting for $699 per year, and Enterprise is quoted for brokerages with 15 or more agents.
 
+**Typical price: $499 per year** (CRM, one of 3 plans) · $49 a month
+
 | Plan | Monthly | Annual | What's included |
 | --- | --- | --- | --- |
-| CRM *(typical)* | $49 | $499 | Full CRM, up to 5 team members on a shared login, onboarding, unlimited training, 24/7 support, 100 lead enhancement credits, one landing page |
-| CRM + WiseSocial | $69 | $699 | Everything in CRM plus WiseSocial automated listing posts, branded listing videos and social scheduling |
-| Enterprise | — | Custom quote | Custom pricing for teams of 15+ agents; bulk licensing, brokerage reports and white-label options |
+| CRM *(typical plan)* | $49 | **$499** | Full CRM, up to 5 team members on a shared login, onboarding, unlimited training, 24/7 support, 100 lead enhancement credits, one landing page |
+| CRM + WiseSocial | $69 | **$699** | Everything in CRM plus WiseSocial automated listing posts, branded listing videos and social scheduling |
+| Enterprise | — | **Custom quote** | Custom pricing for teams of 15+ agents; bulk licensing, brokerage reports and white-label options |
 
 | Add-on | Monthly | One-time |
 | --- | --- | --- |
@@ -430,7 +432,7 @@ This review compares single-user prices, but Wise Agent prices its CRM for small
 | [G2](https://www.g2.com/products/wise-agent/reviews) | 6 | 4 | 2 | 2 | 0 | **14** |
 | [Google Business Profile](https://www.google.com/maps/place/?q=place_id:ChIJbbfLl4iYK4cRf8zwYcGP_vM) | 48 | 0 | 0 | 0 | 2 | **50** |
 | [Yelp](https://www.yelp.com/biz/wise-agent-fountain-hills) | 2 | 0 | 0 | 0 | 4 | **6** |
-| All sources | 81 | 21 | 9 | 2 | 7 | **120** |
+| All Sources | 81 | 21 | 9 | 2 | 7 | **120** |
 
 Software Advice, Capterra and GetApp share one pool of 531 reviews, listed in the table as Software Advice because Capterra showed a verification check when we read it; we used the 50 most recent (August 2019 to February 2025), of which 39 are marked incentivized and 23 date from August 2019. G2 has 15 reviews from 2016 to 2022; 14 carry a star rating, and 13 of those are marked incentivized. Because so many of the five-star ratings are incentivized or arrive in bursts, the patterns in the reviews' text matter more than the averages. Software Finder shows reworded copies of seven G2 reviews and is counted with G2. The Google Business Profile rates the company rather than the product alone; we used the 50 most recent of 307 reviews, many of which name individual staff. Google shows only relative dates, so its dates are approximate. G2 ratings in half stars were rounded to the nearest star (halves up). TrustRadius shows a single rating with no review and was left out; Trustpilot, BBB, SourceForge, Gartner Peer Insights, PissedConsumer, and the app stores have no reviews. No reviews were excluded or removed; one critical Google review that Wise Agent answered with a fix is counted in the table but not toward the complaint patterns. Reddit, which is not rated, had one relevant post from the past two years, in r/RealEstateTechnology.
 
@@ -598,28 +600,15 @@ At $499 a year, Wise Agent is one of the best values in real estate software. Fo
 ## Head-to-head comparisons
 
 - [Wise Agent vs RealtyJuggler](../comparisons/realtyjuggler-vs-wise-agent.md)
-- [Wise Agent vs Apptivo](../comparisons/apptivo-vs-wise-agent.md)
-- [Wise Agent vs CloseCRM](../comparisons/closecrm-vs-wise-agent.md)
 - [Wise Agent vs IXACT Contact](../comparisons/ixact-contact-vs-wise-agent.md)
-- [Wise Agent vs Pipedrive](../comparisons/pipedrive-vs-wise-agent.md)
 - [Wise Agent vs Follow Up Boss](../comparisons/follow-up-boss-vs-wise-agent.md)
-- [Wise Agent vs Insightly](../comparisons/insightly-vs-wise-agent.md)
 - [Wise Agent vs Referral Maker CRM](../comparisons/referral-maker-crm-vs-wise-agent.md)
 - [Wise Agent vs Realvolve](../comparisons/realvolve-vs-wise-agent.md)
-- [Wise Agent vs Zoho CRM](../comparisons/wise-agent-vs-zoho-crm.md)
 - [Wise Agent vs Brivity](../comparisons/brivity-vs-wise-agent.md)
-- [Wise Agent vs Grove](../comparisons/grove-vs-wise-agent.md)
 - [Wise Agent vs Real Geeks](../comparisons/real-geeks-vs-wise-agent.md)
-- [Wise Agent vs RethinkCRM](../comparisons/rethinkcrm-vs-wise-agent.md)
-- [Wise Agent vs monday CRM](../comparisons/monday-crm-vs-wise-agent.md)
-- [Wise Agent vs Lofty](../comparisons/lofty-vs-wise-agent.md)
-- [Wise Agent vs Lone Wolf Relationships](../comparisons/lone-wolf-relationships-vs-wise-agent.md)
 - [Wise Agent vs Top Producer](../comparisons/top-producer-vs-wise-agent.md)
-- [Wise Agent vs BoldTrail](../comparisons/boldtrail-vs-wise-agent.md)
-- [Wise Agent vs Sierra Interactive](../comparisons/sierra-interactive-vs-wise-agent.md)
 - [Wise Agent vs Market Leader](../comparisons/market-leader-vs-wise-agent.md)
 - [Wise Agent vs CINC](../comparisons/cinc-vs-wise-agent.md)
-- [Wise Agent vs Lone Wolf Front Office](../comparisons/lone-wolf-front-office-vs-wise-agent.md)
 
 ## Frequently asked questions
 

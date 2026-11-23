@@ -21,19 +21,19 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/re
 
 # BoldTrail Report
 
-*Updated November 15, 2026 · [Read this report on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/boldtrail.html)*
+*Updated November 15, 2026 · [Read this report on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/boldtrail.html)*
 
 ## Summary
 
 |  |  |
-| --- | --- |
+| ---: | --- |
 | Product | BoldTrail (formerly kvCORE) |
 | Company | Inside Real Estate (InsideRE, LLC) |
 | Location | Murray, Utah, United States |
 | Website | [boldtrail.com](https://boldtrail.com) |
 | Price | $5,988 per year (Base, one seat) |
-| Final score | **4.5/10** (#22 of 26 CRMs) |
-| Best fit | Franchise; Real estate office |
+| Final Score | **4.5/10** (#22 of 26 CRMs) |
+| Best For | Franchise; Real estate office |
 | Type | Built for real estate |
 | Free trial | No free trial |
 | Features | 79.5 of 119 checklist points |
@@ -49,7 +49,7 @@ Founded in 2008, Inside Real Estate is based in Murray, Utah. Co-founder Joe Sko
 
 BoldTrail's main appeal is consolidation at scale. A brokerage gives its agents a single login for client and marketing work, while its managers see activity across all offices and teams. The same company sells connected back-office, recruiting, and lead-generation services, so a brokerage can source much of its technology from one vendor.
 
-## Pros and cons
+## Pros and Cons
 
 **Pros**
 
@@ -79,7 +79,9 @@ BoldTrail's main appeal is consolidation at scale. A brokerage gives its agents 
 | [Terms of Service](#terms-of-service) | 1.5/10 | No free trial, no published price, and an initial term of a year or more that renews for 12 months with no early exit. |
 | [Support](#support) | 8.5/10 | Phone, email and chat support, free imports and paid coaching are offered, but reviewers say phone support and onboarding fall short. |
 | [Governance](#governance) | 7.3/10 | Service-provider privacy terms protect client data, offset by an F BBB rating, a recent ownership change and a second CRM sold alongside. |
-| **Total** | **4.5/10** | Average of the six categories |
+| **Final Score** | **4.5/10** | Average of the six categories |
+
+Category scores: Features 6.7 · Reviews 1 · Value 2.2 · Terms of Service 1.5 · Support 8.5 · Governance 7.3.
 
 > **How the final score was calculated:** The average of the six category scores:
 >
@@ -92,8 +94,6 @@ BoldTrail's main appeal is consolidation at scale. A brokerage gives its agents 
 > - Total: 27.2
 >
 > 27.2 ÷ 6 = 4.53, rounded to **4.5**.
-
-Category scores: Features 6.7 · Reviews 1 · Value 2.2 · Terms of Service 1.5 · Support 8.5 · Governance 7.3.
 
 ## Fit
 
@@ -387,11 +387,13 @@ Inside Real Estate does not publish BoldTrail's prices; its own [pricing article
 
 That entry price buys very little room. The same usage limits page caps each seat at 1,000 contact records on Base, 1,500 on Plus, and 2,000 on Pro, and an account's capacity grows only as it buys more seats. A thousand records is small for an agent with even a few years of past clients and leads, so a single Base seat is impractical for an individual agent, an agent with an assistant, or a small team. The package becomes workable only where an office or franchise pools many seats. Because Inside Real Estate publishes no other price a buyer could compare, this review still uses the single-seat Base price as its benchmark, while treating that configuration as unsuitable for anyone buying alone.
 
+**Typical price: $5,988 per year** (Base, one of 3 plans) · $499 a month
+
 | Plan | Monthly | Annual | What's included |
 | --- | --- | --- | --- |
-| Base *(typical)* | $499 | $5,988 | IDX website, Smart CRM, marketing automation, analytics, transaction integrations, mobile apps; one of Listing Machine/DesignCenter or Present; 1,000 contacts per seat |
-| Plus | — | Custom quote | Adds AI search alerts and insights and the Concierge AI lead assistant; 1,500 contacts per seat |
-| Pro | — | Custom quote | Adds both Listing Machine/DesignCenter and Present, a Smart Number for every user and PRO Desk support; 2,000 contacts per seat |
+| Base *(typical plan)* | $499 | **$5,988** | IDX website, Smart CRM, marketing automation, analytics, transaction integrations, mobile apps; one of Listing Machine/DesignCenter or Present; 1,000 contacts per seat |
+| Plus | — | **Custom quote** | Adds AI search alerts and insights and the Concierge AI lead assistant; 1,500 contacts per seat |
+| Pro | — | **Custom quote** | Adds both Listing Machine/DesignCenter and Present, a Smart Number for every user and PRO Desk support; 2,000 contacts per seat |
 
 | Add-on | Monthly | One-time |
 | --- | --- | --- |
@@ -434,7 +436,7 @@ These figures are for a single seat. BoldTrail is priced per seat, but no price 
 | [SourceForge](https://sourceforge.net/software/product/BoldTrail/) | 3 | 1 | 0 | 0 | 0 | **4** |
 | [TrustRadius](https://www.trustradius.com/products/kvcore/reviews) | 14 | 0 | 1 | 1 | 9 | **25** |
 | [Trustpilot](https://www.trustpilot.com/review/insiderealestate.com) | 1 | 0 | 0 | 0 | 49 | **50** |
-| All sources | 88 | 24 | 14 | 39 | 201 | **366** |
+| All Sources | 88 | 24 | 14 | 39 | 201 | **366** |
 
 The table counts the 50 most recent reviews on each site, or all of them where a site has fewer. Capterra, G2, Google Play, Google Business Profile, BBB, and Trustpilot were limited to their 50 most recent reviews (Google Business Profile had 57, BBB 53, and Trustpilot 53). Capterra is pooled with Software Advice and GetApp, which show the same reviews, and with Software Finder, whose 25 reviews are reworded copies of Capterra reviews; the pool is counted once under Capterra. Trustpilot, BBB, and Google Business Profile rate Inside Real Estate as a company, so they cover its whole product family, including its paid lead programs; one SourceForge review is about BoldTrail BackOffice. TrustRadius lists the product as kvCORE and rates it out of 10; we converted those ratings to five stars. G2 ratings of zero stars were counted as one star. BBB complaints carry no stars, so each is rated by how Inside Real Estate handled it: 1 star if unanswered, 2 if answered but not resolved, and 3 if resolved. A negative review the vendor resolved still counts in the table but not toward a pattern of complaints. Apple's public review pages do not show developer responses, so any replies to App Store reviews could not be checked. People who posted the same review on more than one site are counted on each site in the table but only once when looking for patterns. Left out: 8 G2 entries that G2 itself excludes from its scores (guest users and a business partner of the vendor), and 2 BBB complaints that are not about the product (one about the company's treatment of employees, one about an unpaid referral fee). Two Google Business Profile reviews read on October 23 had been removed by October 31 and are not counted. Google Business Profile shows only relative dates, so its dates are approximate. There are clear signs of solicited reviews: 35 of the 50 G2 reviews and 34 of the 50 Capterra reviews are marked incentivized or invited by the vendor, including 20 G2 reviews posted on April 28 and 29, 2025, several mentioning the vendor's Unite conference, and TrustRadius shows clusters of incentivized 9- and 10-point ratings in 2020 and 2022. Sixteen posts from four Reddit threads were used in the written analysis only. Yelp and Gartner Peer Insights have no listing, and PissedConsumer's BoldTrail page has no reviews.
 

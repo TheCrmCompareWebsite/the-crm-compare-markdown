@@ -21,19 +21,19 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/re
 
 # Follow Up Boss Report
 
-*Updated November 15, 2026 · [Read this report on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/follow-up-boss.html)*
+*Updated November 15, 2026 · [Read this report on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/follow-up-boss.html)*
 
 ## Summary
 
 |  |  |
-| --- | --- |
+| ---: | --- |
 | Product | Follow Up Boss |
 | Company | Zillow, Inc., part of Zillow Group (Nasdaq: Z) |
 | Location | Seattle, Washington, United States |
 | Website | [followupboss.com](https://www.followupboss.com) |
 | Price | $696 per year (Grow) |
-| Final score | **6.5/10** (#7 of 26 CRMs) |
-| Best fit | High-volume teams; agents with an assistant |
+| Final Score | **6.5/10** (#7 of 26 CRMs) |
+| Best For | High-volume teams; agents with an assistant |
 | Type | Built for real estate |
 | Free trial | 14-day free trial (card not required) |
 | Features | 79.5 of 119 checklist points |
@@ -47,7 +47,7 @@ The company primarily targets team leaders and the agents and inside sales staff
 
 Dan Corkill and Tom Markov started the company in 2011 after a team leader who was buying Zillow leads asked for help getting his agents to follow up on them. They grew it without outside investors until Zillow Group acquired it at the end of 2023. It now operates as a brand of Zillow, Inc. Its appeal is simplicity at scale: a system a single agent can learn quickly that still keeps pace with a team handling a heavy flow of leads.
 
-## Pros and cons
+## Pros and Cons
 
 **Pros**
 
@@ -77,7 +77,9 @@ Dan Corkill and Tom Markov started the company in 2011 after a team leader who w
 | [Terms of Service](#terms-of-service) | 9/10 | A card-free trial, month-to-month billing and easy cancellation, offset by no refunds and Zillow's right to end an account at will. |
 | [Support](#support) | 9/10 | Seven-day phone and email support on every plan, though calls went unanswered during the 2026 sign-in lockouts and setup help is reserved for the team plans. |
 | [Governance](#governance) | 1.5/10 | Zillow, which runs a brokerage and a mortgage lender, may use, share and market to many of an agent's clients with no opt-out, and faces several lawsuits. |
-| **Total** | **6.5/10** | Average of the six categories |
+| **Final Score** | **6.5/10** | Average of the six categories |
+
+Category scores: Features 6.7 · Reviews 6 · Value 6.9 · Terms of Service 9 · Support 9 · Governance 1.5.
 
 > **How the final score was calculated:** The average of the six category scores:
 >
@@ -90,8 +92,6 @@ Dan Corkill and Tom Markov started the company in 2011 after a team leader who w
 > - Total: 39.1
 >
 > 39.1 ÷ 6 = 6.52, rounded to **6.5**.
-
-Category scores: Features 6.7 · Reviews 6 · Value 6.9 · Terms of Service 9 · Support 9 · Governance 1.5.
 
 ## Fit
 
@@ -382,11 +382,13 @@ Several valuable tools cost extra or are available only on higher-tier plans. Th
 
 Follow Up Boss publishes all of its prices. The typical plan, Grow, costs $696 per year for one user when billed annually, or $69 per month when billed month to month. Pro and Platform are team packages that include ten and thirty users, respectively.
 
+**Typical price: $696 per year** (Grow, one of 3 plans) · $69 per user a month
+
 | Plan | Monthly | Annual | What's included |
 | --- | --- | --- | --- |
-| Grow *(typical)* | $69 per user | $696 per user ($58 per month billed annually) | One user; built-in calling is a paid add-on |
-| Pro | $499 (includes 10 users) | $4,992 ($416 per month billed annually) | Ten users included; adds calling for every user, shared team tools, personalized onboarding and enhanced support; additional users $49 per month ($41 billed annually) |
-| Platform | $1,000 (includes 30 users) | $9,996 ($833 per month billed annually) | Thirty users included; adds support for multiple offices, enhanced onboarding and priority support; additional users $20 per month ($17 billed annually) |
+| Grow *(typical plan)* | $69 per user | **$696 per user ($58 per month billed annually)** | One user; built-in calling is a paid add-on |
+| Pro | $499 (includes 10 users) | **$4,992 ($416 per month billed annually)** | Ten users included; adds calling for every user, shared team tools, personalized onboarding and enhanced support; additional users $49 per month ($41 billed annually) |
+| Platform | $1,000 (includes 30 users) | **$9,996 ($833 per month billed annually)** | Thirty users included; adds support for multiple offices, enhanced onboarding and priority support; additional users $20 per month ($17 billed annually) |
 
 | Add-on | Monthly | One-time |
 | --- | --- | --- |
@@ -422,7 +424,7 @@ This review uses single-user pricing for most calculations and comparisons. Beca
 | [PissedConsumer](https://followupboss.pissedconsumer.com/review.html) | 1 | 0 | 0 | 0 | 0 | **1** |
 | [TrustRadius](https://www.trustradius.com/products/follow-up-boss/reviews) | 2 | 1 | 0 | 0 | 0 | **3** |
 | [Trustpilot](https://www.trustpilot.com/review/www.followupboss.com) | 0 | 1 | 0 | 0 | 0 | **1** |
-| All sources | 144 | 17 | 16 | 19 | 45 | **241** |
+| All Sources | 144 | 17 | 16 | 19 | 45 | **241** |
 
 Capterra (58 reviews), G2 (118) and Google Play (421) were limited to their 50 most recent reviews, and the Apple App Store row uses the 50 most recent of the 145 written reviews in Apple's US review feed, because Apple's web page shows only 10. TrustRadius shows 3 written reviews out of 21 ratings, converted from its 10-point scale, and PissedConsumer has a single entry that carries its reviewer's five stars. Software Advice and GetApp show the same reviews as Capterra, and Software Finder republishes G2's reviews in reworded form, so each pool is counted once; one reviewer who posted on both Capterra and G2 is counted once in the written analysis. Six entries were left out: one G2 review from a business partner, one Google Business Profile entry and three Google Play entries that were not customer reviews of the product, and one complaint on Zillow Group's BBB profile that concerns a different CRM. Signs of solicited reviews are strong: 40 of the 50 Capterra reviews and all 3 TrustRadius reviews are marked as invited or incentivized, 9 G2 reviews came through G2 invitations, and bursts of five-star reviews were posted on G2 (about 30) and the App Store (26) in late September 2023, during the company's annual conference. Google Business Profile shows only approximate dates, and Apple's web pages do not show developer replies. Twenty-two Reddit comments from the past two years were read for the written analysis but carry no star ratings.
 
@@ -611,7 +613,6 @@ For the money, Follow Up Boss is a good value, and its terms make it easy to try
 - [Follow Up Boss vs RealtyJuggler](../comparisons/follow-up-boss-vs-realtyjuggler.md)
 - [Follow Up Boss vs Wise Agent](../comparisons/follow-up-boss-vs-wise-agent.md)
 - [Follow Up Boss vs IXACT Contact](../comparisons/follow-up-boss-vs-ixact-contact.md)
-- [Follow Up Boss vs monday CRM](../comparisons/follow-up-boss-vs-monday-crm.md)
 
 ## Frequently asked questions
 

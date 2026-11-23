@@ -21,19 +21,19 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/re
 
 # Market Leader Report
 
-*Updated November 15, 2026 · [Read this report on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/market-leader.html)*
+*Updated November 15, 2026 · [Read this report on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/market-leader.html)*
 
 ## Summary
 
 |  |  |
-| --- | --- |
+| ---: | --- |
 | Product | Market Leader Professional |
 | Company | Market Leader Group Inc., part of Constellation Real Estate Group, a division of Constellation Software (TSX: CSU) |
 | Location | Bellevue, Washington, United States |
 | Website | [marketleader.com](https://www.marketleader.com/) |
 | Price | $2,268 per year (Market Leader Professional) |
-| Final score | **4.4/10** (#24 of 26 CRMs) |
-| Best fit | Agent with an assistant, high-volume team |
+| Final Score | **4.4/10** (#24 of 26 CRMs) |
+| Best For | Agent with an assistant, high-volume team |
 | Type | Built for real estate |
 | Free trial | No free trial |
 | Features | 51 of 119 checklist points |
@@ -47,7 +47,7 @@ The business began in 1999 in Bellevue, Washington, as HouseValues, one of the e
 
 Its main selling point is that one company provides both the leads and the tools to manage them. New customers get advertising, a website, a contact database, and ready-made follow-up tools that are already connected, so they don’t have to choose and link separate services. The team edition extends the same setup to a small group.
 
-## Pros and cons
+## Pros and Cons
 
 **Pros**
 
@@ -77,7 +77,9 @@ Its main selling point is that one company provides both the leads and the tools
 | [Terms of Service](#terms-of-service) | 1/10 | No trial, an unpublished price and term, more than a month’s notice to cancel and a company right to end the agreement without cause. |
 | [Support](#support) | 8.5/10 | Phone support, onboarding calls and free import help are offered, though reviewers often report slow responses. |
 | [Governance](#governance) | 8.3/10 | A long-established company with a stable owner whose agreements treat it as a processor of the agent’s data and promise deletion at the end, though it can take back purchased leads after a breach. |
-| **Total** | **4.4/10** | Average of the six categories |
+| **Final Score** | **4.4/10** | Average of the six categories |
+
+Category scores: Features 4.3 · Reviews 1 · Value 3.4 · Terms of Service 1 · Support 8.5 · Governance 8.3.
 
 > **How the final score was calculated:** The average of the six category scores:
 >
@@ -90,8 +92,6 @@ Its main selling point is that one company provides both the leads and the tools
 > - Total: 26.5
 >
 > 26.5 ÷ 6 = 4.42, rounded to **4.4**.
-
-Category scores: Features 4.3 · Reviews 1 · Value 3.4 · Terms of Service 1 · Support 8.5 · Governance 8.3.
 
 ## Fit
 
@@ -373,11 +373,13 @@ Many rows are blank because Market Leader’s help center does not document them
 
 Market Leader does not publish prices for its main plans; buyers are asked to call or book a consultation. Independent reviews list Market Leader Professional, the single-agent plan, at $189 per month ($2,268 per year). The vendor does publish the Teams plan at $329 per month for up to 10 users. Leads are sold separately and are the highest cost for most customers.
 
+**Typical price: $2,268 per year** (Market Leader Professional, one of 3 plans) · $189 a month
+
 | Plan | Monthly | Annual | What's included |
 | --- | --- | --- | --- |
-| Market Leader Professional *(typical)* | $189 | $2,268 | Single agent: CRM, IDX website, marketing center and app; price reported by third parties, includes a $20 data fee |
-| Market Leader Teams | $329 | $3,948 | Up to 10 users sharing one contact database and marketing library |
-| Market Leader Business Suite | — | Custom quote | For brokerages and larger teams; custom pricing, not published |
+| Market Leader Professional *(typical plan)* | $189 | **$2,268** | Single agent: CRM, IDX website, marketing center and app; price reported by third parties, includes a $20 data fee |
+| Market Leader Teams | $329 | **$3,948** | Up to 10 users sharing one contact database and marketing library |
+| Market Leader Business Suite | — | **Custom quote** | For brokerages and larger teams; custom pricing, not published |
 
 | Add-on | Monthly | One-time |
 | --- | --- | --- |
@@ -418,7 +420,7 @@ This review uses single-user pricing for its comparisons. Market Leader does not
 | [PissedConsumer](https://www.pissedconsumer.com/market-leader/RT-F.html) | 0 | 0 | 0 | 0 | 6 | **6** |
 | [SourceForge](https://sourceforge.net/software/product/Market-Leader/) | 0 | 1 | 0 | 0 | 0 | **1** |
 | [TrustRadius](https://www.trustradius.com/products/market-leader/reviews) | 0 | 0 | 0 | 0 | 1 | **1** |
-| All sources | 47 | 8 | 11 | 34 | 205 | **305** |
+| All Sources | 47 | 8 | 11 | 34 | 205 | **305** |
 
 The table counts the 50 most recent entries on G2, Trustpilot, and BBB and every entry on the other sites. BBB’s 50 combine customer reviews and complaints: a complaint the customer confirmed as resolved counts as three stars, one answered without a confirmed resolution as two, and an unanswered one as one star; the six PissedConsumer complaints, none of which were answered, count as one star each. Three entries were left out because they were not reviews of the product (two Trustpilot posts and one Google Business Profile rating from a Market Leader employee), and three reviews that the sites have since removed (one each on BBB, Google Business Profile and Yelp) were dropped. Capterra’s reviews also appear on Software Advice, GetApp and Software Finder and are counted once. Twelve people posted the same review on more than one site, and each is counted once in the analysis. 128 of the entries concern Market Leader’s lead products or the company as a whole rather than the CRM alone. Two Capterra reviews and one G2 review were marked as incentivized. TrustRadius ratings use a 10-point scale and were converted to stars, and Google Business Profile shows only approximate review dates. Reddit discussion carries no ratings, is older than two years, and was used only as background.
 

@@ -21,19 +21,19 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/re
 
 # Lofty Report
 
-*Updated November 15, 2026 · [Read this report on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/lofty.html)*
+*Updated November 15, 2026 · [Read this report on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/lofty.html)*
 
 ## Summary
 
 |  |  |
-| --- | --- |
+| ---: | --- |
 | Product | Lofty (formerly Chime) |
 | Company | Lofty Inc. (formerly Chime Technologies), a subsidiary of Moatable, Inc. |
 | Location | Phoenix, Arizona, United States |
 | Website | [lofty.com](https://lofty.com/real-estate/crm) |
 | Price | $3,588 per year (Lofty Agent) |
-| Final score | **5.1/10** (#18 of 26 CRMs) |
-| Best fit | High-volume team |
+| Final Score | **5.1/10** (#18 of 26 CRMs) |
+| Best For | High-volume team |
 | Type | Built for real estate |
 | Free trial | No free trial |
 | Features | 102 of 119 checklist points |
@@ -49,7 +49,7 @@ The company began as Chime Technologies, which brought the product to American a
 
 Lofty's promise is having everything in one place: rather than paying several vendors and stitching their products together, a team buys one account with one login and one bill. Its recent marketing centers on artificial intelligence that takes over routine follow-up so agents can spend more time with clients.
 
-## Pros and cons
+## Pros and Cons
 
 **Pros**
 
@@ -79,7 +79,9 @@ Lofty's promise is having everything in one place: rather than paying several ve
 | [Terms of Service](#terms-of-service) | 1/10 | The contract is the biggest risk: no free trial, unpublished prices and contract lengths, year-long automatic renewals behind a 90-day notice window, and a right to end an account without cause while the rest of the term stays payable. |
 | [Support](#support) | 7.5/10 | Phone, email and chat on every plan and frequent live training, but part of customer service sits offshore and reviewers say onboarding often stalls. |
 | [Governance](#governance) | 7.8/10 | Lead data stays with the agent under the terms, though a broad content license and an F grade at the BBB pull the score down. |
-| **Total** | **5.1/10** | Average of the six categories |
+| **Final Score** | **5.1/10** | Average of the six categories |
+
+Category scores: Features 8.6 · Reviews 2 · Value 3.9 · Terms of Service 1 · Support 7.5 · Governance 7.8.
 
 > **How the final score was calculated:** The average of the six category scores:
 >
@@ -92,8 +94,6 @@ Lofty's promise is having everything in one place: rather than paying several ve
 > - Total: 30.8
 >
 > 30.8 ÷ 6 = 5.13, rounded to **5.1**.
-
-Category scores: Features 8.6 · Reviews 2 · Value 3.9 · Terms of Service 1 · Support 7.5 · Governance 7.8.
 
 ## Fit
 
@@ -393,13 +393,15 @@ Three rows are left unscored because the vendor's documentation neither confirms
 
 Lofty does not publish its prices; every plan on its [pricing page](https://lofty.com/pricing) says "Request Pricing." The figures below, from [AgentAdvice](https://www.agentadvice.com/lofty-review/) and updated in August 2026, list the single-agent Lofty Agent plan at $299 per month, or $3,588 per year, with two users included.
 
+**Typical price: $3,588 per year** (Lofty Agent, one of 5 plans) · $299 a month
+
 | Plan | Monthly | Annual | What's included |
 | --- | --- | --- | --- |
-| Lofty Agent *(typical)* | $299 | $3,588 | 2 users included; website, CRM, automation and AI tools |
-| Lofty Team | $649 | $7,788 | 5 users included; adds 1:1 onboarding and training |
-| Lofty Broker 15 | $999 | $11,988 | 15 users included |
-| Lofty Broker 50 | $1,299 | $15,588 | 50 users included |
-| Lofty Enterprise | $2,299 | $27,588 | 100 users included; single sign-on, white label, custom org structure |
+| Lofty Agent *(typical plan)* | $299 | **$3,588** | 2 users included; website, CRM, automation and AI tools |
+| Lofty Team | $649 | **$7,788** | 5 users included; adds 1:1 onboarding and training |
+| Lofty Broker 15 | $999 | **$11,988** | 15 users included |
+| Lofty Broker 50 | $1,299 | **$15,588** | 50 users included |
+| Lofty Enterprise | $2,299 | **$27,588** | 100 users included; single sign-on, white label, custom org structure |
 
 | Add-on | Monthly | One-time |
 | --- | --- | --- |
@@ -448,7 +450,7 @@ This review uses single-user pricing for its comparisons. An agent who hires an 
 | [SourceForge](https://sourceforge.net/software/product/Lofty-Platform/reviews/) | 12 | 4 | 0 | 0 | 0 | **16** |
 | [TrustRadius](https://www.trustradius.com/products/chime-crm/reviews) | 0 | 0 | 0 | 1 | 0 | **1** |
 | [Trustpilot](https://www.trustpilot.com/review/lofty.com) | 0 | 0 | 1 | 1 | 20 | **22** |
-| All sources | 92 | 40 | 18 | 21 | 125 | **296** |
+| All Sources | 92 | 40 | 18 | 21 | 125 | **296** |
 
 G2, Capterra and Google Play were limited to their 50 most recent reviews; the other sites had fewer. Capterra shares its reviews with GetApp and Software Advice, and SourceForge with Slashdot, so each pool is counted once. G2, Capterra, SourceForge and Software Finder rate the Lofty platform as a whole, and the Apple App Store and Google Play ratings cover the mobile app. TrustRadius lists the product as Chime CRM on a 10-point scale, converted to stars, and SourceForge ratings are the average of its category stars. The BBB row combines 11 customer reviews with 20 complaints, which count as reviews: unanswered complaints as one star, complaints answered without a fix as two stars, and the one resolved complaint as three stars. Trustpilot was read on both the lofty.com and the former chime.me profiles. We left out 18 entries that were not reviews of this product (reviews of Chime the bank, Lofty.ai and other businesses, an employee review, a cold-call complaint, a consumer's data request and a repeated posting on one site), and one Google Business Profile review has since been removed. When the same person posted on more than one site, each posting stays in the table, but the person counts once in the analysis, and a negative review the vendor resolved is left out of the negative patterns. Two G2 reviews without a star rating and 11 Reddit comments from the past two years were read for the analysis but are not in the table. On G2, 46 of the 50 reviews are marked as invited or incentivized; on Capterra, 32 of 50 are marked vendor-referred or incentivized, including about 22 posted on January 28, 2026; and SourceForge shows a burst of reviews on July 5 and 6, 2023. Google Business Profile dates are approximate.
 

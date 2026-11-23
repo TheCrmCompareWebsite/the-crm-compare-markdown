@@ -13,7 +13,7 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/co
 
 # IXACT Contact vs Referral Maker CRM
 
-*Based on reports updated November 15, 2026 · ✓ marks the better value in each row · [See this comparison on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/compare/ixact-contact-vs-referral-maker-crm.html)*
+*Based on reports updated November 15, 2026 · ✓ marks the better value in each row · [See this comparison on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/compare/ixact-contact-vs-referral-maker-crm.html)*
 
 **IXACT Contact** scores 6.7 to 6.4 and wins 2 of the 6 categories; Referral Maker CRM wins reviews, terms of service and governance.
 

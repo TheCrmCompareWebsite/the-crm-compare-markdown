@@ -21,19 +21,19 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/re
 
 # RethinkCRM Report
 
-*Updated November 15, 2026 · [Read this report on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/rethinkcrm.html)*
+*Updated November 15, 2026 · [Read this report on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/rethinkcrm.html)*
 
 ## Summary
 
 |  |  |
-| --- | --- |
+| ---: | --- |
 | Product | Rethink by Buildout (Rethink CRM) |
 | Company | Buildout, Inc. (owned by The Riverside Company) |
 | Location | Rolling Meadows, Illinois, United States |
 | Website | [buildout.com/platform/rethink-by-buildout](https://www.buildout.com/platform/rethink-by-buildout) |
 | Price | $1,548 per year (Rethink) |
-| Final score | **5.4/10** (#16 of 26 CRMs) |
-| Best fit | Commercial real estate: individual agents, agents with an assistant, real estate offices |
+| Final Score | **5.4/10** (#16 of 26 CRMs) |
+| Best For | Commercial real estate: individual agents, agents with an assistant, real estate offices |
 | Type | Built for real estate |
 | Free trial | No free trial |
 | Features | 62 of 119 checklist points |
@@ -47,7 +47,7 @@ Rethink was founded in Austin, Texas, by Vijay Mehra, and commercial brokers hav
 
 Rethink's appeal is that it speaks the language of commercial brokerage from day one. Instead of adapting a general sales tool, a commercial broker or firm gets a system organized around buildings, spaces, owners, tenants, and deals, with Salesforce's security and reporting underneath and a direct link to the Buildout tools many commercial firms already use to market their listings. Buildout markets it only for commercial real estate, so residential agents are not its audience.
 
-## Pros and cons
+## Pros and Cons
 
 **Pros**
 
@@ -77,7 +77,9 @@ Rethink's appeal is that it speaks the language of commercial brokerage from day
 | [Terms of Service](#terms-of-service) | 2.5/10 | No free trial, an unpublished contract term that renews automatically, nonrefundable fees and unpublished extra fees. |
 | [Support](#support) | 7.5/10 | Phone, email and chat support and a large help center, but no live training. |
 | [Governance](#governance) | 6.5/10 | An established, PE-owned parent that also sells competing CRMs and takes a permanent licence to customer data. |
-| **Total** | **5.4/10** | Average of the six categories |
+| **Final Score** | **5.4/10** | Average of the six categories |
+
+Category scores: Features 5.2 · Reviews 6 · Value 4.6 · Terms of Service 2.5 · Support 7.5 · Governance 6.5.
 
 > **How the final score was calculated:** The average of the six category scores:
 >
@@ -90,8 +92,6 @@ Rethink's appeal is that it speaks the language of commercial brokerage from day
 > - Total: 32.3
 >
 > 32.3 ÷ 6 = 5.38, rounded to **5.4**.
-
-Category scores: Features 5.2 · Reviews 6 · Value 4.6 · Terms of Service 2.5 · Support 7.5 · Governance 6.5.
 
 ## Fit
 
@@ -380,10 +380,12 @@ Some capabilities exist only if a customer builds them or buys them from another
 
 Buildout publishes two Rethink plans on its product page, Rethink and Rethink+, each priced per user per month. Both are sold only after a demo. Buildout's pricing page states that it prices "on a per-user seat count and platform maintenance," but it does not publish the maintenance fee.
 
+**Typical price: $1,548 per year** (Rethink, one of 2 plans) · $129 per user a month
+
 | Plan | Monthly | Annual | What's included |
 | --- | --- | --- | --- |
-| Rethink | $129 per user | $1,548 per user | Contacts, properties, comps, deal pipeline, prospecting console, mass email, map search, property sites, dashboards and workflow automation |
-| Rethink+ | $299 per user | $3,588 per user | Everything in Rethink plus property and ownership data, AI owner research, predictive analytics, 10 hours of premium support and priority data imports |
+| Rethink | $129 per user | **$1,548 per user** | Contacts, properties, comps, deal pipeline, prospecting console, mass email, map search, property sites, dashboards and workflow automation |
+| Rethink+ | $299 per user | **$3,588 per user** | Everything in Rethink plus property and ownership data, AI owner research, predictive analytics, 10 hours of premium support and priority data imports |
 
 | Add-on | Monthly | One-time |
 | --- | --- | --- |
@@ -417,7 +419,7 @@ This review prices Rethink for a single user. Adding an assistant means buying a
 | [Capterra](https://www.capterra.com/p/133963/REthink/reviews/) | 2 | 1 | 0 | 0 | 1 | **4** |
 | [G2](https://www.g2.com/products/rethink-crm/reviews) | 5 | 6 | 3 | 3 | 0 | **17** |
 | [Google Business Profile](https://www.google.com/maps/place/?q=place_id:ChIJGxbJ-tosDogRY9v1T8yBfos) | 7 | 1 | 0 | 1 | 2 | **11** |
-| All sources | 14 | 8 | 3 | 4 | 3 | **32** |
+| All Sources | 14 | 8 | 3 | 4 | 3 | **32** |
 
 The table counts every review studied (up to the 50 most recent per site, of any age). Capterra also represents Software Advice and GetApp, which share its reviews; 3 of its 7 reviews are of Rethink Behavioral Health, a different company's product, and were left out. G2 combines two listings, REthink CRM and Rethink by Buildout; the 4 reviews on the second cover Buildout's wider platform, and G2 marks 12 of the 17 as invited or incentivized. Spotsaas shows the same reviews as G2 and is counted once. Google Business Profile reviews are for Buildout as a whole, mostly its marketing platform; we excluded 2 entries that were not customer reviews of this product family. G2's half-star ratings are rounded to the nearest star. Only 2 of the 32 reviews studied are from the past two years. No vendor replies appear on any review studied. Reddit was searched, but the only recent mention of Rethink came from Buildout's own account.
 

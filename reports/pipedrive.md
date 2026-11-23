@@ -21,19 +21,19 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/re
 
 # Pipedrive Report
 
-*Updated November 15, 2026 · [Read this report on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/pipedrive.html)*
+*Updated November 15, 2026 · [Read this report on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/pipedrive.html)*
 
 ## Summary
 
 |  |  |
-| --- | --- |
+| ---: | --- |
 | Product | Pipedrive |
 | Company | Pipedrive Inc. (majority owned by Vista Equity Partners) |
 | Location | New York, New York, United States |
 | Website | [pipedrive.com](https://www.pipedrive.com) |
 | Price | $468 per year (Growth) |
-| Final score | **6.6/10** (#6 of 26 CRMs) |
-| Best fit | None ideal: a generic sales CRM, not built for real estate |
+| Final Score | **6.6/10** (#6 of 26 CRMs) |
+| Best For | None ideal: a generic sales CRM, not built for real estate |
 | Type | General business CRM |
 | Free trial | 14-day free trial (card not required) |
 | Features | 62 of 119 checklist points |
@@ -47,7 +47,7 @@ A group of salespeople in Tallinn, Estonia, started Pipedrive in 2010 to build t
 
 Its appeal is focus. Pipedrive is organized around the deals a salesperson is working on, laid out as stages on a board, and it is designed to keep attention on the next step for each deal. It is meant to be quick to learn and inexpensive to start, for people who would rather spend their time selling than managing software.
 
-## Pros and cons
+## Pros and Cons
 
 **Pros**
 
@@ -77,7 +77,9 @@ Its appeal is focus. Pipedrive is organized around the deals a salesperson is wo
 | [Terms of Service](#terms-of-service) | 8/10 | A free 14-day trial without a credit card and month-to-month billing, offset by four plans, a 2025 price increase and new in-app upsell pop-ups. |
 | [Support](#support) | 6/10 | Free migration and a large help library, but phone support only on higher plans, Europe-based staff and a recent shift toward chatbot support. |
 | [Governance](#governance) | 8/10 | Processor-only terms for client data from an established, actively developed company, offset by frequent leadership changes, no published phone number and a generic CRM. |
-| **Total** | **6.6/10** | Average of the six categories |
+| **Final Score** | **6.6/10** | Average of the six categories |
+
+Category scores: Features 5.2 · Reviews 5 · Value 7.2 · Terms of Service 8 · Support 6 · Governance 8.
 
 > **How the final score was calculated:** The average of the six category scores:
 >
@@ -90,8 +92,6 @@ Its appeal is focus. Pipedrive is organized around the deals a salesperson is wo
 > - Total: 39.4
 >
 > 39.4 ÷ 6 = 6.57, rounded to **6.6**.
-
-Category scores: Features 5.2 · Reviews 5 · Value 7.2 · Terms of Service 8 · Support 6 · Governance 8.
 
 ## Fit
 
@@ -371,12 +371,14 @@ Nothing was found for texting, mass letters, labels and envelopes, MLS listings,
 
 Pipedrive publishes per-seat prices for four plans, billed monthly or, at a discount of up to 42%, annually. The typical plan for this review is Growth, priced at $468 per year billed annually ($39 a month) or $49 a month billed monthly.
 
+**Typical price: $468 per year** (Growth, one of 4 plans) · $49 a month
+
 | Plan | Monthly | Annual | What's included |
 | --- | --- | --- | --- |
-| Lite | $24 | $168 | Pipeline, lead and calendar management, AI reports, meeting intelligence, 500+ integrations; leads and deals capped at 2,500 per seat |
-| Growth *(typical)* | $49 | $468 | Lite plus full email sync and tracking, automations, sequences, forecasts, meeting scheduler and contacts timeline |
-| Premium | $79 | $708 | Growth plus LeadBooster, Smart Docs with e-signatures, Projects, automatic lead assignment, team inbox and phone support |
-| Ultimate | $99 | $948 | Premium plus contact data enrichment, security rules, a sandbox account and extended phone support |
+| Lite | $24 | **$168** | Pipeline, lead and calendar management, AI reports, meeting intelligence, 500+ integrations; leads and deals capped at 2,500 per seat |
+| Growth *(typical plan)* | $49 | **$468** | Lite plus full email sync and tracking, automations, sequences, forecasts, meeting scheduler and contacts timeline |
+| Premium | $79 | **$708** | Growth plus LeadBooster, Smart Docs with e-signatures, Projects, automatic lead assignment, team inbox and phone support |
+| Ultimate | $99 | **$948** | Premium plus contact data enrichment, security rules, a sandbox account and extended phone support |
 
 | Add-on | Monthly | One-time |
 | --- | --- | --- |
@@ -419,7 +421,7 @@ This review uses single-user pricing for most calculations and comparisons. Addi
 | [SourceForge](https://sourceforge.net/software/product/Pipedrive/) | 33 | 17 | 0 | 0 | 0 | **50** |
 | [TrustRadius](https://www.trustradius.com/products/pipedrive/reviews) | 27 | 19 | 3 | 0 | 1 | **50** |
 | [Trustpilot](https://www.trustpilot.com/review/pipedrive.com) | 38 | 2 | 0 | 0 | 10 | **50** |
-| All sources | 268 | 115 | 22 | 14 | 40 | **459** |
+| All Sources | 268 | 115 | 22 | 14 | 40 | **459** |
 
 The table counts the 50 most recent reviews of any age on each site; G2 (62 reviews in the period) and Trustpilot (52) were cut to their latest 50. Capterra represents its pool (Capterra, Software Advice, and GetApp), and Software Finder, which shows the same reviewers, dates, and wording as Capterra, was treated as part of that pool; SourceForge represents SourceForge and Slashdot. The BBB row holds one star-rated review and five complaints, and the PissedConsumer row holds three complaints; complaints are rated by outcome, one star when unanswered, two when answered but not resolved, and three when resolved, so four resolved BBB complaints count as three stars. The same person's BBB review and Capterra review are counted once in the analysis. Left out as not customer reviews of the product: 4 G2 reviews that G2 flags as from a seller partner or competitor, 6 Google Business Profile reviews about the office building or visits, 1 unreadable Google Play entry, and 1 BBB complaint from a Pipedrive partner. Signs of solicited reviews: 43 of the 50 G2 reviews come through G2 or seller invitations, 44 on TrustRadius and 25 on Capterra are marked incentivized, and SourceForge shows bursts of near-identical anonymous reviews in late 2020 and early 2021. TrustRadius ratings out of 10 were converted to five stars. Google Business Profile covers the company's Tallinn office listing, and the App Store and Google Play ratings cover the mobile app. TrustRadius and SourceForge receive few new reviews, so their samples reach back to 2018 and 2019.
 

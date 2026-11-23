@@ -13,7 +13,7 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/co
 
 # Brivity vs PropertyBase Salesforce Edition
 
-*Based on reports updated November 15, 2026 · ✓ marks the better value in each row · [See this comparison on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/compare/brivity-vs-propertybase-salesforce-edition.html)*
+*Based on reports updated November 15, 2026 · ✓ marks the better value in each row · [See this comparison on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/compare/brivity-vs-propertybase-salesforce-edition.html)*
 
 **Brivity** scores 6.2 to 4.6 and wins 5 of the 6 categories; PropertyBase Salesforce Edition wins features.
 

@@ -21,19 +21,19 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/re
 
 # Lone Wolf Front Office Report
 
-*Updated November 15, 2026 · [Read this report on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/lone-wolf-front-office.html)*
+*Updated November 15, 2026 · [Read this report on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/lone-wolf-front-office.html)*
 
 ## Summary
 
 |  |  |
-| --- | --- |
+| ---: | --- |
 | Product | Lone Wolf Front Office (formerly Propertybase GO) |
 | Company | Lone Wolf Real Estate Technologies Inc. (Lone Wolf Technologies) |
 | Location | Dallas, Texas, United States |
 | Website | [lwolf.com/engage/websites](https://www.lwolf.com/engage/websites) |
 | Price | $4,188 per year (Website + CRM) |
-| Final score | **4.3/10** (#26 of 26 CRMs) |
-| Best fit | Real estate office |
+| Final Score | **4.3/10** (#26 of 26 CRMs) |
+| Best For | Real estate office |
 | Type | Built for real estate |
 | Free trial | No free trial |
 | Features | 60.5 of 119 checklist points |
@@ -47,7 +47,7 @@ Its appeal is a single system for a brokerage’s online presence and lead handl
 
 Lone Wolf was founded in Canada in 1989 by Lorne Wallace, a chartered accountant, to sell back-office software to brokerages. It grew through a long run of acquisitions. It is now based in Dallas, backed by the private equity firm Stone Point Capital, and led by Matt Fischer, who became chief executive in February 2026.
 
-## Pros and cons
+## Pros and Cons
 
 **Pros**
 
@@ -77,7 +77,9 @@ Lone Wolf was founded in Canada in 1989 by Lorne Wallace, a chartered accountant
 | [Terms of Service](#terms-of-service) | 2/10 | No trial, no published price and a 12-month contract that renews for another year unless canceled 60 days ahead. |
 | [Support](#support) | 7/10 | Phone, chat and onboarding are offered and the help center is large, but reviews say the phone and onboarding promises are not kept. |
 | [Governance](#governance) | 7.5/10 | An established company with sound data-processing commitments, offset by competing sister CRMs and a new leadership team. |
-| **Total** | **4.3/10** | Average of the six categories |
+| **Final Score** | **4.3/10** | Average of the six categories |
+
+Category scores: Features 5.1 · Reviews 2 · Value 2.4 · Terms of Service 2 · Support 7 · Governance 7.5.
 
 > **How the final score was calculated:** The average of the six category scores:
 >
@@ -90,8 +92,6 @@ Lone Wolf was founded in Canada in 1989 by Lorne Wallace, a chartered accountant
 > - Total: 26
 >
 > 26 ÷ 6 = 4.33, rounded to **4.3**.
-
-Category scores: Features 5.1 · Reviews 2 · Value 2.4 · Terms of Service 2 · Support 7 · Governance 7.5.
 
 ## Fit
 
@@ -365,10 +365,12 @@ Much of what an agent needs to work a sphere of influence is missing. It lacks b
 
 Lone Wolf does not publish Front Office prices; buyers must request a demo. The most recent published figures come from a 2024 comparison by [Ascendix](https://ascendix.com/blog/ascendixre-vs-propertybase/), which lists two packages. The typical plan, Website + CRM, starts at $349 a month on an annual contract, or **$4,188 a year**, and covers up to five users.
 
+**Typical price: $4,188 per year** (Website + CRM, one of 2 plans) · $349 a month
+
 | Plan | Monthly | Annual | What's included |
 | --- | --- | --- | --- |
-| Website + CRM *(typical)* | $349 | $4,188 | Brokerage and agent IDX websites and the CRM for up to 5 users, with one MLS feed and one Cloud CMA account; annual contract |
-| Website + CRM + Leads + Text Concierge | $849 | $10,188 | Adds purchased leads and a text-response service; six-month minimum contract; users included not stated |
+| Website + CRM *(typical plan)* | $349 | **$4,188** | Brokerage and agent IDX websites and the CRM for up to 5 users, with one MLS feed and one Cloud CMA account; annual contract |
+| Website + CRM + Leads + Text Concierge | $849 | **$10,188** | Adds purchased leads and a text-response service; six-month minimum contract; users included not stated |
 
 No setup, onboarding, or training fees are published, so the typical first-year cost matches the annual price: **$4,188**. Onboarding is part of setup, but Lone Wolf does not disclose whether it carries a separate charge.
 
@@ -395,7 +397,7 @@ This review uses single-user pricing for its comparisons. Because the typical pa
 | [Apple App Store](https://apps.apple.com/us/app/propertybase-go/id1570504352?see-all=reviews) | 3 | 0 | 0 | 0 | 0 | **3** |
 | [BBB](https://www.bbb.org/us/tx/dallas/profile/computer-software/lone-wolf-technologies-0875-91137051/customer-reviews) | 0 | 0 | 3 | 0 | 26 | **29** |
 | [Google Business Profile](https://www.google.com/maps/place/?q=place_id:ChIJPddYzmqIK4gR0HUCKeMVSUY) | 16 | 8 | 1 | 2 | 23 | **50** |
-| All sources | 19 | 8 | 4 | 2 | 49 | **82** |
+| All Sources | 19 | 8 | 4 | 2 | 49 | **82** |
 
 The table counts the 82 rated reviews and complaints studied, 24 of them from the past two years. No review site lists Front Office or Propertybase GO, so BBB and Google Business Profile cover Lone Wolf’s whole product family, not just Front Office. BBB combines the Lone Wolf Technologies profile in Dallas (12 reviews and 16 complaints with text) and the Propertybase profile in Boulder (1 review); complaints have no stars, so they are counted at 1 star when unanswered, 2 when answered without resolving the issue, and 3 when resolved. Google Business Profile combines Lone Wolf’s Cambridge, Ontario, and Dallas listings and is limited to the 50 most recent of 51 eligible reviews; one entry that was not a product review was left out. The App Store row covers the Propertybase GO mobile app. A Reddit discussion informs the text but has no star ratings.
 

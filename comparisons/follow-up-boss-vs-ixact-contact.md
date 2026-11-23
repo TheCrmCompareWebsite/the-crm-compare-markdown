@@ -13,7 +13,7 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/co
 
 # IXACT Contact vs Follow Up Boss
 
-*Based on reports updated November 15, 2026 · ✓ marks the better value in each row · [See this comparison on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/compare/follow-up-boss-vs-ixact-contact.html)*
+*Based on reports updated November 15, 2026 · ✓ marks the better value in each row · [See this comparison on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/compare/follow-up-boss-vs-ixact-contact.html)*
 
 **IXACT Contact** scores 6.7 to 6.5 and wins 3 of the 6 categories; Follow Up Boss wins reviews and terms of service.
 

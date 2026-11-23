@@ -13,7 +13,7 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/co
 
 # Wise Agent vs Zoho CRM
 
-*Based on reports updated November 15, 2026 · ✓ marks the better value in each row · [See this comparison on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/compare/wise-agent-vs-zoho-crm.html)*
+*Based on reports updated November 15, 2026 · ✓ marks the better value in each row · [See this comparison on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/compare/wise-agent-vs-zoho-crm.html)*
 
 **Wise Agent** scores 8.4 to 6.3 and wins 4 of the 6 categories; Zoho CRM wins value and terms of service.
 

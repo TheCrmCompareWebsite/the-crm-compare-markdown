@@ -21,19 +21,19 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/re
 
 # CINC Report
 
-*Updated November 15, 2026 · [Read this report on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/cinc.html)*
+*Updated November 15, 2026 · [Read this report on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/cinc.html)*
 
 ## Summary
 
 |  |  |
-| --- | --- |
+| ---: | --- |
 | Product | CINC (Commissions Inc.) |
 | Company | Commissions, Inc. (HBN Media, Inc. d/b/a Commissions, Inc.), a subsidiary of Fidelity National Financial (NYSE: FNF) |
 | Location | Atlanta, Georgia, United States |
 | Website | [cincpro.com](https://www.cincpro.com) |
 | Price | $11,988 per year (Solo) |
-| Final score | **4.3/10** (#25 of 26 CRMs) |
-| Best fit | High-volume team |
+| Final Score | **4.3/10** (#25 of 26 CRMs) |
+| Best For | High-volume team |
 | Type | Built for real estate |
 | Free trial | No free trial |
 | Features | 69.5 of 119 checklist points |
@@ -47,7 +47,7 @@ Commissions, Inc. was founded in 2011 in Marietta, Georgia, by real estate profe
 
 CINC's pitch is that it delivers new business and the means to convert it in one package. A team pays CINC to find prospects online, put each one in front of an available agent within moments, and keep following up until that person is ready to talk, with an account manager and coaching to help the team turn the flow into closings.
 
-## Pros and cons
+## Pros and Cons
 
 **Pros**
 
@@ -77,7 +77,9 @@ CINC's pitch is that it delivers new business and the means to convert it in one
 | [Terms of Service](#terms-of-service) | 1/10 | No trial, quote-only pricing, a year-long first term and one-sided termination rights hold the score at the floor. |
 | [Support](#support) | 10/10 | Phone support, account-manager coaching, import help and a large help library are all included. |
 | [Governance](#governance) | 4/10 | A long-established, A+ rated company owned by a title insurer, whose terms let affiliates and business partners reach agents' lead data with no way for agents to opt out. |
-| **Total** | **4.3/10** | Average of the six categories |
+| **Final Score** | **4.3/10** | Average of the six categories |
+
+Category scores: Features 5.8 · Reviews 4 · Value 1 · Terms of Service 1 · Support 10 · Governance 4.
 
 > **How the final score was calculated:** The average of the six category scores:
 >
@@ -90,8 +92,6 @@ CINC's pitch is that it delivers new business and the means to convert it in one
 > - Total: 25.8
 >
 > 25.8 ÷ 6 = **4.3**.
-
-Category scores: Features 5.8 · Reviews 4 · Value 1 · Terms of Service 1 · Support 10 · Governance 4.
 
 ## Fit
 
@@ -383,12 +383,14 @@ CINC does not publish plan prices. Its [pricing page](https://www.cincpro.com/pr
 
 The subscription is only part of what a CINC client pays. In practice, CINC is a digital marketing agency with its own CRM: clients pay it to run Google and Facebook advertising that drives buyers and sellers to the website it builds for them, and the CRM captures, routes, and nurtures that traffic. The [Terms & Conditions](https://www.cincpro.com/terms-conditions) bill an advertising fee "comprised of ad spend and management fee" each month alongside the platform fees, and [TechRadar](https://www.techradar.com/reviews/cinc-crm) reports a mandatory minimum ad spend of about $500 a month. CINC does not publish its management fee, and clients who depend on the platform for their pipeline spend well above the minimum, so advertising is usually the largest and most variable part of the cost; [Luxury Presence](https://www.luxurypresence.com/blogs/cinc-pricing/) estimates a solo agent's realistic monthly outlay at $1,800 to $3,500 or more once advertising and add-ons are included.
 
+**Typical price: $11,988 per year** (Solo, one of 4 plans) · $999 a month
+
 | Plan | Monthly | Annual | What's included |
 | --- | --- | --- | --- |
-| Solo *(typical)* | $999 | $11,988 | 1 user |
-| Ramp | $1,299 | $15,588 | Up to 4 users |
-| Pro | $1,500 | $18,000 | Up to 49 users |
-| Select | — | Custom quote | 50+ users; custom quote |
+| Solo *(typical plan)* | $999 | **$11,988** | 1 user |
+| Ramp | $1,299 | **$15,588** | Up to 4 users |
+| Pro | $1,500 | **$18,000** | Up to 49 users |
+| Select | — | **Custom quote** | 50+ users; custom quote |
 
 | Add-on | Monthly | One-time |
 | --- | --- | --- |
@@ -427,7 +429,7 @@ This review uses single-user pricing for its calculations and comparisons. Solo 
 | [Google Business Profile](https://www.google.com/maps/place/?q=place_id:ChIJ1W3mZnMR9YgRAjGY5Sxfpj8) | 44 | 1 | 0 | 0 | 5 | **50** |
 | [Google Play](https://play.google.com/store/apps/details?id=com.commissionsinc.cincagent) | 15 | 4 | 8 | 6 | 17 | **50** |
 | [Trustpilot](https://www.trustpilot.com/review/cincpro.com) | 2 | 1 | 0 | 1 | 0 | **4** |
-| All sources | 144 | 33 | 21 | 18 | 43 | **259** |
+| All Sources | 144 | 33 | 21 | 18 | 43 | **259** |
 
 G2 (206 reviews), Capterra (249), Google Business Profile (537) and Google Play (242 ratings) were limited to their 50 most recent reviews; the Apple App Store row covers all 42 written reviews behind 804 ratings, and the most recent 50 Google Play reviews reach back to 2017. Capterra shares its reviews with GetApp and Software Advice, and Software Finder shows the same reviewers, dates, and wording, so all four count once as Capterra. The app-store rows rate the CINC Agent mobile app; Google Business Profile, BBB, and Trustpilot rate the company. The BBB row combines five customer reviews with eight complaints, rated by CINC's response: three that CINC resolved by releasing the client from the contract count as three stars, and five it answered without resolving count as two. Two other complaints, one meant for an auto lender and one from a non-customer, and one Google review from someone who thought CINC was a bank were left out. Resolved complaints and one G2 review whose problem CINC addressed are kept in the counts but left out of the complaint patterns. Three agents reviewed CINC on both G2 and Capterra, and one BBB customer filed the same text as a review and complaints; each person counts once in the patterns. CINC replied to 7 of the 50 G2 reviews, 9 of the 51 Google reviews and 4 of the 50 Google Play reviews studied, and to none on Capterra or Trustpilot; Apple's web pages show no developer replies. Google review dates are approximate, and G2 shows two reviews at zero stars, counted here as one star. Solicitation is heavy: 48 of the 50 G2 reviews came from sellers or G2 invitations, with 14 posted on one day in July 2025, and 46 of the 50 Capterra reviews were incentivized, 45 of them in February 2025. Gartner Peer Insights, Yelp, and PissedConsumer have no CINC listing; SourceForge has no reviews, and TrustRadius has ratings only.
 

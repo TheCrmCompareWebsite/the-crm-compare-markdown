@@ -21,19 +21,19 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/re
 
 # Zoho CRM Report
 
-*Updated November 15, 2026 · [Read this report on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/zoho-crm.html)*
+*Updated November 15, 2026 · [Read this report on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/zoho-crm.html)*
 
 ## Summary
 
 |  |  |
-| --- | --- |
+| ---: | --- |
 | Product | Zoho CRM |
 | Company | Zoho Corporation Pvt. Ltd. (privately held) |
 | Location | Chennai, Tamil Nadu, India |
 | Website | [zoho.com/crm](https://www.zoho.com/crm/) |
 | Price | $276 per year (Professional) |
-| Final score | **6.3/10** (#11 of 26 CRMs) |
-| Best fit | None ideal: a general business CRM without real estate tools |
+| Final Score | **6.3/10** (#11 of 26 CRMs) |
+| Best For | None ideal: a general business CRM without real estate tools |
 | Type | General business CRM |
 | Free trial | 15-day free trial (card not required) |
 | Features | 70 of 119 checklist points |
@@ -47,7 +47,7 @@ Zoho was founded in 1996 in Chennai, India, by Sridhar Vembu and Tony Thomas. Th
 
 Its appeal is a capable sales system at a price well below most rivals, which a business can reshape to fit its own way of working and later extend with Zoho's other applications, buying everything from one vendor.
 
-## Pros and cons
+## Pros and Cons
 
 **Pros**
 
@@ -77,7 +77,9 @@ Its appeal is a capable sales system at a price well below most rivals, which a 
 | [Terms of Service](#terms-of-service) | 9/10 | A free trial of up to 30 days with no card and monthly plans, though reviewers report charges after cancelling and refused refunds. |
 | [Support](#support) | 5.5/10 | Phone, chat, free onboarding and free data migration with every paid plan, but support is run from India and reviewers say help is slow and hard to reach. |
 | [Governance](#governance) | 6.8/10 | A strong privacy policy offsets a weak company score: BBB grade F, Indian headquarters, competing CRMs and negative founder news. |
-| **Total** | **6.3/10** | Average of the six categories |
+| **Final Score** | **6.3/10** | Average of the six categories |
+
+Category scores: Features 5.9 · Reviews 2 · Value 8.6 · Terms of Service 9 · Support 5.5 · Governance 6.8.
 
 > **How the final score was calculated:** The average of the six category scores:
 >
@@ -90,8 +92,6 @@ Its appeal is a capable sales system at a price well below most rivals, which a 
 > - Total: 37.8
 >
 > 37.8 ÷ 6 = **6.3**.
-
-Category scores: Features 5.9 · Reviews 2 · Value 8.6 · Terms of Service 9 · Support 5.5 · Governance 6.8.
 
 ## Fit
 
@@ -373,13 +373,15 @@ What sets Zoho CRM apart is how far it can be customized and integrated. Bluepri
 
 Zoho CRM publishes all of its prices. There is a free edition for up to three users and four paid editions, each priced per user and discounted when billed annually. We treat Professional, which Zoho marks as Most Popular, as the typical plan for a single agent.
 
+**Typical price: $276 per year** (Professional, one of 5 plans) · $35 a month
+
 | Plan | Monthly | Annual | What's included |
 | --- | --- | --- | --- |
-| Free | $0 | $0 | Up to 3 users and 5,000 records; basic contact, lead and deal management |
-| Standard | $20 | $168 ($14/month) | Pipelines, mass email, scoring rules, workflows and dashboards; about 100,000 records |
-| Professional *(typical)* | $35 | $276 ($23/month) | Adds Blueprint processes, Zia predictions and writing assistant, inventory, Google Ads integration and validation rules; about 5 million records |
-| Enterprise | $50 | $480 ($40/month) | Adds Email Parser, record sharing, territory management and advanced customization |
-| Ultimate | $65 | $624 ($52/month) | Adds advanced BI analytics and higher limits |
+| Free | $0 | **$0** | Up to 3 users and 5,000 records; basic contact, lead and deal management |
+| Standard | $20 | **$168 ($14/month)** | Pipelines, mass email, scoring rules, workflows and dashboards; about 100,000 records |
+| Professional *(typical plan)* | $35 | **$276 ($23/month)** | Adds Blueprint processes, Zia predictions and writing assistant, inventory, Google Ads integration and validation rules; about 5 million records |
+| Enterprise | $50 | **$480 ($40/month)** | Adds Email Parser, record sharing, territory management and advanced customization |
+| Ultimate | $65 | **$624 ($52/month)** | Adds advanced BI analytics and higher limits |
 
 | Add-on | Monthly | One-time |
 | --- | --- | --- |
@@ -424,7 +426,7 @@ This review uses single-user pricing. Adding an assistant adds one Professional 
 | [TrustRadius](https://www.trustradius.com/products/zoho-crm/reviews) | 20 | 25 | 4 | 0 | 1 | **50** |
 | [Trustpilot](https://www.trustpilot.com/review/www.zoho.com) | 28 | 1 | 1 | 3 | 17 | **50** |
 | [Yelp](https://www.yelp.com/biz/zoho-pleasanton) | 1 | 1 | 1 | 1 | 13 | **17** |
-| All sources | 234 | 109 | 42 | 48 | 118 | **551** |
+| All Sources | 234 | 109 | 42 | 48 | 118 | **551** |
 
 The table counts the 50 most recent reviews per site (Apple App Store, BBB, G2, Google Play and Trustpilot had more and were capped at 50). Capterra's reviews are shared with Software Advice and GetApp, and SourceForge's with Slashdot. Trustpilot's ratings cover Zoho's whole product family, not just Zoho CRM; Google Play and the Apple App Store rate the mobile app; and BBB, PissedConsumer, Google Business Profile and Yelp rate the company. The table includes 55 complaints (45 on BBB, 10 on PissedConsumer), scored by Zoho's reply: no reply is 1 star (19), a reply that did not resolve the issue is 2 stars (30), and a resolved complaint is 3 stars (6). We excluded 16 entries that were not customer reviews of the product, such as scams using Zoho's name, a business partner, reviews of other companies, and one Trustpilot review the site has since removed. Some reviews were solicited: 20 of the G2 reviews came through G2 invitations, mostly incentivized, 12 Capterra reviews carry an incentive badge, and 23 Trustpilot reviews were invited, mostly for Zoho Social. Google Business Profile dates are approximate, Software Finder shows months only, and one Software Finder review repeats a Capterra review word for word.
 

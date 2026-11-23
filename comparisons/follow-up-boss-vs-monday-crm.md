@@ -13,7 +13,7 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/co
 
 # Follow Up Boss vs monday CRM
 
-*Based on reports updated November 15, 2026 · ✓ marks the better value in each row · [See this comparison on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/compare/follow-up-boss-vs-monday-crm.html)*
+*Based on reports updated November 15, 2026 · ✓ marks the better value in each row · [See this comparison on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/compare/follow-up-boss-vs-monday-crm.html)*
 
 **Follow Up Boss** scores 6.5 to 5.2 and wins 5 of the 6 categories; monday CRM wins governance.
 

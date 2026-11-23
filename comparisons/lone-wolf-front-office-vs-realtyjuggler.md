@@ -13,7 +13,7 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/co
 
 # RealtyJuggler vs Lone Wolf Front Office
 
-*Based on reports updated November 15, 2026 · ✓ marks the better value in each row · [See this comparison on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/compare/lone-wolf-front-office-vs-realtyjuggler.html)*
+*Based on reports updated November 15, 2026 · ✓ marks the better value in each row · [See this comparison on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/compare/lone-wolf-front-office-vs-realtyjuggler.html)*
 
 **RealtyJuggler** scores 9.8 to 4.3 and wins 6 of the 6 categories.
 

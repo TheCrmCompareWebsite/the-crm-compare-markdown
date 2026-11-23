@@ -21,19 +21,19 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/re
 
 # Realvolve Report
 
-*Updated November 15, 2026 · [Read this report on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/realvolve.html)*
+*Updated November 15, 2026 · [Read this report on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/realvolve.html)*
 
 ## Summary
 
 |  |  |
-| --- | --- |
+| ---: | --- |
 | Product | Realvolve |
 | Company | Realvolve, Inc. |
 | Location | Greenwood Village, Colorado, United States |
 | Website | [realvolve.com](https://www.realvolve.com/) |
 | Price | $790 per year (Professional, billed annually) |
-| Final score | **6.3/10** (#10 of 26 CRMs) |
-| Best fit | Agent with an assistant; high-volume team |
+| Final Score | **6.3/10** (#10 of 26 CRMs) |
+| Best For | Agent with an assistant; high-volume team |
 | Type | Built for real estate |
 | Free trial | 14-day free trial (card not required) |
 | Features | 74.5 of 119 checklist points |
@@ -47,7 +47,7 @@ Dave Crumby, a former real estate agent and broker, founded the company in 2011 
 
 Its appeal is control. Rather than handing an agent a fixed routine, Realvolve lets an agent or a team decide in advance how each client type and each stage of a deal should be handled, then automatically carries out those steps. That approach attracts methodical agents and teams who want everyone to work the same way.
 
-## Pros and cons
+## Pros and Cons
 
 **Pros**
 
@@ -77,7 +77,9 @@ Its appeal is control. Rather than handing an agent a fixed routine, Realvolve l
 | [Terms of Service](#terms-of-service) | 8/10 | Published prices, a 14-day trial that can start without a credit card and monthly billing, offset by a disruptive move to new software and the right to close an account without cause or refund. |
 | [Support](#support) | 6/10 | Help comes only in writing, the terms withhold support until an account is paid, and setup and coaching cost extra. |
 | [Governance](#governance) | 7.8/10 | A founder-led company with a long history and an F grade from the BBB, paired with clear promises that an agent's contact lists stay the agent's and are never sold or shared. |
-| **Total** | **6.3/10** | Average of the six categories |
+| **Final Score** | **6.3/10** | Average of the six categories |
+
+Category scores: Features 6.3 · Reviews 3 · Value 6.5 · Terms of Service 8 · Support 6 · Governance 7.8.
 
 > **How the final score was calculated:** The average of the six category scores:
 >
@@ -90,8 +92,6 @@ Its appeal is control. Rather than handing an agent a fixed routine, Realvolve l
 > - Total: 37.6
 >
 > 37.6 ÷ 6 = 6.27, rounded to **6.3**.
-
-Category scores: Features 6.3 · Reviews 3 · Value 6.5 · Terms of Service 8 · Support 6 · Governance 7.8.
 
 ## Fit
 
@@ -374,10 +374,12 @@ Lead intake is the clearest gap for agents who buy leads. Realvolve documents re
 
 Realvolve's typical plan is Professional, priced at $79 per month or $790 per year when billed annually. Since the company redesigned its [website](https://www.realvolve.com/), it lists both plans and its one-time Smart Launch setup fees on the home page. The cheaper Essential plan costs $49 per month or $490 per year but omits several of Professional's features.
 
+**Typical price: $790 per year** (Professional, one of 2 plans) · $79 a month
+
 | Plan | Monthly | Annual | What's included |
 | --- | --- | --- | --- |
-| Essential | $49 | $490 | One user; fewer features than Professional; $99 Smart Launch fee |
-| Professional *(typical)* | $79 | $790 | One user; all features; $199 Smart Launch fee; $948 a year if billed monthly |
+| Essential | $49 | **$490** | One user; fewer features than Professional; $99 Smart Launch fee |
+| Professional *(typical plan)* | $79 | **$790** | One user; all features; $199 Smart Launch fee; $948 a year if billed monthly |
 
 | Add-on | Monthly | One-time |
 | --- | --- | --- |
@@ -414,7 +416,7 @@ This review compares single-user pricing. Realvolve does not publish pricing for
 | [Capterra](https://www.capterra.com/p/151889/Realvolve/reviews/) | 29 | 11 | 2 | 1 | 4 | **47** |
 | [G2](https://www.g2.com/products/realvolve/reviews) | 7 | 7 | 2 | 1 | 2 | **19** |
 | [Google Business Profile](https://maps.google.com/?cid=10898696980519889416) | 32 | 2 | 0 | 0 | 16 | **50** |
-| All sources | 68 | 20 | 4 | 3 | 25 | **120** |
+| All Sources | 68 | 20 | 4 | 3 | 25 | **120** |
 
 The table counts the 120 reviews studied. Capterra shares its reviews with Software Advice and GetApp, so they are counted once under Capterra, and the four Software Finder reviews repeat G2's reviewers, dates, and ratings, so they are counted once under G2. Google Business Profile rates Realvolve, Inc. as a company rather than the product alone, shows only approximate dates, and holds 64 reviews; the 50 most recent were used. Two one-star Google reviews collected earlier have since been removed from the site and were left out; a few other Google reviews concern Firepoint, the sister CRM the company sold in 2024. The four BBB complaints from 2024 count as reviews: three went unanswered and count as one star, and one was answered without being resolved and counts as two stars. One customer who reviewed on both Capterra and Google was counted once in the analysis. Eight five-star Google reviews were posted within a few weeks in mid-2026, each from an account with one or two reviews, and 17 of the 19 G2 reviews, which G2 marks as incentivized or invited, suggest solicited reviews. TrustRadius, Trustpilot, SourceForge and PissedConsumer list Realvolve with no reviews; Yelp, Gartner Peer Insights and the app stores have no listing; and the only Reddit discussion found is more than two years old.
 

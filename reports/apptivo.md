@@ -21,19 +21,19 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/re
 
 # Apptivo Report
 
-*Updated November 15, 2026 · [Read this report on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/apptivo.html)*
+*Updated November 15, 2026 · [Read this report on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/apptivo.html)*
 
 ## Summary
 
 |  |  |
-| --- | --- |
+| ---: | --- |
 | Product | Apptivo CRM (part of the Apptivo suite of business apps) |
 | Company | Apptivo Inc. (privately held) |
 | Location | Plano, Texas, United States |
 | Website | [apptivo.com](https://www.apptivo.com) |
 | Price | $480 per year (Ultimate) |
-| Final score | **7.7/10** (#3 of 26 CRMs) |
-| Best fit | None ideal: a general business CRM, not built for real estate |
+| Final Score | **7.7/10** (#3 of 26 CRMs) |
+| Best For | None ideal: a general business CRM, not built for real estate |
 | Type | General business CRM |
 | Free trial | 14-day free trial (card not required) |
 | Features | 63.5 of 119 checklist points |
@@ -47,7 +47,7 @@ The company has sold Apptivo since 2009 and remains privately held. Its founder,
 
 Apptivo's appeal is its breadth of features at a modest per-user price. Businesses can tailor the system to their way of working without hiring a programmer.
 
-## Pros and cons
+## Pros and Cons
 
 **Pros**
 
@@ -77,7 +77,9 @@ Apptivo's appeal is its breadth of features at a modest per-user price. Business
 | [Terms of Service](#terms-of-service) | 10/10 | A free trial without a credit card, month-to-month plans and cancellation at any time, with only a crowded plan lineup against it. |
 | [Support](#support) | 7.5/10 | Phone, chat and email help on every plan, with onboarding and training at extra cost, delivered largely from India. |
 | [Governance](#governance) | 9/10 | An established, founder-led company whose documents keep client data the customer's, limit Apptivo to processing it on the customer's instructions, and allow it to be deleted or returned. |
-| **Total** | **7.7/10** | Average of the six categories |
+| **Final Score** | **7.7/10** | Average of the six categories |
+
+Category scores: Features 5.3 · Reviews 7 · Value 7.2 · Terms of Service 10 · Support 7.5 · Governance 9.
 
 > **How the final score was calculated:** The average of the six category scores:
 >
@@ -90,8 +92,6 @@ Apptivo's appeal is its breadth of features at a modest per-user price. Business
 > - Total: 46
 >
 > 46 ÷ 6 = 7.67, rounded to **7.7**.
-
-Category scores: Features 5.3 · Reviews 7 · Value 7.2 · Terms of Service 10 · Support 7.5 · Governance 9.
 
 ## Fit
 
@@ -373,12 +373,14 @@ A few capabilities cost extra or require external accounts. Electronic signature
 
 Apptivo publishes per-user prices for three of its four plans and discounts each by $5 to $10 per month for annual billing; Enterprise is priced on request. The typical plan is Ultimate at **$480 per year**.
 
+**Typical price: $480 per year** (Ultimate, one of 4 plans) · $50 per user a month
+
 | Plan | Monthly | Annual | What's included |
 | --- | --- | --- | --- |
-| Lite | $20 per user | $180 per user ($15 a month billed annually) | 18 apps, 25 automation rules, two-way email and calendar sync, web forms, webhooks and API |
-| Premium | $30 per user | $300 per user ($25 a month billed annually) | 46 apps, 75 automation rules, email campaigns, lead routing, Google contact sync |
-| Ultimate *(typical)* | $50 per user | $480 per user ($40 a month billed annually) | 57 apps, 150 automation rules, email sequences, texting and calling, Properties app, data sets |
-| Enterprise | — | Custom quote | Price on request; 65 apps, service-level agreement, account manager, white labeling |
+| Lite | $20 per user | **$180 per user ($15 a month billed annually)** | 18 apps, 25 automation rules, two-way email and calendar sync, web forms, webhooks and API |
+| Premium | $30 per user | **$300 per user ($25 a month billed annually)** | 46 apps, 75 automation rules, email campaigns, lead routing, Google contact sync |
+| Ultimate *(typical plan)* | $50 per user | **$480 per user ($40 a month billed annually)** | 57 apps, 150 automation rules, email sequences, texting and calling, Properties app, data sets |
+| Enterprise | — | **Custom quote** | Price on request; 65 apps, service-level agreement, account manager, white labeling |
 
 | Add-on | Monthly | One-time |
 | --- | --- | --- |
@@ -419,7 +421,7 @@ This review covers a single user. Adding an assistant costs an additional $40 pe
 | [TrustRadius](https://www.trustradius.com/products/apptivo/reviews) | 2 | 1 | 0 | 1 | 0 | **4** |
 | [Google Business Profile](https://www.google.com/maps/place/?q=place_id:ChIJn6oaij_PADsRrvLX6fFTTqo) | 1 | 0 | 1 | 0 | 1 | **3** |
 | [Yelp](https://www.yelp.com/biz/apptivo-fremont-3) | 0 | 1 | 0 | 0 | 0 | **1** |
-| All sources | 111 | 77 | 14 | 8 | 17 | **227** |
+| All Sources | 111 | 77 | 14 | 8 | 17 | **227** |
 
 The table counts the 50 most recent reviews from G2, Software Advice, Gartner Peer Insights and Google Play, and every written review found on the Apple App Store (12), Trustpilot (7), TrustRadius (4 written reviews among 8 ratings), Google Business Profile (3) and Yelp (1). Software Advice, Capterra, GetApp and Software Finder show the same reviews, so they are counted once; the pool was read on Software Advice because Capterra's own list would not load. The Google Business Profile row combines Apptivo's Fremont, California listing (1 review) with the 2 reviews on its Madurai, India office listing that come from customers; that office's other 122 entries are star ratings without text or come from staff, job applicants, or visitors and were left out, as were 3 star-only ratings on a closed Chennai listing, and dates on the Madurai listing are approximate. TrustRadius ratings were converted from a 10-point scale, and the app-store ratings cover only the mobile apps. Two entries that describe other products were also left out (one in the Capterra pool, one on Google Play). Apptivo has not answered reviews on most sites since 2019; four complaints whose replies show the problem was fixed (three on Google Play, one on Google Business Profile) were kept in the chart but not counted toward negative patterns. Signs of solicited reviews are common: 22 of the 50 Software Advice reviews are marked incentivized or vendor-referred, 9 G2 reviews came through G2 invitations, 24 of the 50 Gartner reviews (mostly from 2019 and 2020) are typed with look-alike Cyrillic letters, which suggests templated submissions, and four five-star Google Play reviews arrived within a week in September 2021. Review dates run from 2015 to October 2026. BBB, SourceForge, and PissedConsumer list Apptivo but show no reviews or complaints. One Reddit discussion in r/CRMSoftware was also reviewed; it includes no ratings and offers no recent customer opinion.
 

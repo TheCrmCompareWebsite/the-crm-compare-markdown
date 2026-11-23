@@ -21,19 +21,19 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/re
 
 # Real Geeks Report
 
-*Updated November 15, 2026 · [Read this report on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/real-geeks.html)*
+*Updated November 15, 2026 · [Read this report on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/reviews/real-geeks.html)*
 
 ## Summary
 
 |  |  |
-| --- | --- |
+| ---: | --- |
 | Product | Real Geeks Platform (IDX website, CRM and marketing tools) |
 | Company | Real Geeks LLC, a subsidiary of Fidelity National Financial (NYSE: FNF) |
 | Location | Dallas, Texas, United States |
 | Website | [realgeeks.com](https://www.realgeeks.com/) |
 | Price | $3,990 per year (Real Geeks Platform, billed annually) |
-| Final score | **5.6/10** (#14 of 26 CRMs) |
-| Best fit | High-volume teams |
+| Final Score | **5.6/10** (#14 of 26 CRMs) |
+| Best For | High-volume teams |
 | Type | Built for real estate |
 | Free trial | No free trial |
 | Features | 74.5 of 119 checklist points |
@@ -47,7 +47,7 @@ The business started in Hawaii in 2007, when Kevin McCarthy, a working agent and
 
 Its pitch is that one company takes responsibility for the entire path from attracting a prospect to following up, so an agent does not have to piece together a website, an advertising service, and a separate CRM from different vendors. Each new client is set up by a personal advisor, and the company highlights its US-based support team as a central reason to choose it.
 
-## Pros and cons
+## Pros and Cons
 
 **Pros**
 
@@ -77,7 +77,9 @@ Its pitch is that one company takes responsibility for the entire path from attr
 | [Terms of Service](#terms-of-service) | 3.5/10 | There is no free trial, the shortest commitment is six months, and the company can end an account for any reason without refunding fees. |
 | [Support](#support) | 10/10 | US-based phone support, a personal onboarding advisor, one-on-one training and help moving data are all part of the plan. |
 | [Governance](#governance) | 4/10 | An established, accredited company whose parent sells title and mortgage services and a competing CRM, and whose website privacy policy lets it share agents' leads with business partners. |
-| **Total** | **5.6/10** | Average of the six categories |
+| **Final Score** | **5.6/10** | Average of the six categories |
+
+Category scores: Features 6.3 · Reviews 7 · Value 3 · Terms of Service 3.5 · Support 10 · Governance 4.
 
 > **How the final score was calculated:** The average of the six category scores:
 >
@@ -90,8 +92,6 @@ Its pitch is that one company takes responsibility for the entire path from attr
 > - Total: 33.8
 >
 > 33.8 ÷ 6 = 5.63, rounded to **5.6**.
-
-Category scores: Features 6.3 · Reviews 7 · Value 3 · Terms of Service 3.5 · Support 10 · Governance 4.
 
 ## Fit
 
@@ -384,9 +384,11 @@ Other gaps can be closed only with outside services or the agent's own setup, wh
 
 Real Geeks sells a single plan, the Real Geeks Platform, for $399 a month with a 12-month commitment, $599 a month with a 6-month commitment, or $3,990 paid once a year, as shown on its [pricing page](https://www.realgeeks.com/real-geeks-pricing). There is no month-to-month option. The plan includes two users, the website, the CRM, the marketing tools, training, and support. A one-time $500 setup fee applies to every new account. Lead packages, an AI texting assistant, and MLS feeds are sold separately.
 
+**Typical price: $3,990 per year** (Real Geeks Platform, the only plan) · $399.00 per month (12-month term; $599 on a 6-month term) a month
+
 | Plan | Monthly | Annual | What's included |
 | --- | --- | --- | --- |
-| Real Geeks Platform *(typical)* | $399.00 per month (12-month term; $599 on a 6-month term) | $3,990 billed annually | Two users, IDX website with branded search app, CRM and mobile app, marketing studio, training and US-based support |
+| Real Geeks Platform *(typical plan)* | $399.00 per month (12-month term; $599 on a 6-month term) | **$3,990 billed annually** | Two users, IDX website with branded search app, CRM and mobile app, marketing studio, training and US-based support |
 
 | Add-on | Monthly | One-time |
 | --- | --- | --- |
@@ -428,7 +430,7 @@ This review uses single-user pricing for most calculations and comparisons. Beca
 | [Apple App Store](https://apps.apple.com/us/app/real-geeks/id1549138304?see-all=reviews) | 7 | 0 | 0 | 0 | 0 | **7** |
 | [PissedConsumer](https://www.pissedconsumer.com/real-geeks/RT-F.html) | 0 | 0 | 0 | 0 | 4 | **4** |
 | [Capterra](https://www.capterra.com/p/222439/Real-Geeks/reviews/) | 1 | 0 | 0 | 0 | 1 | **2** |
-| All sources | 136 | 5 | 9 | 12 | 17 | **179** |
+| All Sources | 136 | 5 | 9 | 12 | 17 | **179** |
 
 G2 (109 reviews) and Google Business Profile (776) were limited to their 50 most recent reviews; the other sites were read in full. Capterra stands for its pool with Software Advice and GetApp. Software Finder's 13 reviews are reworded copies of the same reviewers' G2 and BBB reviews, so they were treated as part of those sources and not counted again. Google Business Profile rates the company as a whole, and the two app stores rate the agent mobile app; Google shows only approximate dates, so four of its review dates are estimates. G2 allows a rating of zero; its two zero-star reviews are counted as one star. The BBB row includes 17 complaints and the PissedConsumer row 4 complaints, which carry no star rating and were rated by the company's response: one star when unanswered (three BBB complaints and all four on PissedConsumer), two stars when answered without resolving the problem (nine) and three stars when resolved (five). Five people posted the same review on two sites (four on G2 and BBB, one on G2 and Capterra); each appears in the table under both sites but counts once in the analysis. Five BBB complaints that the company resolved, and one app review whose problem it fixed, are left out of the complaint patterns. Eight reviews collected earlier are no longer shown and were left out: seven five-star Google reviews from October 2026 and one 2023 BBB review. There are signs of solicited reviews: G2 marks two as incentivized, 34 of its 50 most recent were posted between February and October 2023, and most of the 50 newest Google reviews praise a named onboarding or support representative. Ten Reddit posts and comments from the past two years (from four threads; one person's comment appears in two threads and counts once) carry no star rating and are used only in the written analysis; a competitor's comment and a marketing agency's comment were left out.
 
@@ -609,7 +611,6 @@ As a CRM alone, RealGeeks is poor value, priced near the top of the market for a
 - [Real Geeks vs RealtyJuggler](../comparisons/real-geeks-vs-realtyjuggler.md)
 - [Real Geeks vs Wise Agent](../comparisons/real-geeks-vs-wise-agent.md)
 - [Real Geeks vs IXACT Contact](../comparisons/ixact-contact-vs-real-geeks.md)
-- [Real Geeks vs PropertyBase Salesforce Edition](../comparisons/propertybase-salesforce-edition-vs-real-geeks.md)
 
 ## Frequently asked questions
 

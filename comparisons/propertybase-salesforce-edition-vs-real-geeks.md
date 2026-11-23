@@ -13,7 +13,7 @@ website_page: "https://thecrmcomparewebsite.github.io/the-crm-compare-website/co
 
 # Real Geeks vs PropertyBase Salesforce Edition
 
-*Based on reports updated November 15, 2026 · ✓ marks the better value in each row · [See this comparison on The CRM Compare Website](https://thecrmcomparewebsite.github.io/the-crm-compare-website/compare/propertybase-salesforce-edition-vs-real-geeks.html)*
+*Based on reports updated November 15, 2026 · ✓ marks the better value in each row · [See this comparison on CRM Compare](https://thecrmcomparewebsite.github.io/the-crm-compare-website/compare/propertybase-salesforce-edition-vs-real-geeks.html)*
 
 **Real Geeks** scores 5.6 to 4.6 and wins 5 of the 6 categories; PropertyBase Salesforce Edition wins governance.
 
